@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="1072005.img"><imgdir name="info"><string name="name" value="魔法使い転職教官"/><string name="quest" value="inside_magician"/><imgdir name="speak"><string name="0" value="魔法使いの2次職へ転職したいのか？　それならばまずはエリニアの‘ハインズ’様をたずねてみなさい。"/><string name="1" value="私の試験をパスした者のみが、魔法使いの2次職へと転職ができる。"/></imgdir></imgdir><imgdir name="stand"><canvas name="0" width="67" height="87"><vector name="origin" x="33" y="87"/></canvas></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1072005.img">
+    <imgdir name="info">
+        <string name="name" value="魔法使い転職教官"/>
+        <string name="quest" value="inside_magician"/>
+        <imgdir name="speak">
+            <string name="0" value="魔法使いの2次職へ転職したいのか？　それならばまずはエリニアの‘ハインズ’様をたずねてみなさい。"/>
+            <string name="1" value="私の試験をパスした者のみが、魔法使いの2次職へと転職ができる。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="67" height="87">
+            <vector name="origin" x="33" y="87"/>
+        </canvas>
+    </imgdir>
+</imgdir>

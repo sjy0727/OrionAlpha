@@ -1,1 +1,577 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="0403.img"><imgdir name="04030000"><imgdir name="info"><canvas name="icon" width="26" height="24"><vector name="origin" x="-4" y="24"/></canvas><canvas name="iconRaw" width="23" height="17"><vector name="origin" x="-5" y="24"/></canvas><string name="name" value="黒の碁石"/><int name="price" value="1"/><string name="desc" value="まっ黒の小さな石。"/></imgdir></imgdir><imgdir name="04030001"><imgdir name="info"><canvas name="icon" width="26" height="24"><vector name="origin" x="-4" y="24"/></canvas><canvas name="iconRaw" width="23" height="17"><vector name="origin" x="-5" y="24"/></canvas><string name="name" value="白の碁石"/><int name="price" value="1"/><string name="desc" value="真っ白の小さな石。"/></imgdir></imgdir><imgdir name="04030002"><imgdir name="info"><canvas name="icon" width="26" height="22"><vector name="origin" x="-4" y="22"/></canvas><canvas name="iconRaw" width="16" height="14"><vector name="origin" x="-9" y="22"/></canvas><string name="name" value="変わった形のかけら"/><int name="price" value="1"/><string name="desc" value="変わった形のかけら。"/></imgdir></imgdir><imgdir name="04030003"><imgdir name="info"><canvas name="icon" width="26" height="29"><vector name="origin" x="-4" y="29"/></canvas><canvas name="iconRaw" width="10" height="26"><vector name="origin" x="-12" y="29"/></canvas><string name="name" value="変わった形のかけら"/><int name="price" value="1"/><string name="desc" value="変わった形のかけら。"/></imgdir></imgdir><imgdir name="04030004"><imgdir name="info"><canvas name="icon" width="26" height="26"><vector name="origin" x="-4" y="26"/></canvas><canvas name="iconRaw" width="16" height="20"><vector name="origin" x="-9" y="26"/></canvas><string name="name" value="変わった形のかけら"/><int name="price" value="1"/><string name="desc" value="変わった形のかけら。"/></imgdir></imgdir><imgdir name="04030005"><imgdir name="info"><canvas name="icon" width="26" height="23"><vector name="origin" x="-4" y="23"/></canvas><canvas name="iconRaw" width="22" height="14"><vector name="origin" x="-5" y="23"/></canvas><string name="name" value="変わった形のかけら"/><int name="price" value="1"/><string name="desc" value="変わった形のかけら。"/></imgdir></imgdir><imgdir name="04030006"><imgdir name="info"><canvas name="icon" width="26" height="23"><vector name="origin" x="-4" y="23"/></canvas><canvas name="iconRaw" width="22" height="14"><vector name="origin" x="-6" y="23"/></canvas><string name="name" value="変わった形のかけら"/><int name="price" value="1"/><string name="desc" value="変わった形のかけら。"/></imgdir></imgdir><imgdir name="04030007"><imgdir name="info"><canvas name="icon" width="26" height="23"><vector name="origin" x="-4" y="23"/></canvas><canvas name="iconRaw" width="22" height="14"><vector name="origin" x="-6" y="23"/></canvas><string name="name" value="変わった形のかけら"/><int name="price" value="1"/><string name="desc" value="変わった形のかけら。"/></imgdir></imgdir><imgdir name="04030008"><imgdir name="info"><canvas name="icon" width="26" height="25"><vector name="origin" x="-4" y="25"/></canvas><canvas name="iconRaw" width="16" height="20"><vector name="origin" x="-9" y="25"/></canvas><string name="name" value="変わった形のかけら"/><int name="price" value="1"/><string name="desc" value="変わった形のかけら。"/></imgdir></imgdir><imgdir name="04030009"><imgdir name="info"><canvas name="icon" width="29" height="22"><vector name="origin" x="-2" y="22"/></canvas><canvas name="iconRaw" width="29" height="16"><vector name="origin" x="-2" y="22"/></canvas><string name="name" value="碁盤"/><int name="price" value="1"/><string name="desc" value="碁を打つことができる板。"/></imgdir></imgdir><imgdir name="04031000"><imgdir name="info"><canvas name="icon" width="29" height="31"><vector name="origin" x="-2" y="31"/></canvas><canvas name="iconRaw" width="29" height="29"><vector name="origin" x="-2" y="31"/></canvas><string name="name" value="マリアの手紙"/><int name="price" value="1"/><string name="desc" value="マリアからもらった手紙。アムホストのルーカスに渡す。"/></imgdir></imgdir><imgdir name="04031001"><imgdir name="info"><canvas name="icon" width="29" height="31"><vector name="origin" x="-2" y="31"/></canvas><canvas name="iconRaw" width="29" height="29"><vector name="origin" x="-2" y="31"/></canvas><string name="name" value="ルーカスの手紙"/><int name="price" value="1"/><string name="desc" value="ルーカスからもらった手紙。キノコ村のマリアに渡す。"/></imgdir></imgdir><imgdir name="04031002"><imgdir name="info"><canvas name="icon" width="32" height="30"><vector name="origin" x="0" y="30"/></canvas><canvas name="iconRaw" width="32" height="28"><vector name="origin" x="0" y="30"/></canvas><string name="name" value="ルーカスの金時計"/><int name="price" value="1"/><string name="desc" value="黄金で作られたルーカスの金時計。"/></imgdir></imgdir><imgdir name="04031003"><imgdir name="info"><canvas name="icon" width="32" height="29"><vector name="origin" x="0" y="29"/></canvas><canvas name="iconRaw" width="32" height="26"><vector name="origin" x="0" y="29"/></canvas><string name="name" value="セーラの鏡"/><int name="price" value="1"/><string name="desc" value="きれいな飾りがあるセーラの鏡。"/></imgdir></imgdir><imgdir name="04031004"><imgdir name="info"><canvas name="icon" width="26" height="26"><vector name="origin" x="-4" y="27"/></canvas><canvas name="iconRaw" width="15" height="20"><vector name="origin" x="-9" y="27"/></canvas><string name="name" value="きらめく石"/><int name="price" value="1"/><string name="desc" value="発光してきらめく石。"/></imgdir></imgdir><imgdir name="04031005"><imgdir name="info"><canvas name="icon" width="32" height="32"><vector name="origin" x="0" y="32"/></canvas><canvas name="iconRaw" width="32" height="31"><vector name="origin" x="0" y="32"/></canvas><string name="name" value="アルコンの血"/><int name="price" value="1"/><string name="desc" value="アルコンの血が入っているビン。"/></imgdir></imgdir><imgdir name="04031006"><imgdir name="info"><canvas name="icon" width="32" height="32"><vector name="origin" x="0" y="32"/></canvas><canvas name="iconRaw" width="32" height="31"><vector name="origin" x="0" y="32"/></canvas><string name="name" value="謎の薬"/><int name="price" value="1"/><string name="desc" value="どんな力があるのかわからない謎の薬。"/></imgdir></imgdir><imgdir name="04031007"><imgdir name="info"><canvas name="icon" width="32" height="30"><vector name="origin" x="0" y="30"/></canvas><canvas name="iconRaw" width="32" height="28"><vector name="origin" x="0" y="30"/></canvas><string name="name" value="古い金時計"/><int name="price" value="1"/><string name="desc" value="黄金で作られた古い金時計。アレックスのお母さんの遺品。"/></imgdir></imgdir><imgdir name="04031008"><imgdir name="info"><canvas name="icon" width="29" height="31"><vector name="origin" x="-2" y="31"/></canvas><canvas name="iconRaw" width="29" height="29"><vector name="origin" x="-2" y="31"/></canvas><string name="name" value="コブシを開いて立ての手紙"/><int name="price" value="1"/><string name="desc" value="ペリオンの&apos;コブシを開いて立て&apos;からもらった手紙。高原のどこかにいる&apos;戦士試験教官&apos;に見せる。"/></imgdir></imgdir><imgdir name="04031009"><imgdir name="info"><canvas name="icon" width="29" height="31"><vector name="origin" x="-2" y="31"/></canvas><canvas name="iconRaw" width="29" height="29"><vector name="origin" x="-2" y="31"/></canvas><string name="name" value="&apos;ハインズ&apos;の手紙"/><int name="price" value="1"/><string name="desc" value="エリニアの&apos;ハインズ&apos;からもらった手紙。森のどこかにいる&apos;魔法使い試験教官&apos;に見せる。"/></imgdir></imgdir><imgdir name="04031010"><imgdir name="info"><canvas name="icon" width="29" height="31"><vector name="origin" x="-2" y="31"/></canvas><canvas name="iconRaw" width="29" height="29"><vector name="origin" x="-2" y="31"/></canvas><string name="name" value="&apos;ヘレナ&apos;の手紙"/><int name="price" value="1"/><string name="desc" value="ヘネシスの&apos;ヘレナ&apos;からもらった手紙。ダンジョンのどこかにいる&apos;弓使い試験教官&apos;に見せる。"/></imgdir></imgdir><imgdir name="04031011"><imgdir name="info"><canvas name="icon" width="29" height="31"><vector name="origin" x="-2" y="31"/></canvas><canvas name="iconRaw" width="29" height="29"><vector name="origin" x="-2" y="31"/></canvas><string name="name" value="&apos;ダークロード&apos;の手紙"/><int name="price" value="1"/><string name="desc" value="カニングシティーの&apos;ダークロード&apos;からもらった手紙。都市のどこかにいる&apos;盗賊試験教官&apos;に見せる。"/></imgdir></imgdir><imgdir name="04031012"><imgdir name="info"><canvas name="icon" width="26" height="32"><vector name="origin" x="-4" y="32"/></canvas><canvas name="iconRaw" width="24" height="31"><vector name="origin" x="-4" y="32"/></canvas><string name="name" value="英雄の証"/><int name="price" value="1"/><string name="desc" value="2次転職試験に合格して教官から貰った英雄の証となる品。持っていれば英雄として認められるようになる。"/></imgdir></imgdir><imgdir name="04031013"><imgdir name="info"><canvas name="icon" width="26" height="26"><vector name="origin" x="-4" y="26"/></canvas><canvas name="iconRaw" width="20" height="20"><vector name="origin" x="-6" y="26"/></canvas><string name="name" value="黒い玉"/><int name="price" value="1"/><string name="desc" value="モンスターの魂が込められた神秘の玉。"/></imgdir></imgdir><imgdir name="04031014"><imgdir name="info"><canvas name="icon" width="31" height="22"><vector name="origin" x="-1" y="22"/></canvas><canvas name="iconRaw" width="31" height="17"><vector name="origin" x="-1" y="22"/></canvas><string name="name" value="リナの特製ウナギ焼"/><int name="price" value="550"/><string name="desc" value="カズアイのしっぽと豚の頭が添えられたリナの特製ウナギ焼。ロニに持っていく。"/></imgdir></imgdir><imgdir name="04031015"><imgdir name="info"><canvas name="icon" width="27" height="30"><vector name="origin" x="-3" y="30"/></canvas><canvas name="iconRaw" width="27" height="27"><vector name="origin" x="-3" y="30"/></canvas><string name="name" value="新鮮な牛乳"/><int name="price" value="500"/><string name="desc" value="妖精族からもらった新鮮な牛乳。ロニに持っていく。"/></imgdir></imgdir><imgdir name="04031016"><imgdir name="info"><canvas name="icon" width="29" height="30"><vector name="origin" x="-1" y="30"/></canvas><canvas name="iconRaw" width="29" height="28"><vector name="origin" x="-1" y="30"/></canvas><string name="name" value="秘密の本"/><int name="price" value="150"/><string name="desc" value="どんな内容が書かれているのか分からない本。"/></imgdir></imgdir><imgdir name="04031017"><imgdir name="info"><canvas name="icon" width="29" height="30"><vector name="origin" x="-1" y="30"/></canvas><canvas name="iconRaw" width="29" height="28"><vector name="origin" x="-1" y="30"/></canvas><string name="name" value="マジックボックス"/><int name="price" value="1"/><string name="desc" value="堅い魔法の錠で封印されている箱、中には宝物が入っているといわれている"/></imgdir></imgdir><imgdir name="04031018"><imgdir name="info"><canvas name="icon" width="29" height="30"><vector name="origin" x="-1" y="30"/></canvas><canvas name="iconRaw" width="29" height="28"><vector name="origin" x="-1" y="30"/></canvas><string name="name" value="宝の地図"/><int name="price" value="1"/><string name="desc" value="宝があるところを示している地図"/></imgdir></imgdir><imgdir name="04031019"><imgdir name="info"><canvas name="icon" width="29" height="30"><vector name="origin" x="-1" y="30"/></canvas><canvas name="iconRaw" width="29" height="28"><vector name="origin" x="-1" y="30"/></canvas><string name="name" value="悪魔の文書"/><int name="price" value="1"/><string name="desc" value="悪魔の秘密が書かれている文書、古代文字で書かれている"/></imgdir></imgdir><imgdir name="04031020"><imgdir name="info"><canvas name="icon" width="32" height="32"><vector name="origin" x="0" y="32"/></canvas><canvas name="iconRaw" width="32" height="31"><vector name="origin" x="0" y="32"/></canvas><string name="name" value="ピンクのアンシリウム"/><int name="price" value="1000"/><string name="desc" value="神秘な光を光る桃色の小さい花のやま"/></imgdir></imgdir><imgdir name="04031021"><imgdir name="info"><canvas name="icon" width="32" height="32"><vector name="origin" x="0" y="32"/></canvas><canvas name="iconRaw" width="32" height="31"><vector name="origin" x="0" y="32"/></canvas><string name="name" value="オレンジのアンシリウム"/><int name="price" value="1000"/><string name="desc" value="神秘な光を光る樺色の小さい花のやま"/></imgdir></imgdir><imgdir name="04031022"><imgdir name="info"><canvas name="icon" width="32" height="32"><vector name="origin" x="0" y="32"/></canvas><canvas name="iconRaw" width="32" height="31"><vector name="origin" x="0" y="32"/></canvas><string name="name" value="ブルーアンシリウム"/><int name="price" value="1000"/><string name="desc" value="神秘な光を光る青色の小さい花のやま"/></imgdir></imgdir><imgdir name="04031023"><imgdir name="info"><canvas name="icon" width="32" height="32"><vector name="origin" x="0" y="32"/></canvas><canvas name="iconRaw" width="32" height="31"><vector name="origin" x="0" y="32"/></canvas><string name="name" value="イエローアンシリウム"/><int name="price" value="1000"/><string name="desc" value="神秘な光を光る黄色の小さい花のやま"/></imgdir></imgdir><imgdir name="04031024"><imgdir name="info"><canvas name="icon" width="29" height="32"><vector name="origin" x="-2" y="32"/></canvas><canvas name="iconRaw" width="29" height="32"><vector name="origin" x="-2" y="32"/></canvas><string name="name" value="パープルビオラ"/><int name="price" value="1000"/><string name="desc" value="大きいつぼみが印象的な紫色の花"/></imgdir></imgdir><imgdir name="04031025"><imgdir name="info"><canvas name="icon" width="29" height="32"><vector name="origin" x="-2" y="32"/></canvas><canvas name="iconRaw" width="29" height="32"><vector name="origin" x="-2" y="32"/></canvas><string name="name" value="ピンクビオラ"/><int name="price" value="1000"/><string name="desc" value="大きいつぼみが印象的な桃色の花"/></imgdir></imgdir><imgdir name="04031026"><imgdir name="info"><canvas name="icon" width="29" height="32"><vector name="origin" x="-2" y="32"/></canvas><canvas name="iconRaw" width="29" height="32"><vector name="origin" x="-2" y="32"/></canvas><string name="name" value="ブルービオラ"/><int name="price" value="1000"/><string name="desc" value="大きいつぼみが印象的な青色の花"/></imgdir></imgdir><imgdir name="04031027"><imgdir name="info"><canvas name="icon" width="29" height="32"><vector name="origin" x="-2" y="32"/></canvas><canvas name="iconRaw" width="29" height="32"><vector name="origin" x="-2" y="32"/></canvas><string name="name" value="オレンジビオラ"/><int name="price" value="1000"/><string name="desc" value="大きいつぼみが印象的な桃色の花"/></imgdir></imgdir><imgdir name="04031028"><imgdir name="info"><canvas name="icon" width="29" height="32"><vector name="origin" x="-2" y="32"/></canvas><canvas name="iconRaw" width="29" height="32"><vector name="origin" x="-2" y="32"/></canvas><string name="name" value="ホワイトビオラ"/><int name="price" value="1000"/><string name="desc" value="大きいつぼみが印象的な白色の花"/></imgdir></imgdir><imgdir name="04031029"><imgdir name="info"><canvas name="icon" width="28" height="30"><vector name="origin" x="-2" y="30"/></canvas><canvas name="iconRaw" width="27" height="28"><vector name="origin" x="-2" y="30"/></canvas><string name="name" value="１個の根を持つ高麗人参"/><int name="price" value="2000"/><string name="desc" value="１個の根を持っている貴重な薬草"/></imgdir></imgdir><imgdir name="04031030"><imgdir name="info"><canvas name="icon" width="29" height="31"><vector name="origin" x="-1" y="31"/></canvas><canvas name="iconRaw" width="29" height="30"><vector name="origin" x="-1" y="31"/></canvas><string name="name" value="２個の根を持つ高麗人参"/><int name="price" value="2000"/><string name="desc" value="２個の根を持っている貴重な薬草"/></imgdir></imgdir><imgdir name="04031031"><imgdir name="info"><canvas name="icon" width="27" height="31"><vector name="origin" x="-3" y="31"/></canvas><canvas name="iconRaw" width="27" height="31"><vector name="origin" x="-3" y="31"/></canvas><string name="name" value="３個の根を持つ高麗人参"/><int name="price" value="2000"/><string name="desc" value="３個の根を持っている貴重な薬草"/></imgdir></imgdir><imgdir name="04031032"><imgdir name="info"><canvas name="icon" width="29" height="31"><vector name="origin" x="-1" y="31"/></canvas><canvas name="iconRaw" width="29" height="30"><vector name="origin" x="-1" y="31"/></canvas><string name="name" value="２個の根を持つ紅参"/><int name="price" value="2000"/><string name="desc" value="２個の根を持つ高麗人参を蒸して乾かした貴重な薬草"/></imgdir></imgdir><imgdir name="04031033"><imgdir name="info"><canvas name="icon" width="27" height="31"><vector name="origin" x="-3" y="31"/></canvas><canvas name="iconRaw" width="27" height="31"><vector name="origin" x="-3" y="31"/></canvas><string name="name" value="３個の根を持つ紅参"/><int name="price" value="2000"/><string name="desc" value="３個の根を持つ高麗人参を蒸して乾かした貴重な薬草"/></imgdir></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0403.img">
+    <imgdir name="04030000">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="24">
+                <vector name="origin" x="-4" y="24"/>
+            </canvas>
+            <canvas name="iconRaw" width="23" height="17">
+                <vector name="origin" x="-5" y="24"/>
+            </canvas>
+            <string name="name" value="黒の碁石"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="まっ黒の小さな石。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04030001">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="24">
+                <vector name="origin" x="-4" y="24"/>
+            </canvas>
+            <canvas name="iconRaw" width="23" height="17">
+                <vector name="origin" x="-5" y="24"/>
+            </canvas>
+            <string name="name" value="白の碁石"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="真っ白の小さな石。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04030002">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="22">
+                <vector name="origin" x="-4" y="22"/>
+            </canvas>
+            <canvas name="iconRaw" width="16" height="14">
+                <vector name="origin" x="-9" y="22"/>
+            </canvas>
+            <string name="name" value="変わった形のかけら"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="変わった形のかけら。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04030003">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="29">
+                <vector name="origin" x="-4" y="29"/>
+            </canvas>
+            <canvas name="iconRaw" width="10" height="26">
+                <vector name="origin" x="-12" y="29"/>
+            </canvas>
+            <string name="name" value="変わった形のかけら"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="変わった形のかけら。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04030004">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="26">
+                <vector name="origin" x="-4" y="26"/>
+            </canvas>
+            <canvas name="iconRaw" width="16" height="20">
+                <vector name="origin" x="-9" y="26"/>
+            </canvas>
+            <string name="name" value="変わった形のかけら"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="変わった形のかけら。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04030005">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="23">
+                <vector name="origin" x="-4" y="23"/>
+            </canvas>
+            <canvas name="iconRaw" width="22" height="14">
+                <vector name="origin" x="-5" y="23"/>
+            </canvas>
+            <string name="name" value="変わった形のかけら"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="変わった形のかけら。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04030006">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="23">
+                <vector name="origin" x="-4" y="23"/>
+            </canvas>
+            <canvas name="iconRaw" width="22" height="14">
+                <vector name="origin" x="-6" y="23"/>
+            </canvas>
+            <string name="name" value="変わった形のかけら"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="変わった形のかけら。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04030007">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="23">
+                <vector name="origin" x="-4" y="23"/>
+            </canvas>
+            <canvas name="iconRaw" width="22" height="14">
+                <vector name="origin" x="-6" y="23"/>
+            </canvas>
+            <string name="name" value="変わった形のかけら"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="変わった形のかけら。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04030008">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="25">
+                <vector name="origin" x="-4" y="25"/>
+            </canvas>
+            <canvas name="iconRaw" width="16" height="20">
+                <vector name="origin" x="-9" y="25"/>
+            </canvas>
+            <string name="name" value="変わった形のかけら"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="変わった形のかけら。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04030009">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="22">
+                <vector name="origin" x="-2" y="22"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="16">
+                <vector name="origin" x="-2" y="22"/>
+            </canvas>
+            <string name="name" value="碁盤"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="碁を打つことができる板。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031000">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="31">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="29">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <string name="name" value="マリアの手紙"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="マリアからもらった手紙。アムホストのルーカスに渡す。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031001">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="31">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="29">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <string name="name" value="ルーカスの手紙"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="ルーカスからもらった手紙。キノコ村のマリアに渡す。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031002">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="28">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <string name="name" value="ルーカスの金時計"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="黄金で作られたルーカスの金時計。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031003">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="29">
+                <vector name="origin" x="0" y="29"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="26">
+                <vector name="origin" x="0" y="29"/>
+            </canvas>
+            <string name="name" value="セーラの鏡"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="きれいな飾りがあるセーラの鏡。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031004">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="26">
+                <vector name="origin" x="-4" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="15" height="20">
+                <vector name="origin" x="-9" y="27"/>
+            </canvas>
+            <string name="name" value="きらめく石"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="発光してきらめく石。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031005">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="31">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <string name="name" value="アルコンの血"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="アルコンの血が入っているビン。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031006">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="31">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <string name="name" value="謎の薬"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="どんな力があるのかわからない謎の薬。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031007">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="28">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <string name="name" value="古い金時計"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="黄金で作られた古い金時計。アレックスのお母さんの遺品。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031008">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="31">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="29">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <string name="name" value="コブシを開いて立ての手紙"/>
+            <int name="price" value="1"/>
+            <string name="desc"
+                    value="ペリオンの&apos;コブシを開いて立て&apos;からもらった手紙。高原のどこかにいる&apos;戦士試験教官&apos;に見せる。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031009">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="31">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="29">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <string name="name" value="&apos;ハインズ&apos;の手紙"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="エリニアの&apos;ハインズ&apos;からもらった手紙。森のどこかにいる&apos;魔法使い試験教官&apos;に見せる。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031010">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="31">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="29">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <string name="name" value="&apos;ヘレナ&apos;の手紙"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="ヘネシスの&apos;ヘレナ&apos;からもらった手紙。ダンジョンのどこかにいる&apos;弓使い試験教官&apos;に見せる。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031011">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="31">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="29">
+                <vector name="origin" x="-2" y="31"/>
+            </canvas>
+            <string name="name" value="&apos;ダークロード&apos;の手紙"/>
+            <int name="price" value="1"/>
+            <string name="desc"
+                    value="カニングシティーの&apos;ダークロード&apos;からもらった手紙。都市のどこかにいる&apos;盗賊試験教官&apos;に見せる。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031012">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="32">
+                <vector name="origin" x="-4" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="24" height="31">
+                <vector name="origin" x="-4" y="32"/>
+            </canvas>
+            <string name="name" value="英雄の証"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="2次転職試験に合格して教官から貰った英雄の証となる品。持っていれば英雄として認められるようになる。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031013">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="26">
+                <vector name="origin" x="-4" y="26"/>
+            </canvas>
+            <canvas name="iconRaw" width="20" height="20">
+                <vector name="origin" x="-6" y="26"/>
+            </canvas>
+            <string name="name" value="黒い玉"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="モンスターの魂が込められた神秘の玉。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031014">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="22">
+                <vector name="origin" x="-1" y="22"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="17">
+                <vector name="origin" x="-1" y="22"/>
+            </canvas>
+            <string name="name" value="リナの特製ウナギ焼"/>
+            <int name="price" value="550"/>
+            <string name="desc" value="カズアイのしっぽと豚の頭が添えられたリナの特製ウナギ焼。ロニに持っていく。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031015">
+        <imgdir name="info">
+            <canvas name="icon" width="27" height="30">
+                <vector name="origin" x="-3" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="27">
+                <vector name="origin" x="-3" y="30"/>
+            </canvas>
+            <string name="name" value="新鮮な牛乳"/>
+            <int name="price" value="500"/>
+            <string name="desc" value="妖精族からもらった新鮮な牛乳。ロニに持っていく。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031016">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="-1" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="28">
+                <vector name="origin" x="-1" y="30"/>
+            </canvas>
+            <string name="name" value="秘密の本"/>
+            <int name="price" value="150"/>
+            <string name="desc" value="どんな内容が書かれているのか分からない本。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031017">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="-1" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="28">
+                <vector name="origin" x="-1" y="30"/>
+            </canvas>
+            <string name="name" value="マジックボックス"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="堅い魔法の錠で封印されている箱、中には宝物が入っているといわれている"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031018">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="-1" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="28">
+                <vector name="origin" x="-1" y="30"/>
+            </canvas>
+            <string name="name" value="宝の地図"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="宝があるところを示している地図"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031019">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="30">
+                <vector name="origin" x="-1" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="28">
+                <vector name="origin" x="-1" y="30"/>
+            </canvas>
+            <string name="name" value="悪魔の文書"/>
+            <int name="price" value="1"/>
+            <string name="desc" value="悪魔の秘密が書かれている文書、古代文字で書かれている"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031020">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="31">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <string name="name" value="ピンクのアンシリウム"/>
+            <int name="price" value="1000"/>
+            <string name="desc" value="神秘な光を光る桃色の小さい花のやま"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031021">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="31">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <string name="name" value="オレンジのアンシリウム"/>
+            <int name="price" value="1000"/>
+            <string name="desc" value="神秘な光を光る樺色の小さい花のやま"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031022">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="31">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <string name="name" value="ブルーアンシリウム"/>
+            <int name="price" value="1000"/>
+            <string name="desc" value="神秘な光を光る青色の小さい花のやま"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031023">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="31">
+                <vector name="origin" x="0" y="32"/>
+            </canvas>
+            <string name="name" value="イエローアンシリウム"/>
+            <int name="price" value="1000"/>
+            <string name="desc" value="神秘な光を光る黄色の小さい花のやま"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031024">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="32">
+                <vector name="origin" x="-2" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="32">
+                <vector name="origin" x="-2" y="32"/>
+            </canvas>
+            <string name="name" value="パープルビオラ"/>
+            <int name="price" value="1000"/>
+            <string name="desc" value="大きいつぼみが印象的な紫色の花"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031025">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="32">
+                <vector name="origin" x="-2" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="32">
+                <vector name="origin" x="-2" y="32"/>
+            </canvas>
+            <string name="name" value="ピンクビオラ"/>
+            <int name="price" value="1000"/>
+            <string name="desc" value="大きいつぼみが印象的な桃色の花"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031026">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="32">
+                <vector name="origin" x="-2" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="32">
+                <vector name="origin" x="-2" y="32"/>
+            </canvas>
+            <string name="name" value="ブルービオラ"/>
+            <int name="price" value="1000"/>
+            <string name="desc" value="大きいつぼみが印象的な青色の花"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031027">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="32">
+                <vector name="origin" x="-2" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="32">
+                <vector name="origin" x="-2" y="32"/>
+            </canvas>
+            <string name="name" value="オレンジビオラ"/>
+            <int name="price" value="1000"/>
+            <string name="desc" value="大きいつぼみが印象的な桃色の花"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031028">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="32">
+                <vector name="origin" x="-2" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="32">
+                <vector name="origin" x="-2" y="32"/>
+            </canvas>
+            <string name="name" value="ホワイトビオラ"/>
+            <int name="price" value="1000"/>
+            <string name="desc" value="大きいつぼみが印象的な白色の花"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031029">
+        <imgdir name="info">
+            <canvas name="icon" width="28" height="30">
+                <vector name="origin" x="-2" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="28">
+                <vector name="origin" x="-2" y="30"/>
+            </canvas>
+            <string name="name" value="１個の根を持つ高麗人参"/>
+            <int name="price" value="2000"/>
+            <string name="desc" value="１個の根を持っている貴重な薬草"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031030">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="31">
+                <vector name="origin" x="-1" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="30">
+                <vector name="origin" x="-1" y="31"/>
+            </canvas>
+            <string name="name" value="２個の根を持つ高麗人参"/>
+            <int name="price" value="2000"/>
+            <string name="desc" value="２個の根を持っている貴重な薬草"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031031">
+        <imgdir name="info">
+            <canvas name="icon" width="27" height="31">
+                <vector name="origin" x="-3" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="31">
+                <vector name="origin" x="-3" y="31"/>
+            </canvas>
+            <string name="name" value="３個の根を持つ高麗人参"/>
+            <int name="price" value="2000"/>
+            <string name="desc" value="３個の根を持っている貴重な薬草"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031032">
+        <imgdir name="info">
+            <canvas name="icon" width="29" height="31">
+                <vector name="origin" x="-1" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="29" height="30">
+                <vector name="origin" x="-1" y="31"/>
+            </canvas>
+            <string name="name" value="２個の根を持つ紅参"/>
+            <int name="price" value="2000"/>
+            <string name="desc" value="２個の根を持つ高麗人参を蒸して乾かした貴重な薬草"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="04031033">
+        <imgdir name="info">
+            <canvas name="icon" width="27" height="31">
+                <vector name="origin" x="-3" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="31">
+                <vector name="origin" x="-3" y="31"/>
+            </canvas>
+            <string name="name" value="３個の根を持つ紅参"/>
+            <int name="price" value="2000"/>
+            <string name="desc" value="３個の根を持つ高麗人参を蒸して乾かした貴重な薬草"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

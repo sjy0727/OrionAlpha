@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="1022100.img"><imgdir name="info"><string name="name" value="ソフィア"/><string name="quest" value="sopia"/><imgdir name="speak"><string name="0" value="ふ～う……これで準備はできたわね…。"/><string name="1" value="ここはとっても退屈なのよ…。"/><string name="2" value="マヤの病気はよくなったのかしら？"/></imgdir></imgdir><imgdir name="stand"><canvas name="0" width="45" height="75"><vector name="origin" x="22" y="75"/><int name="z" value="0"/></canvas></imgdir><imgdir name="move"><canvas name="0" width="45" height="75"><vector name="origin" x="22" y="75"/><int name="z" value="0"/></canvas><canvas name="1" width="45" height="75"><vector name="origin" x="22" y="75"/><int name="z" value="0"/></canvas></imgdir><imgdir name="smile"><canvas name="0" width="45" height="75"><vector name="origin" x="22" y="75"/><int name="z" value="0"/><string name="delay" value="5000"/></canvas><imgdir name="speak"><string name="0" value="ふ～う……これで準備はできたわね…。"/><string name="1" value="ふ～う……これで準備はできたわね…。"/><string name="2" value="ふ～う……これで準備はできたわね…。"/></imgdir></imgdir><imgdir name="hand"><canvas name="0" width="45" height="75"><vector name="origin" x="22" y="75"/><int name="z" value="0"/><string name="delay" value="5000"/></canvas><imgdir name="speak"><string name="0" value="ららら～"/><string name="1" value="ふふっ～"/><string name="2" value="ららら～"/></imgdir></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1022100.img">
+    <imgdir name="info">
+        <string name="name" value="ソフィア"/>
+        <string name="quest" value="sopia"/>
+        <imgdir name="speak">
+            <string name="0" value="ふ～う……これで準備はできたわね…。"/>
+            <string name="1" value="ここはとっても退屈なのよ…。"/>
+            <string name="2" value="マヤの病気はよくなったのかしら？"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="45" height="75">
+            <vector name="origin" x="22" y="75"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="move">
+        <canvas name="0" width="45" height="75">
+            <vector name="origin" x="22" y="75"/>
+            <int name="z" value="0"/>
+        </canvas>
+        <canvas name="1" width="45" height="75">
+            <vector name="origin" x="22" y="75"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="smile">
+        <canvas name="0" width="45" height="75">
+            <vector name="origin" x="22" y="75"/>
+            <int name="z" value="0"/>
+            <string name="delay" value="5000"/>
+        </canvas>
+        <imgdir name="speak">
+            <string name="0" value="ふ～う……これで準備はできたわね…。"/>
+            <string name="1" value="ふ～う……これで準備はできたわね…。"/>
+            <string name="2" value="ふ～う……これで準備はできたわね…。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="hand">
+        <canvas name="0" width="45" height="75">
+            <vector name="origin" x="22" y="75"/>
+            <int name="z" value="0"/>
+            <string name="delay" value="5000"/>
+        </canvas>
+        <imgdir name="speak">
+            <string name="0" value="ららら～"/>
+            <string name="1" value="ふふっ～"/>
+            <string name="2" value="ららら～"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

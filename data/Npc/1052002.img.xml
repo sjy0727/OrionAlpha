@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="1052002.img"><imgdir name="info"><string name="name" value="裏通りのゼイエム"/><string name="quest" value="refine_kerning"/><imgdir name="speak"><string name="0" value="うーん……ちょっといいかい？"/><string name="1" value="フフフ……君が欲しがっている物……俺は全部持ってるぜ。"/></imgdir></imgdir><imgdir name="stand"><canvas name="0" width="57" height="69"><vector name="origin" x="28" y="69"/><int name="z" value="0"/></canvas></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1052002.img">
+    <imgdir name="info">
+        <string name="name" value="裏通りのゼイエム"/>
+        <string name="quest" value="refine_kerning"/>
+        <imgdir name="speak">
+            <string name="0" value="うーん……ちょっといいかい？"/>
+            <string name="1" value="フフフ……君が欲しがっている物……俺は全部持ってるぜ。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="57" height="69">
+            <vector name="origin" x="28" y="69"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+</imgdir>

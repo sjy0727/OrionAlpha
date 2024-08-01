@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="1012104.img"><imgdir name="info"><string name="name" value="助手ブリトニー"/><string name="quest" value="hair_henesys2"/><imgdir name="speak"><string name="0" value="私は染色担当で助手のブリトニーです。"/><string name="1" value="隣にいるナタリーさんはうちのママで、この美容院の院長であります。"/></imgdir></imgdir><imgdir name="stand"><canvas name="0" width="46" height="76"><vector name="origin" x="24" y="77"/><int name="z" value="0"/></canvas></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1012104.img">
+    <imgdir name="info">
+        <string name="name" value="助手ブリトニー"/>
+        <string name="quest" value="hair_henesys2"/>
+        <imgdir name="speak">
+            <string name="0" value="私は染色担当で助手のブリトニーです。"/>
+            <string name="1" value="隣にいるナタリーさんはうちのママで、この美容院の院長であります。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="46" height="76">
+            <vector name="origin" x="24" y="77"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+</imgdir>

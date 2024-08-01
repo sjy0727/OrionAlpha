@@ -1,1 +1,222 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="ToolTipHelp.img"><imgdir name="Game"><imgdir name="Button"><imgdir name="Shop"><string name="Title" value="アバターショップ"/><string name="Desc" value="まだ実装されていない機能"/></imgdir><imgdir name="Item"><string name="Title" value="アイテムウインドウ"/><string name="Desc" value="持っているアイテムのリストを見るウインドウ\nアイテムには装備、消費、設置、その他の種類がある"/></imgdir><imgdir name="Equip"><string name="Title" value="装備ウインドウ"/><string name="Desc" value="装備状態を見ながら装備品の着脱ができるウインドウ\nアイテムウインドウと同時に使う"/></imgdir><imgdir name="Stat"><string name="Title" value="能力値ウインドウ"/><string name="Desc" value="能力値と詳細の確認ができるウインドウ\nAPを消費して能力をアップさせることができる"/></imgdir><imgdir name="Skill"><string name="Title" value="スキルウインドウ"/><string name="Desc" value="所持しているスキルブックの内容を確認できるウインドウ\nスキルポイントを利用してスキルを身につけられる"/></imgdir><imgdir name="Chat"><string name="Title" value="メッセンジャーウインドウ"/><string name="Desc" value="同じワールドの友達とチャットできるウインドウ"/></imgdir><imgdir name="Menu"><string name="Title" value="メニュー"/><string name="Desc" value="オプションの変更とゲーム情報を見るウインドウ\nゲームオプションまたはシステムオプションの変更が可能\nクエスト、グループ情報を確認できる"/></imgdir><imgdir name="Whisper"><string name="Title" value="1対1チャット"/><string name="Desc" value="ボタンをクリックして1対1チャットを行いたいキャラクターを指定\n1対1チャットの状態でボタンを再度押すと解除される"/></imgdir></imgdir><imgdir name="UIWnd"><imgdir name="Stat"><imgdir name="0"><vector name="lt" x="10" y="58"/><vector name="rb" x="38" y="73"/><string name="Title" value="キャラクター名"/><string name="Desc" value="作成後には変更不可能"/></imgdir><imgdir name="1"><vector name="lt" x="10" y="76"/><vector name="rb" x="38" y="91"/><string name="Title" value="キャラクターの職業"/><string name="Desc" value="初心者から戦士、弓使い、魔法使い、盗賊に転職可能\n戦士-レベル10、STR35以上、ぺリオンで転職\n弓使い-レベル10、DEX25以上、ヘネシスで転職\n魔法使い-レベル8、INT20以上、エリニアで転職\n盗賊-レベル10、DEX25以上、カニングシティーで転職"/></imgdir><imgdir name="2"><vector name="lt" x="10" y="94"/><vector name="rb" x="61" y="109"/><string name="Title" value="メインコミュニティ"/><string name="Desc" value="使用されていない項目"/></imgdir><imgdir name="3"><vector name="lt" x="10" y="112"/><vector name="rb" x="31" y="127"/><string name="Title" value="Health Point"/><string name="Desc" value="HPが0になると幽霊になる\n敵から攻撃を受けたり特定スキルを使った場合HPが減る\n上限は30,000ポイント"/></imgdir><imgdir name="4"><vector name="lt" x="10" y="130"/><vector name="rb" x="31" y="145"/><string name="Title" value="Mana Point"/><string name="Desc" value="スキルを使う際に必要になる\n上限は10,000ポイント"/></imgdir><imgdir name="5"><vector name="lt" x="10" y="148"/><vector name="rb" x="50" y="163"/><string name="Title" value="経験値"/><string name="Desc" value="獲得した経験値\nモンスターを倒したりクエストを完了したりすると得られる"/></imgdir><imgdir name="6"><vector name="lt" x="10" y="166"/><vector name="rb" x="50" y="181"/><string name="Title" value=""/><string name="Desc" value=""/></imgdir><imgdir name="7"><vector name="lt" x="10" y="202"/><vector name="rb" x="39" y="217"/><string name="Title" value="STR"/><string name="Desc" value="重い武器や防具を装備する時などに必要となる値\n戦士の攻撃力に大きな影響を与える"/></imgdir><imgdir name="8"><vector name="lt" x="10" y="220"/><vector name="rb" x="39" y="235"/><string name="Title" value="DEX"/><string name="Desc" value="この能力値が高いと命中率や回避率が増加する\n弓使いの攻撃力に大きな影響を与える"/></imgdir><imgdir name="9"><vector name="lt" x="10" y="238"/><vector name="rb" x="39" y="253"/><string name="Title" value="INT"/><string name="Desc" value="この能力値が高いと魔法攻撃の成功率が上がる\nの魔法使いの魔力に大きな影響を与える\nレベルアップ時に上昇するMPの量が増える効果もある"/></imgdir><imgdir name="10"><vector name="lt" x="10" y="256"/><vector name="rb" x="39" y="271"/><string name="Title" value="LUK"/><string name="Desc" value="この能力値が高いと回避率が増加する\n盗賊の攻撃力と器用さに影響を与える値\nこの能力値が高いと幽霊になった際に減少する経験値が少なくなる"/></imgdir><imgdir name="11"><vector name="lt" x="8" y="281"/><vector name="rb" x="109" y="296"/><string name="Title" value="AP(Ability Point)"/><string name="Desc" value="STR、DEX、INT、LUKの能力値とHP、MPの量を上げる数値\nSTR、DEX、INT、LUKを上げた場合、AP1ポイントあたり能力値1ポイント上昇する\nHPまたはMPの場合は各キャラクターの状態によって上昇値が異なる\nレベルアップ度に5ポイントずつ与えられる"/></imgdir></imgdir><imgdir name="StatDetail"><imgdir name="0"><vector name="lt" x="10" y="11"/><vector name="rb" x="74" y="27"/><string name="Title" value="攻撃力"/><string name="Desc" value="士と魔法使いはSTR、弓使いはDEX、盗賊はSTR、DEX、LUKの影響を受ける\n能力値と武器の物理攻撃力を合わせて物理攻撃力が決定される"/></imgdir><imgdir name="1"><vector name="lt" x="10" y="29"/><vector name="rb" x="74" y="45"/><string name="Title" value="物理防御力"/><string name="Desc" value="物理攻撃を防御する能力値\n装備しているすべての防具の物理防御力を合わせて決定される"/></imgdir><imgdir name="2"><vector name="lt" x="10" y="47"/><vector name="rb" x="74" y="63"/><string name="Title" value="魔力"/><string name="Desc" value="魔法成功率と魔法攻撃力を決定する能力値\n装備アイテムの魔力とINTで魔力が決定される"/></imgdir><imgdir name="3"><vector name="lt" x="10" y="65"/><vector name="rb" x="74" y="81"/><string name="Title" value="魔法攻撃力"/><string name="Desc" value="魔法攻撃を防御する能力値\n装備しているすべての防具の魔法防御力を合わせて決定される"/></imgdir><imgdir name="4"><vector name="lt" x="10" y="83"/><vector name="rb" x="74" y="99"/><string name="Title" value="命中率"/><string name="Desc" value="物理攻撃の命中率を決定する能力値\n素早さと装備しているアイテムに影響を受ける"/></imgdir><imgdir name="5"><vector name="lt" x="10" y="101"/><vector name="rb" x="74" y="117"/><string name="Title" value="回避率"/><string name="Desc" value="物理攻撃を回避する能力値\n素早さと装備しているアイテムの効果によって回避率が決定される"/></imgdir><imgdir name="6"><vector name="lt" x="10" y="119"/><vector name="rb" x="74" y="135"/><string name="Title" value=""/><string name="Desc" value=""/></imgdir><imgdir name="7"><vector name="lt" x="10" y="137"/><vector name="rb" x="74" y="153"/><string name="Title" value="移動速度"/><string name="Desc" value="移動速度は装備アイテムのオプション及びスキルにより変化する"/></imgdir><imgdir name="8"><vector name="lt" x="10" y="155"/><vector name="rb" x="74" y="171"/><string name="Title" value="ジャンプ力"/><string name="Desc" value="ジャンプの高さに影響する値\n装備アイテムの効果やスキルでアップさせることができる"/></imgdir></imgdir></imgdir></imgdir><imgdir name="Shop"><imgdir name="Button"><imgdir name="BuyAvatar"><string name="Title" value="着ているものを買う"/><string name="Desc" value="キャラクターが着ているアイテムの購入\n既に装備しているアイテムは入らない"/></imgdir><imgdir name="DefaultAvatar"><string name="Title" value="元に戻す"/><string name="Desc" value="アバターショップに入る前の初期状態に戻す"/></imgdir><imgdir name="Remove"><string name="Title" value="アイテムを消す"/><string name="Desc" value="持っているアバターアイテムのリストから選択されたアバターアイテムを永久に消す"/></imgdir><imgdir name="ExEquip"><string name="Title" value="装備ウインドウを増やす"/><string name="Desc" value="装備アイテムのウインドウスロットを4個(1ライン)増やす\n4800gold"/></imgdir><imgdir name="ExConsume"><string name="Title" value="消費ウインドウを増やす"/><string name="Desc" value="消費アイテムのウインドウスロットを4個(1ライン)増やす\n4800gold"/></imgdir><imgdir name="ExInstall"><string name="Title" value="設置ウインドウを増やす"/><string name="Desc" value="設置アイテムのウインドウスロットを4個(1ライン)増やす\n4800gold"/></imgdir><imgdir name="ExEtc"><string name="Title" value="その他ウインドウを増やす"/><string name="Desc" value="その他アイテムのウインドウスロットを4個(1ライン)増やす\n4800gold"/></imgdir><imgdir name="Charge"><string name="Title" value="goldのチャージ"/><string name="Desc" value="携帯決済、キャッシュカード決済等、様々な方法でgoldのチャージが可能\ngoldが不足な場合、チャージ後にアイテムの購買が可能"/></imgdir><imgdir name="Check"><string name="Title" value="goldの確認"/><string name="Desc" value="現在残っているgoldを確認"/></imgdir><imgdir name="Coupon"><string name="Title" value="クーポンの使用"/><string name="Desc" value="持っているアイテムクーポンをアイテムと交換する"/></imgdir></imgdir></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="ToolTipHelp.img">
+    <imgdir name="Game">
+        <imgdir name="Button">
+            <imgdir name="Shop">
+                <string name="Title" value="アバターショップ"/>
+                <string name="Desc" value="まだ実装されていない機能"/>
+            </imgdir>
+            <imgdir name="Item">
+                <string name="Title" value="アイテムウインドウ"/>
+                <string name="Desc" value="持っているアイテムのリストを見るウインドウ\nアイテムには装備、消費、設置、その他の種類がある"/>
+            </imgdir>
+            <imgdir name="Equip">
+                <string name="Title" value="装備ウインドウ"/>
+                <string name="Desc" value="装備状態を見ながら装備品の着脱ができるウインドウ\nアイテムウインドウと同時に使う"/>
+            </imgdir>
+            <imgdir name="Stat">
+                <string name="Title" value="能力値ウインドウ"/>
+                <string name="Desc" value="能力値と詳細の確認ができるウインドウ\nAPを消費して能力をアップさせることができる"/>
+            </imgdir>
+            <imgdir name="Skill">
+                <string name="Title" value="スキルウインドウ"/>
+                <string name="Desc" value="所持しているスキルブックの内容を確認できるウインドウ\nスキルポイントを利用してスキルを身につけられる"/>
+            </imgdir>
+            <imgdir name="Chat">
+                <string name="Title" value="メッセンジャーウインドウ"/>
+                <string name="Desc" value="同じワールドの友達とチャットできるウインドウ"/>
+            </imgdir>
+            <imgdir name="Menu">
+                <string name="Title" value="メニュー"/>
+                <string name="Desc"
+                        value="オプションの変更とゲーム情報を見るウインドウ\nゲームオプションまたはシステムオプションの変更が可能\nクエスト、グループ情報を確認できる"/>
+            </imgdir>
+            <imgdir name="Whisper">
+                <string name="Title" value="1対1チャット"/>
+                <string name="Desc" value="ボタンをクリックして1対1チャットを行いたいキャラクターを指定\n1対1チャットの状態でボタンを再度押すと解除される"/>
+            </imgdir>
+        </imgdir>
+        <imgdir name="UIWnd">
+            <imgdir name="Stat">
+                <imgdir name="0">
+                    <vector name="lt" x="10" y="58"/>
+                    <vector name="rb" x="38" y="73"/>
+                    <string name="Title" value="キャラクター名"/>
+                    <string name="Desc" value="作成後には変更不可能"/>
+                </imgdir>
+                <imgdir name="1">
+                    <vector name="lt" x="10" y="76"/>
+                    <vector name="rb" x="38" y="91"/>
+                    <string name="Title" value="キャラクターの職業"/>
+                    <string name="Desc"
+                            value="初心者から戦士、弓使い、魔法使い、盗賊に転職可能\n戦士-レベル10、STR35以上、ぺリオンで転職\n弓使い-レベル10、DEX25以上、ヘネシスで転職\n魔法使い-レベル8、INT20以上、エリニアで転職\n盗賊-レベル10、DEX25以上、カニングシティーで転職"/>
+                </imgdir>
+                <imgdir name="2">
+                    <vector name="lt" x="10" y="94"/>
+                    <vector name="rb" x="61" y="109"/>
+                    <string name="Title" value="メインコミュニティ"/>
+                    <string name="Desc" value="使用されていない項目"/>
+                </imgdir>
+                <imgdir name="3">
+                    <vector name="lt" x="10" y="112"/>
+                    <vector name="rb" x="31" y="127"/>
+                    <string name="Title" value="Health Point"/>
+                    <string name="Desc" value="HPが0になると幽霊になる\n敵から攻撃を受けたり特定スキルを使った場合HPが減る\n上限は30,000ポイント"/>
+                </imgdir>
+                <imgdir name="4">
+                    <vector name="lt" x="10" y="130"/>
+                    <vector name="rb" x="31" y="145"/>
+                    <string name="Title" value="Mana Point"/>
+                    <string name="Desc" value="スキルを使う際に必要になる\n上限は10,000ポイント"/>
+                </imgdir>
+                <imgdir name="5">
+                    <vector name="lt" x="10" y="148"/>
+                    <vector name="rb" x="50" y="163"/>
+                    <string name="Title" value="経験値"/>
+                    <string name="Desc" value="獲得した経験値\nモンスターを倒したりクエストを完了したりすると得られる"/>
+                </imgdir>
+                <imgdir name="6">
+                    <vector name="lt" x="10" y="166"/>
+                    <vector name="rb" x="50" y="181"/>
+                    <string name="Title" value=""/>
+                    <string name="Desc" value=""/>
+                </imgdir>
+                <imgdir name="7">
+                    <vector name="lt" x="10" y="202"/>
+                    <vector name="rb" x="39" y="217"/>
+                    <string name="Title" value="STR"/>
+                    <string name="Desc" value="重い武器や防具を装備する時などに必要となる値\n戦士の攻撃力に大きな影響を与える"/>
+                </imgdir>
+                <imgdir name="8">
+                    <vector name="lt" x="10" y="220"/>
+                    <vector name="rb" x="39" y="235"/>
+                    <string name="Title" value="DEX"/>
+                    <string name="Desc" value="この能力値が高いと命中率や回避率が増加する\n弓使いの攻撃力に大きな影響を与える"/>
+                </imgdir>
+                <imgdir name="9">
+                    <vector name="lt" x="10" y="238"/>
+                    <vector name="rb" x="39" y="253"/>
+                    <string name="Title" value="INT"/>
+                    <string name="Desc"
+                            value="この能力値が高いと魔法攻撃の成功率が上がる\nの魔法使いの魔力に大きな影響を与える\nレベルアップ時に上昇するMPの量が増える効果もある"/>
+                </imgdir>
+                <imgdir name="10">
+                    <vector name="lt" x="10" y="256"/>
+                    <vector name="rb" x="39" y="271"/>
+                    <string name="Title" value="LUK"/>
+                    <string name="Desc"
+                            value="この能力値が高いと回避率が増加する\n盗賊の攻撃力と器用さに影響を与える値\nこの能力値が高いと幽霊になった際に減少する経験値が少なくなる"/>
+                </imgdir>
+                <imgdir name="11">
+                    <vector name="lt" x="8" y="281"/>
+                    <vector name="rb" x="109" y="296"/>
+                    <string name="Title" value="AP(Ability Point)"/>
+                    <string name="Desc"
+                            value="STR、DEX、INT、LUKの能力値とHP、MPの量を上げる数値\nSTR、DEX、INT、LUKを上げた場合、AP1ポイントあたり能力値1ポイント上昇する\nHPまたはMPの場合は各キャラクターの状態によって上昇値が異なる\nレベルアップ度に5ポイントずつ与えられる"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="StatDetail">
+                <imgdir name="0">
+                    <vector name="lt" x="10" y="11"/>
+                    <vector name="rb" x="74" y="27"/>
+                    <string name="Title" value="攻撃力"/>
+                    <string name="Desc"
+                            value="士と魔法使いはSTR、弓使いはDEX、盗賊はSTR、DEX、LUKの影響を受ける\n能力値と武器の物理攻撃力を合わせて物理攻撃力が決定される"/>
+                </imgdir>
+                <imgdir name="1">
+                    <vector name="lt" x="10" y="29"/>
+                    <vector name="rb" x="74" y="45"/>
+                    <string name="Title" value="物理防御力"/>
+                    <string name="Desc" value="物理攻撃を防御する能力値\n装備しているすべての防具の物理防御力を合わせて決定される"/>
+                </imgdir>
+                <imgdir name="2">
+                    <vector name="lt" x="10" y="47"/>
+                    <vector name="rb" x="74" y="63"/>
+                    <string name="Title" value="魔力"/>
+                    <string name="Desc" value="魔法成功率と魔法攻撃力を決定する能力値\n装備アイテムの魔力とINTで魔力が決定される"/>
+                </imgdir>
+                <imgdir name="3">
+                    <vector name="lt" x="10" y="65"/>
+                    <vector name="rb" x="74" y="81"/>
+                    <string name="Title" value="魔法攻撃力"/>
+                    <string name="Desc" value="魔法攻撃を防御する能力値\n装備しているすべての防具の魔法防御力を合わせて決定される"/>
+                </imgdir>
+                <imgdir name="4">
+                    <vector name="lt" x="10" y="83"/>
+                    <vector name="rb" x="74" y="99"/>
+                    <string name="Title" value="命中率"/>
+                    <string name="Desc" value="物理攻撃の命中率を決定する能力値\n素早さと装備しているアイテムに影響を受ける"/>
+                </imgdir>
+                <imgdir name="5">
+                    <vector name="lt" x="10" y="101"/>
+                    <vector name="rb" x="74" y="117"/>
+                    <string name="Title" value="回避率"/>
+                    <string name="Desc" value="物理攻撃を回避する能力値\n素早さと装備しているアイテムの効果によって回避率が決定される"/>
+                </imgdir>
+                <imgdir name="6">
+                    <vector name="lt" x="10" y="119"/>
+                    <vector name="rb" x="74" y="135"/>
+                    <string name="Title" value=""/>
+                    <string name="Desc" value=""/>
+                </imgdir>
+                <imgdir name="7">
+                    <vector name="lt" x="10" y="137"/>
+                    <vector name="rb" x="74" y="153"/>
+                    <string name="Title" value="移動速度"/>
+                    <string name="Desc" value="移動速度は装備アイテムのオプション及びスキルにより変化する"/>
+                </imgdir>
+                <imgdir name="8">
+                    <vector name="lt" x="10" y="155"/>
+                    <vector name="rb" x="74" y="171"/>
+                    <string name="Title" value="ジャンプ力"/>
+                    <string name="Desc" value="ジャンプの高さに影響する値\n装備アイテムの効果やスキルでアップさせることができる"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+    <imgdir name="Shop">
+        <imgdir name="Button">
+            <imgdir name="BuyAvatar">
+                <string name="Title" value="着ているものを買う"/>
+                <string name="Desc" value="キャラクターが着ているアイテムの購入\n既に装備しているアイテムは入らない"/>
+            </imgdir>
+            <imgdir name="DefaultAvatar">
+                <string name="Title" value="元に戻す"/>
+                <string name="Desc" value="アバターショップに入る前の初期状態に戻す"/>
+            </imgdir>
+            <imgdir name="Remove">
+                <string name="Title" value="アイテムを消す"/>
+                <string name="Desc" value="持っているアバターアイテムのリストから選択されたアバターアイテムを永久に消す"/>
+            </imgdir>
+            <imgdir name="ExEquip">
+                <string name="Title" value="装備ウインドウを増やす"/>
+                <string name="Desc" value="装備アイテムのウインドウスロットを4個(1ライン)増やす\n4800gold"/>
+            </imgdir>
+            <imgdir name="ExConsume">
+                <string name="Title" value="消費ウインドウを増やす"/>
+                <string name="Desc" value="消費アイテムのウインドウスロットを4個(1ライン)増やす\n4800gold"/>
+            </imgdir>
+            <imgdir name="ExInstall">
+                <string name="Title" value="設置ウインドウを増やす"/>
+                <string name="Desc" value="設置アイテムのウインドウスロットを4個(1ライン)増やす\n4800gold"/>
+            </imgdir>
+            <imgdir name="ExEtc">
+                <string name="Title" value="その他ウインドウを増やす"/>
+                <string name="Desc" value="その他アイテムのウインドウスロットを4個(1ライン)増やす\n4800gold"/>
+            </imgdir>
+            <imgdir name="Charge">
+                <string name="Title" value="goldのチャージ"/>
+                <string name="Desc"
+                        value="携帯決済、キャッシュカード決済等、様々な方法でgoldのチャージが可能\ngoldが不足な場合、チャージ後にアイテムの購買が可能"/>
+            </imgdir>
+            <imgdir name="Check">
+                <string name="Title" value="goldの確認"/>
+                <string name="Desc" value="現在残っているgoldを確認"/>
+            </imgdir>
+            <imgdir name="Coupon">
+                <string name="Title" value="クーポンの使用"/>
+                <string name="Desc" value="持っているアイテムクーポンをアイテムと交換する"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

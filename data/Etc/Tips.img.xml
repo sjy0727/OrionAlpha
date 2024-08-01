@@ -1,1 +1,124 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="Tips.img"><imgdir name="info"><imgdir name="0"><int name="levelMin" value="1"/><int name="levelMax" value="5"/><int name="interval" value="30000"/><int name="all" value="20"/><string name="tip" value="novice"/></imgdir><imgdir name="1"><int name="levelMin" value="6"/><int name="levelMax" value="10"/><int name="interval" value="60000"/><int name="all" value="40"/><string name="tip" value="novice2"/></imgdir><imgdir name="2"><int name="levelMin" value="11"/><int name="levelMax" value="20"/><int name="interval" value="300000"/><int name="all" value="50"/><string name="tip" value="novice3"/></imgdir><imgdir name="3"><int name="levelMin" value="21"/><int name="levelMax" value="999"/><int name="interval" value="600000"/><int name="all" value="100"/><string name="tip" value="novice4"/></imgdir></imgdir><imgdir name="all"><string name="0" value="ウェブマナーを守りましょう。"/><string name="1" value="ゲーム内で他人に悪口等の非マナー行為をする場合ゲーム利用が制限されます。"/><string name="2" value="ＧＭはパスワードなどの個人情報を要求しません。"/><string name="3" value="他人にパスワードを公開させることがないようにしてください。"/><string name="4" value="ゲーム内バグ及び不便事項がありましたらメイプルストーリーホームページを利用して送ってください。"/><string name="5" value="ゲーム内で不法的な行為をする場合ゲーム利用が制限されます。"/><string name="6" value="メイプルストーリーホームページへいらっしゃればレベル基準上位100人のランキングを見られます。(追加予定機能です。）"/><string name="7" value="無断変造プログラム使用やその他ゲーム利用に不正な行為をした場合ゲーム利用が制限になります。"/><string name="8" value="メニューのシステムオプション機能を利用してゲームサウンドを調節することができます。"/><string name="9" value="E-mail等の個人情報に関する問い合わせメイプルストーリーのサポートセンターをご利用下さい。"/><string name="10" value="メニューのゲームオプション機能を利用してチャット、交換、内緒話の機能などがON/OFFできます。"/><string name="11" value="対話入力窓に“/?”を入力すると“/”を使う命令語の説明が見られます。"/><string name="12" value="キャッシュアイテムの中で装備アイテムは一般装備アイテムの上に一緒に着することができます。"/><string name="13" value="キャッシュ装備アイテムを一般装備アイテム上に着れば機能は一般アイテムを姿はキャッシュアイテムになります。"/></imgdir><imgdir name="novice"><string name="0" value="ホットキー(I、E、S、K、W、M)を利用してすべてのメニューを手軽く開けてみることができます。"/><string name="1" value="アイテムをホットキーに指定しようとするときばドラッグして画面の右側下段にあるホットキー表示にに乗せれば良いです。"/><string name="2" value="マップに隠れているポータル（ワープ場所）もあるから捜して利用して見てください。"/><string name="3" value="F1～F7キーを利用して多様な感情表現ができます。"/><string name="4" value="他の地域に移動しようとすればフィールドにあるポータルを利用すれば良いです。"/><string name="5" value="他の地域に移動出来るポータルはミニマップに青い点に表示されています。"/><string name="6" value="一度メイプルアイルランドから出すとまたメイプルアイルランドには帰ることは出来ません。"/><string name="7" value="&apos;Stat&apos;ウィンドーの&apos;Detail&apos;ボタンを押せばもっと詳しい能力値が見られます。"/><string name="8" value="ミニマップにはユーザ様周辺の他のユーザが赤い点に表示されています。"/><string name="9" value="動かないでじっと立っていればHPが少しずつ回復します。"/><string name="10" value="アイテムを拾いたい時は&apos;Z&apos;キー又は数字パッドの&apos;0&apos;を押してください。"/><string name="11" value="攻撃はCTRLキー、ジャンプはALTキーを押せば良いです。"/><string name="12" value="商店へ行けば冒険に必要な装備、水薬などを購入することができます。"/><string name="13" value="レベルアップをすると&apos;Stat&apos;ウィンドーを通じてレベルアップの時得たポイントを分配することができます。"/><string name="14" value="一度1次転職をすれば他の職業で1次転職することはできません。"/><string name="15" value="装備を装着するためにはインベントリウィンドーから装備ウィンドーでドラッグ又はダブルクリックすれば良いです。"/><string name="16" value="ワルドマップを見ようとすれば&apos;W&apos;背を押せば良いです。"/><string name="17" value="装備ウィンドーを開こうとすれば&apos;E&apos;背を押せば良いです。"/><string name="18" value="持っているアイテムリストを見ようとすれば&apos;I&apos;キーを押してアイテム窓を開けば良いです。"/><string name="19" value="ミニマップを見ようとすれば&apos;M&apos;背を押せば良いです。"/><string name="20" value="スキルウィンドーを開こうとすれば&apos;K&apos;背を押せば良いです。"/><string name="21" value="自分のキャラクターの能力するのを見たいときは&apos;S&apos;背を押せば良いです。"/><string name="22" value="パーティーを作ろうとすればチャット入力欄に&apos;/パーティー作り&apos;と書けば良いです。"/><string name="23" value="パーティー長が相手をパーティー員として招待しようとすれば&apos;/パーティー招待　相手キャラクター名前&apos;と書けば良いです。"/><string name="24" value="パーティー長がパーティー員を強制追放させようとすれば&apos;/パーティー強制追放　パーティー員キャラクター名前&apos;と書けば良いです。"/><string name="25" value="パーティー員がパーティーで脱退しようとすれば&apos;/パーティー脱退&apos;と書けば良いです。"/><string name="26" value="加入されているパーティーの情報を見ようとすれば&apos;/パーティー情報&apos;と書けば良いです。"/><string name="27" value="パーティー長が相手をパーティー員として招待しようとすれば相手キャラクターの上にマウス右側クリックをすれば&apos;パーティー招待&apos;のウィンドーが出ます。"/><string name="28" value="人気度を変化させたい相手キャラクターの上にマウス右側クリックをすれば人気度＋/－機能が出ます。"/><string name="29" value="人気度の調整は一日に一回しか出来ません。"/><string name="30" value="一つのキャラクターには一月に一回しか人気度を上げたり下げたりできません。"/></imgdir><imgdir name="novice2"><string name="0" value="各村には装備、水薬を購入することができる商店があります。"/><string name="1" value="一部アイテムは性別、職業別で使用が制限されます。購入の時気を付けてください。"/><string name="2" value="一度1次転職をすれば他の職業では1次転職することができないです。"/><string name="3" value="転職後にはキャラクター復活の時、一定比率に経験値が減少されますので気を付けてください!"/><string name="4" value="クエストを遂行すれば商店で買うことができないアイテムを得ることもできます。"/><string name="5" value="転職をすればインベントリの数が増えます。"/><string name="6" value="転職可能レベルで転職をしないでレベルアップしてもスキルポイントは与えられないです。"/><string name="7" value="チャット入力欄に&apos;/交換　相手キャラクター名前&apos;を入力すれば交換ウィンドーが開かれます。"/><string name="8" value="魔法師はレベル8で転職して、他の職業はレベル10で転職することができます。"/><string name="9" value="パーティーを作ろうとすれば対話入力窓に&apos;/パーティー作成&apos;と入力すれば良いです。"/><string name="10" value="パーティー長が相手をパーティー員で招待しようとすれば&apos;/パーティー招待　相手キャラクター名前&apos;と書けば良いです。"/><string name="11" value="パーティー長がパーティー員を強制追放させようとすれば&apos;/パーティー強制追放　パーティー員キャラクター名前&apos;と書けば良いです。"/><string name="12" value="パーティー員がパーティーで脱退しようとすれば&apos;/パーティー脱退&apos;と書けば良いです。"/><string name="13" value="加入されているパーティーの情報を見ようとすれば&apos;/パーティー情報&apos;と書けば良いです。"/><string name="14" value="パーティー長が相手をパーティー院で招待しようとすれば相手キャラクターの上にマウス右側クリックをすれば&apos;パーティー招待&apos;機能が出ます。"/><string name="15" value="人気度をあげるとか下ろうとすれば相手キャラクターの上にマウス右側クリックをすれば人気度+/-機能が出ます。"/><string name="16" value="人気度の調整は一日に一回しか出来ません。"/><string name="17" value="一つのキャラクターには一月に一回しか人気度を上げたり下げたりできません。"/></imgdir><imgdir name="novice3"><string name="0" value="転職は各村のギルドにて出来ます。"/><string name="1" value="パッシブスキル（自動反映スキル）はスキルを学べば自動的に適用されます。"/><string name="2" value="アクティブスキルを使おうとすればスキルウィンドーでドラッグしてホットキーに設定の後使えば良いです。"/><string name="3" value="各村でにはその村固有の装備を販売しています。"/><string name="4" value="転職可能レベルで転職をしないでレベルアップしたらスキルポイントは与えられないです。"/><string name="5" value="転職後レベルアップをするとスキルポイントがまた与えられます。"/><string name="6" value="スキルポイントは&apos;Skill&apos;ウィンドーから使うことができます。"/><string name="7" value="地下ダンジョーンには強力なモンスターたちが棲息しますので気を付けてください!"/><string name="8" value="強力なモンスターを倒せると商店では買えない珍しいアイテムを得ることもできます。"/><string name="9" value="一定時間が経つとマナが少しずつ増加します。"/><string name="10" value="マナを消耗するスキルはマナが無いと当然使えないでしょう。"/><string name="11" value="チャット入力欄に&apos;/交換相手　キャラクター名前&apos;を入力すれば交換ウィンドーが開かれます。"/><string name="12" value="2次転職は1次転職の後レベル30から転職可能です。"/><string name="13" value="レベル30以後に得たスキルポイントは2次転職の後に分配した方が良いです。"/><string name="14" value="3次転職は2次転職の後レベル70で転職可能です。"/></imgdir><imgdir name="novice4"></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Tips.img">
+    <imgdir name="info">
+        <imgdir name="0">
+            <int name="levelMin" value="1"/>
+            <int name="levelMax" value="5"/>
+            <int name="interval" value="30000"/>
+            <int name="all" value="20"/>
+            <string name="tip" value="novice"/>
+        </imgdir>
+        <imgdir name="1">
+            <int name="levelMin" value="6"/>
+            <int name="levelMax" value="10"/>
+            <int name="interval" value="60000"/>
+            <int name="all" value="40"/>
+            <string name="tip" value="novice2"/>
+        </imgdir>
+        <imgdir name="2">
+            <int name="levelMin" value="11"/>
+            <int name="levelMax" value="20"/>
+            <int name="interval" value="300000"/>
+            <int name="all" value="50"/>
+            <string name="tip" value="novice3"/>
+        </imgdir>
+        <imgdir name="3">
+            <int name="levelMin" value="21"/>
+            <int name="levelMax" value="999"/>
+            <int name="interval" value="600000"/>
+            <int name="all" value="100"/>
+            <string name="tip" value="novice4"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="all">
+        <string name="0" value="ウェブマナーを守りましょう。"/>
+        <string name="1" value="ゲーム内で他人に悪口等の非マナー行為をする場合ゲーム利用が制限されます。"/>
+        <string name="2" value="ＧＭはパスワードなどの個人情報を要求しません。"/>
+        <string name="3" value="他人にパスワードを公開させることがないようにしてください。"/>
+        <string name="4" value="ゲーム内バグ及び不便事項がありましたらメイプルストーリーホームページを利用して送ってください。"/>
+        <string name="5" value="ゲーム内で不法的な行為をする場合ゲーム利用が制限されます。"/>
+        <string name="6" value="メイプルストーリーホームページへいらっしゃればレベル基準上位100人のランキングを見られます。(追加予定機能です。）"/>
+        <string name="7" value="無断変造プログラム使用やその他ゲーム利用に不正な行為をした場合ゲーム利用が制限になります。"/>
+        <string name="8" value="メニューのシステムオプション機能を利用してゲームサウンドを調節することができます。"/>
+        <string name="9" value="E-mail等の個人情報に関する問い合わせメイプルストーリーのサポートセンターをご利用下さい。"/>
+        <string name="10" value="メニューのゲームオプション機能を利用してチャット、交換、内緒話の機能などがON/OFFできます。"/>
+        <string name="11" value="対話入力窓に“/?”を入力すると“/”を使う命令語の説明が見られます。"/>
+        <string name="12" value="キャッシュアイテムの中で装備アイテムは一般装備アイテムの上に一緒に着することができます。"/>
+        <string name="13" value="キャッシュ装備アイテムを一般装備アイテム上に着れば機能は一般アイテムを姿はキャッシュアイテムになります。"/>
+    </imgdir>
+    <imgdir name="novice">
+        <string name="0" value="ホットキー(I、E、S、K、W、M)を利用してすべてのメニューを手軽く開けてみることができます。"/>
+        <string name="1" value="アイテムをホットキーに指定しようとするときばドラッグして画面の右側下段にあるホットキー表示にに乗せれば良いです。"/>
+        <string name="2" value="マップに隠れているポータル（ワープ場所）もあるから捜して利用して見てください。"/>
+        <string name="3" value="F1～F7キーを利用して多様な感情表現ができます。"/>
+        <string name="4" value="他の地域に移動しようとすればフィールドにあるポータルを利用すれば良いです。"/>
+        <string name="5" value="他の地域に移動出来るポータルはミニマップに青い点に表示されています。"/>
+        <string name="6" value="一度メイプルアイルランドから出すとまたメイプルアイルランドには帰ることは出来ません。"/>
+        <string name="7" value="&apos;Stat&apos;ウィンドーの&apos;Detail&apos;ボタンを押せばもっと詳しい能力値が見られます。"/>
+        <string name="8" value="ミニマップにはユーザ様周辺の他のユーザが赤い点に表示されています。"/>
+        <string name="9" value="動かないでじっと立っていればHPが少しずつ回復します。"/>
+        <string name="10" value="アイテムを拾いたい時は&apos;Z&apos;キー又は数字パッドの&apos;0&apos;を押してください。"/>
+        <string name="11" value="攻撃はCTRLキー、ジャンプはALTキーを押せば良いです。"/>
+        <string name="12" value="商店へ行けば冒険に必要な装備、水薬などを購入することができます。"/>
+        <string name="13" value="レベルアップをすると&apos;Stat&apos;ウィンドーを通じてレベルアップの時得たポイントを分配することができます。"/>
+        <string name="14" value="一度1次転職をすれば他の職業で1次転職することはできません。"/>
+        <string name="15" value="装備を装着するためにはインベントリウィンドーから装備ウィンドーでドラッグ又はダブルクリックすれば良いです。"/>
+        <string name="16" value="ワルドマップを見ようとすれば&apos;W&apos;背を押せば良いです。"/>
+        <string name="17" value="装備ウィンドーを開こうとすれば&apos;E&apos;背を押せば良いです。"/>
+        <string name="18" value="持っているアイテムリストを見ようとすれば&apos;I&apos;キーを押してアイテム窓を開けば良いです。"/>
+        <string name="19" value="ミニマップを見ようとすれば&apos;M&apos;背を押せば良いです。"/>
+        <string name="20" value="スキルウィンドーを開こうとすれば&apos;K&apos;背を押せば良いです。"/>
+        <string name="21" value="自分のキャラクターの能力するのを見たいときは&apos;S&apos;背を押せば良いです。"/>
+        <string name="22" value="パーティーを作ろうとすればチャット入力欄に&apos;/パーティー作り&apos;と書けば良いです。"/>
+        <string name="23" value="パーティー長が相手をパーティー員として招待しようとすれば&apos;/パーティー招待　相手キャラクター名前&apos;と書けば良いです。"/>
+        <string name="24"
+                value="パーティー長がパーティー員を強制追放させようとすれば&apos;/パーティー強制追放　パーティー員キャラクター名前&apos;と書けば良いです。"/>
+        <string name="25" value="パーティー員がパーティーで脱退しようとすれば&apos;/パーティー脱退&apos;と書けば良いです。"/>
+        <string name="26" value="加入されているパーティーの情報を見ようとすれば&apos;/パーティー情報&apos;と書けば良いです。"/>
+        <string name="27"
+                value="パーティー長が相手をパーティー員として招待しようとすれば相手キャラクターの上にマウス右側クリックをすれば&apos;パーティー招待&apos;のウィンドーが出ます。"/>
+        <string name="28" value="人気度を変化させたい相手キャラクターの上にマウス右側クリックをすれば人気度＋/－機能が出ます。"/>
+        <string name="29" value="人気度の調整は一日に一回しか出来ません。"/>
+        <string name="30" value="一つのキャラクターには一月に一回しか人気度を上げたり下げたりできません。"/>
+    </imgdir>
+    <imgdir name="novice2">
+        <string name="0" value="各村には装備、水薬を購入することができる商店があります。"/>
+        <string name="1" value="一部アイテムは性別、職業別で使用が制限されます。購入の時気を付けてください。"/>
+        <string name="2" value="一度1次転職をすれば他の職業では1次転職することができないです。"/>
+        <string name="3" value="転職後にはキャラクター復活の時、一定比率に経験値が減少されますので気を付けてください!"/>
+        <string name="4" value="クエストを遂行すれば商店で買うことができないアイテムを得ることもできます。"/>
+        <string name="5" value="転職をすればインベントリの数が増えます。"/>
+        <string name="6" value="転職可能レベルで転職をしないでレベルアップしてもスキルポイントは与えられないです。"/>
+        <string name="7" value="チャット入力欄に&apos;/交換　相手キャラクター名前&apos;を入力すれば交換ウィンドーが開かれます。"/>
+        <string name="8" value="魔法師はレベル8で転職して、他の職業はレベル10で転職することができます。"/>
+        <string name="9" value="パーティーを作ろうとすれば対話入力窓に&apos;/パーティー作成&apos;と入力すれば良いです。"/>
+        <string name="10" value="パーティー長が相手をパーティー員で招待しようとすれば&apos;/パーティー招待　相手キャラクター名前&apos;と書けば良いです。"/>
+        <string name="11"
+                value="パーティー長がパーティー員を強制追放させようとすれば&apos;/パーティー強制追放　パーティー員キャラクター名前&apos;と書けば良いです。"/>
+        <string name="12" value="パーティー員がパーティーで脱退しようとすれば&apos;/パーティー脱退&apos;と書けば良いです。"/>
+        <string name="13" value="加入されているパーティーの情報を見ようとすれば&apos;/パーティー情報&apos;と書けば良いです。"/>
+        <string name="14"
+                value="パーティー長が相手をパーティー院で招待しようとすれば相手キャラクターの上にマウス右側クリックをすれば&apos;パーティー招待&apos;機能が出ます。"/>
+        <string name="15" value="人気度をあげるとか下ろうとすれば相手キャラクターの上にマウス右側クリックをすれば人気度+/-機能が出ます。"/>
+        <string name="16" value="人気度の調整は一日に一回しか出来ません。"/>
+        <string name="17" value="一つのキャラクターには一月に一回しか人気度を上げたり下げたりできません。"/>
+    </imgdir>
+    <imgdir name="novice3">
+        <string name="0" value="転職は各村のギルドにて出来ます。"/>
+        <string name="1" value="パッシブスキル（自動反映スキル）はスキルを学べば自動的に適用されます。"/>
+        <string name="2" value="アクティブスキルを使おうとすればスキルウィンドーでドラッグしてホットキーに設定の後使えば良いです。"/>
+        <string name="3" value="各村でにはその村固有の装備を販売しています。"/>
+        <string name="4" value="転職可能レベルで転職をしないでレベルアップしたらスキルポイントは与えられないです。"/>
+        <string name="5" value="転職後レベルアップをするとスキルポイントがまた与えられます。"/>
+        <string name="6" value="スキルポイントは&apos;Skill&apos;ウィンドーから使うことができます。"/>
+        <string name="7" value="地下ダンジョーンには強力なモンスターたちが棲息しますので気を付けてください!"/>
+        <string name="8" value="強力なモンスターを倒せると商店では買えない珍しいアイテムを得ることもできます。"/>
+        <string name="9" value="一定時間が経つとマナが少しずつ増加します。"/>
+        <string name="10" value="マナを消耗するスキルはマナが無いと当然使えないでしょう。"/>
+        <string name="11" value="チャット入力欄に&apos;/交換相手　キャラクター名前&apos;を入力すれば交換ウィンドーが開かれます。"/>
+        <string name="12" value="2次転職は1次転職の後レベル30から転職可能です。"/>
+        <string name="13" value="レベル30以後に得たスキルポイントは2次転職の後に分配した方が良いです。"/>
+        <string name="14" value="3次転職は2次転職の後レベル70で転職可能です。"/>
+    </imgdir>
+    <imgdir name="novice4"></imgdir>
+</imgdir>

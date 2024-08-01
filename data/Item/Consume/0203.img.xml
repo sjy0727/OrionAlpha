@@ -1,1 +1,115 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="0203.img"><imgdir name="02030000"><imgdir name="info"><canvas name="icon" width="32" height="30"><vector name="origin" x="0" y="30"/></canvas><canvas name="iconRaw" width="32" height="28"><vector name="origin" x="0" y="30"/></canvas><string name="name" value="帰還の書"/><int name="price" value="100"/><string name="desc" value="現在位置から一番近い村に帰還することができる。1回使えば消える。"/></imgdir><imgdir name="spec"><int name="moveTo" value="-1"/></imgdir></imgdir><imgdir name="02030001"><imgdir name="info"><canvas name="icon" width="32" height="30"><vector name="origin" x="0" y="30"/></canvas><canvas name="iconRaw" width="32" height="28"><vector name="origin" x="0" y="30"/></canvas><string name="name" value="帰還の書(リス港口)"/><int name="price" value="140"/><string name="desc" value="リス港口に帰還することができる。1回使えば消える。"/></imgdir><imgdir name="spec"><int name="moveTo" value="104000000"/></imgdir></imgdir><imgdir name="02030002"><imgdir name="info"><canvas name="icon" width="32" height="30"><vector name="origin" x="0" y="30"/></canvas><canvas name="iconRaw" width="32" height="28"><vector name="origin" x="0" y="30"/></canvas><string name="name" value="帰還の書(エリニア)"/><int name="price" value="140"/><string name="desc" value="神秘的な森にある村、エリニアへ帰還できる。一回使えば消える。"/></imgdir><imgdir name="spec"><int name="moveTo" value="101000000"/></imgdir></imgdir><imgdir name="02030003"><imgdir name="info"><canvas name="icon" width="32" height="30"><vector name="origin" x="0" y="30"/></canvas><canvas name="iconRaw" width="32" height="28"><vector name="origin" x="0" y="30"/></canvas><string name="name" value="帰還の書(ペリオン)"/><int name="price" value="140"/><string name="desc" value="高原の村、ペリオンへ帰還できる。1回使えば消える。"/></imgdir><imgdir name="spec"><int name="moveTo" value="102000000"/></imgdir></imgdir><imgdir name="02030004"><imgdir name="info"><canvas name="icon" width="32" height="30"><vector name="origin" x="0" y="30"/></canvas><canvas name="iconRaw" width="32" height="28"><vector name="origin" x="0" y="30"/></canvas><string name="name" value="帰還の書(ヘネシス)"/><int name="price" value="140"/><string name="desc" value="平和な草原にある村、ヘネシスへ帰還できる。1回使えば消える。"/></imgdir><imgdir name="spec"><int name="moveTo" value="100000000"/></imgdir></imgdir><imgdir name="02030005"><imgdir name="info"><canvas name="icon" width="32" height="30"><vector name="origin" x="0" y="30"/></canvas><canvas name="iconRaw" width="32" height="28"><vector name="origin" x="0" y="30"/></canvas><string name="name" value="帰還の書(カニング)"/><int name="price" value="140"/><string name="desc" value="ビルがたち並ぶカニングシティーへ帰還できる。1回使えば消える。"/></imgdir><imgdir name="spec"><int name="moveTo" value="103000000"/></imgdir></imgdir><imgdir name="02030006"><imgdir name="info"><canvas name="icon" width="32" height="30"><vector name="origin" x="0" y="30"/></canvas><canvas name="iconRaw" width="32" height="28"><vector name="origin" x="0" y="30"/></canvas><string name="name" value="帰還の書(スリーピー)"/><int name="price" value="150"/><string name="desc" value="森の奥深くにあるスリーピーウッドへ帰還できる。一回使えば消える。"/></imgdir><imgdir name="spec"><int name="moveTo" value="105040300"/></imgdir></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0203.img">
+    <imgdir name="02030000">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="28">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <string name="name" value="帰還の書"/>
+            <int name="price" value="100"/>
+            <string name="desc" value="現在位置から一番近い村に帰還することができる。1回使えば消える。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="moveTo" value="-1"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02030001">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="28">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <string name="name" value="帰還の書(リス港口)"/>
+            <int name="price" value="140"/>
+            <string name="desc" value="リス港口に帰還することができる。1回使えば消える。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="moveTo" value="104000000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02030002">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="28">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <string name="name" value="帰還の書(エリニア)"/>
+            <int name="price" value="140"/>
+            <string name="desc" value="神秘的な森にある村、エリニアへ帰還できる。一回使えば消える。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="moveTo" value="101000000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02030003">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="28">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <string name="name" value="帰還の書(ペリオン)"/>
+            <int name="price" value="140"/>
+            <string name="desc" value="高原の村、ペリオンへ帰還できる。1回使えば消える。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="moveTo" value="102000000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02030004">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="28">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <string name="name" value="帰還の書(ヘネシス)"/>
+            <int name="price" value="140"/>
+            <string name="desc" value="平和な草原にある村、ヘネシスへ帰還できる。1回使えば消える。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="moveTo" value="100000000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02030005">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="28">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <string name="name" value="帰還の書(カニング)"/>
+            <int name="price" value="140"/>
+            <string name="desc" value="ビルがたち並ぶカニングシティーへ帰還できる。1回使えば消える。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="moveTo" value="103000000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02030006">
+        <imgdir name="info">
+            <canvas name="icon" width="32" height="30">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <canvas name="iconRaw" width="32" height="28">
+                <vector name="origin" x="0" y="30"/>
+            </canvas>
+            <string name="name" value="帰還の書(スリーピー)"/>
+            <int name="price" value="150"/>
+            <string name="desc" value="森の奥深くにあるスリーピーウッドへ帰還できる。一回使えば消える。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="moveTo" value="105040300"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

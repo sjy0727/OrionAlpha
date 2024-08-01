@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="1022003.img"><imgdir name="info"><string name="name" value="サンダー"/><string name="quest" value="refine_perion"/><imgdir name="speak"><string name="0" value="この俺に作れないものは何もないぜ！　ワッハッハ！"/><string name="1" value="宝石や鉱石を持っているか？　持っているなら見せてくれ!!"/></imgdir></imgdir><imgdir name="stand"><canvas name="0" width="56" height="73"><vector name="origin" x="28" y="73"/><int name="z" value="0"/></canvas></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1022003.img">
+    <imgdir name="info">
+        <string name="name" value="サンダー"/>
+        <string name="quest" value="refine_perion"/>
+        <imgdir name="speak">
+            <string name="0" value="この俺に作れないものは何もないぜ！　ワッハッハ！"/>
+            <string name="1" value="宝石や鉱石を持っているか？　持っているなら見せてくれ!!"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="56" height="73">
+            <vector name="origin" x="28" y="73"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+</imgdir>

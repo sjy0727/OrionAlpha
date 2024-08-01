@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="01002186.img"><imgdir name="info"><canvas name="icon" width="27" height="27"><vector name="origin" x="-3" y="27"/></canvas><canvas name="iconRaw" width="25" height="20"><vector name="origin" x="-3" y="27"/></canvas><string name="name" value="透明帽子"/><string name="islot" value="Cp"/><string name="vslot" value="Cp"/><int name="reqJob" value="0"/><int name="reqLevel" value="5"/><int name="reqSTR" value="0"/><int name="reqDEX" value="0"/><int name="reqINT" value="0"/><int name="reqLUK" value="0"/><int name="cash" value="1"/><string name="desc" value="現在被っている帽子の機能を全部使いながら隠されていない髪形を見たい時に使って下さい。"/></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01002186.img">
+    <imgdir name="info">
+        <canvas name="icon" width="27" height="27">
+            <vector name="origin" x="-3" y="27"/>
+        </canvas>
+        <canvas name="iconRaw" width="25" height="20">
+            <vector name="origin" x="-3" y="27"/>
+        </canvas>
+        <string name="name" value="透明帽子"/>
+        <string name="islot" value="Cp"/>
+        <string name="vslot" value="Cp"/>
+        <int name="reqJob" value="0"/>
+        <int name="reqLevel" value="5"/>
+        <int name="reqSTR" value="0"/>
+        <int name="reqDEX" value="0"/>
+        <int name="reqINT" value="0"/>
+        <int name="reqLUK" value="0"/>
+        <int name="cash" value="1"/>
+        <string name="desc" value="現在被っている帽子の機能を全部使いながら隠されていない髪形を見たい時に使って下さい。"/>
+    </imgdir>
+</imgdir>

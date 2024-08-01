@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="1002000.img"><imgdir name="info"><string name="name" value="ピル"/><string name="quest" value="rithTeleport"/><imgdir name="speak"><string name="0" value="アイテムウインドウを開けば装備、消費、設置、その他のタブが出るよ。"/><string name="1" value="取ったアイテムは自動的にアイテムウインドウに整理されるんだ。どうだい？　簡単だろ？"/><string name="2" value="アイテムウインドウにあるアイテムをダブルクリックすれば使うことができるよ。"/></imgdir></imgdir><imgdir name="stand"><canvas name="0" width="56" height="70"><vector name="origin" x="26" y="70"/><int name="z" value="0"/><int name="delay" value="5000"/></canvas></imgdir><imgdir name="finger"><canvas name="0" width="56" height="70"><vector name="origin" x="26" y="70"/><int name="z" value="0"/><int name="delay" value="5000"/></canvas><imgdir name="speak"><string name="0" value="アイテムを捨てたいの？　それならアイテムウインドウのアイテムをドラッグしてアイテムウインドウの外に出してみて。"/><string name="1" value="アイテムウインドウがいっぱいになると新しいアイテムを持つことができないんだ。いらないアイテムは、捨てるか商店に売るようにするといいよ。"/><string name="2" value="消費アイテムは画面右下のホットキーに入れて使うこともできるんだ。"/></imgdir></imgdir><imgdir name="wink"><canvas name="0" width="56" height="70"><vector name="origin" x="26" y="70"/><int name="z" value="0"/><int name="delay" value="200"/></canvas><canvas name="1" width="56" height="70"><vector name="origin" x="26" y="70"/><int name="z" value="0"/><int name="delay" value="4800"/></canvas><imgdir name="speak"><string name="0" value="HPが0になると死んでしまうんだ。そうなる前にポーションや食べ物を食べるといいよ。"/><string name="1" value="なに、旅に出たいの？"/><string name="2" value="人に声をかけるときはその人物をマウスでダブルクリックすればいいんだよ。"/></imgdir></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1002000.img">
+    <imgdir name="info">
+        <string name="name" value="ピル"/>
+        <string name="quest" value="rithTeleport"/>
+        <imgdir name="speak">
+            <string name="0" value="アイテムウインドウを開けば装備、消費、設置、その他のタブが出るよ。"/>
+            <string name="1" value="取ったアイテムは自動的にアイテムウインドウに整理されるんだ。どうだい？　簡単だろ？"/>
+            <string name="2" value="アイテムウインドウにあるアイテムをダブルクリックすれば使うことができるよ。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="56" height="70">
+            <vector name="origin" x="26" y="70"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="5000"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="finger">
+        <canvas name="0" width="56" height="70">
+            <vector name="origin" x="26" y="70"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="5000"/>
+        </canvas>
+        <imgdir name="speak">
+            <string name="0" value="アイテムを捨てたいの？　それならアイテムウインドウのアイテムをドラッグしてアイテムウインドウの外に出してみて。"/>
+            <string name="1" value="アイテムウインドウがいっぱいになると新しいアイテムを持つことができないんだ。いらないアイテムは、捨てるか商店に売るようにするといいよ。"/>
+            <string name="2" value="消費アイテムは画面右下のホットキーに入れて使うこともできるんだ。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="wink">
+        <canvas name="0" width="56" height="70">
+            <vector name="origin" x="26" y="70"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="200"/>
+        </canvas>
+        <canvas name="1" width="56" height="70">
+            <vector name="origin" x="26" y="70"/>
+            <int name="z" value="0"/>
+            <int name="delay" value="4800"/>
+        </canvas>
+        <imgdir name="speak">
+            <string name="0" value="HPが0になると死んでしまうんだ。そうなる前にポーションや食べ物を食べるといいよ。"/>
+            <string name="1" value="なに、旅に出たいの？"/>
+            <string name="2" value="人に声をかけるときはその人物をマウスでダブルクリックすればいいんだよ。"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

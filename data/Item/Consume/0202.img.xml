@@ -1,1 +1,212 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="0202.img"><imgdir name="02020000"><imgdir name="info"><canvas name="icon" width="30" height="24"><vector name="origin" x="-1" y="24"/></canvas><canvas name="iconRaw" width="30" height="19"><vector name="origin" x="-1" y="24"/></canvas><string name="name" value="サラダ"/><int name="price" value="210"/><string name="desc" value="新鮮な野菜で作った食べ物。\nMPを約200回復させる。"/></imgdir><imgdir name="spec"><int name="mp" value="200"/></imgdir></imgdir><imgdir name="02020001"><imgdir name="info"><canvas name="icon" width="26" height="25"><vector name="origin" x="-4" y="25"/></canvas><canvas name="iconRaw" width="25" height="19"><vector name="origin" x="-4" y="25"/></canvas><string name="name" value="チキン"/><int name="price" value="110"/><string name="desc" value="鳥肉を油でよく揚げた食べ物。\nHPを約200回復させる。"/></imgdir><imgdir name="spec"><int name="hp" value="200"/></imgdir></imgdir><imgdir name="02020002"><imgdir name="info"><canvas name="icon" width="26" height="26"><vector name="origin" x="-4" y="26"/></canvas><canvas name="iconRaw" width="20" height="22"><vector name="origin" x="-6" y="26"/></canvas><string name="name" value="ケーキ"/><int name="price" value="160"/><string name="desc" value="甘いクリームをふんだんに使ったケーキ。 HPとMPを約100ずつ回復させる。"/></imgdir><imgdir name="spec"><int name="hp" value="100"/><int name="mp" value="100"/></imgdir></imgdir><imgdir name="02020003"><imgdir name="info"><canvas name="icon" width="26" height="23"><vector name="origin" x="-4" y="23"/></canvas><canvas name="iconRaw" width="25" height="17"><vector name="origin" x="-4" y="23"/></canvas><string name="name" value="ピザ"/><int name="price" value="225"/><string name="desc" value="焼きたてのピザ。 HPを約400回復させる。"/></imgdir><imgdir name="spec"><int name="hp" value="400"/></imgdir></imgdir><imgdir name="02020004"><imgdir name="info"><canvas name="icon" width="26" height="26"><vector name="origin" x="-4" y="26"/></canvas><canvas name="iconRaw" width="25" height="22"><vector name="origin" x="-4" y="26"/></canvas><string name="name" value="ハンバーガー"/><int name="price" value="225"/><string name="desc" value="焼きたてのハンバーグを使ったハンバーガー。 HPを約400回復させる。"/></imgdir><imgdir name="spec"><int name="hp" value="400"/></imgdir></imgdir><imgdir name="02020005"><imgdir name="info"><canvas name="icon" width="26" height="26"><vector name="origin" x="-4" y="26"/></canvas><canvas name="iconRaw" width="22" height="21"><vector name="origin" x="-6" y="26"/></canvas><string name="name" value="ロングホットドッグ"/><int name="price" value="160"/><string name="desc" value="ケチャップをたっぷりかけてあるホットドッグ。 HPを約300回復させる。"/></imgdir><imgdir name="spec"><int name="hp" value="300"/></imgdir></imgdir><imgdir name="02020006"><imgdir name="info"><canvas name="icon" width="30" height="24"><vector name="origin" x="-2" y="24"/></canvas><canvas name="iconRaw" width="30" height="18"><vector name="origin" x="-2" y="24"/></canvas><string name="name" value="ビッグホットドッグ"/><int name="price" value="265"/><string name="desc" value="大きなアメリカンホットドッグ。 HPを約500回復させる。"/></imgdir><imgdir name="spec"><int name="hp" value="500"/></imgdir></imgdir><imgdir name="02022000"><imgdir name="info"><canvas name="icon" width="26" height="32"><vector name="origin" x="-4" y="32"/></canvas><canvas name="iconRaw" width="15" height="32"><vector name="origin" x="-9" y="32"/></canvas><string name="name" value="ミネラルウォーター"/><int name="price" value="825"/><string name="desc" value="非常にきれいな水。\nMPを約800回復させる。"/></imgdir><imgdir name="spec"><int name="mp" value="800"/></imgdir></imgdir><imgdir name="02022001"><imgdir name="info"><canvas name="icon" width="26" height="22"><vector name="origin" x="-4" y="22"/></canvas><canvas name="iconRaw" width="20" height="16"><vector name="origin" x="-7" y="22"/></canvas><string name="name" value="小豆粥"/><int name="price" value="400"/><string name="desc" value="小豆を煮込んで作った粥。"/></imgdir><imgdir name="spec"></imgdir></imgdir><imgdir name="02022002"><imgdir name="info"><canvas name="icon" width="26" height="32"><vector name="origin" x="-4" y="32"/></canvas><canvas name="iconRaw" width="13" height="32"><vector name="origin" x="-10" y="32"/></canvas><string name="name" value="サイダー"/><int name="price" value="225"/><string name="desc" value="よく冷えた炭酸ドリンク。"/></imgdir><imgdir name="spec"><int name="pda" value="20"/><int name="acc" value="-5"/><int name="time" value="180000"/></imgdir></imgdir><imgdir name="02022003"><imgdir name="info"><canvas name="icon" width="31" height="22"><vector name="origin" x="-1" y="22"/></canvas><canvas name="iconRaw" width="31" height="17"><vector name="origin" x="-1" y="22"/></canvas><string name="name" value="ウナギ焼"/><int name="price" value="550"/><string name="desc" value="おいしく味付けされたウナギ焼。\nHPを約1000回復させてくれる。"/></imgdir><imgdir name="spec"><int name="hp" value="1000"/></imgdir></imgdir><imgdir name="02022004"><imgdir name="info"><canvas name="icon" width="27" height="27"><vector name="origin" x="-3" y="27"/></canvas><canvas name="iconRaw" width="27" height="23"><vector name="origin" x="-3" y="27"/></canvas><string name="name" value="松餅（ソンピョン）"/><int name="price" value="750"/><string name="desc" value="美味しい蜂蜜がたっぷり入っている韓国の伝統餅。\nHPを1500位回復させる"/></imgdir><imgdir name="spec"><int name="hp" value="1500"/></imgdir></imgdir><imgdir name="02022005"><imgdir name="info"><canvas name="icon" width="31" height="31"><vector name="origin" x="-1" y="31"/></canvas><canvas name="iconRaw" width="31" height="30"><vector name="origin" x="-1" y="31"/></canvas><string name="name" value="韓菓（ハンガ）"/><int name="price" value="750"/><string name="desc" value="美味しい香りがする韓国の伝統お菓子。\nMPを1500位回復させる"/></imgdir><imgdir name="spec"><int name="mp" value="1500"/></imgdir></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0202.img">
+    <imgdir name="02020000">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="24">
+                <vector name="origin" x="-1" y="24"/>
+            </canvas>
+            <canvas name="iconRaw" width="30" height="19">
+                <vector name="origin" x="-1" y="24"/>
+            </canvas>
+            <string name="name" value="サラダ"/>
+            <int name="price" value="210"/>
+            <string name="desc" value="新鮮な野菜で作った食べ物。\nMPを約200回復させる。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="mp" value="200"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02020001">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="25">
+                <vector name="origin" x="-4" y="25"/>
+            </canvas>
+            <canvas name="iconRaw" width="25" height="19">
+                <vector name="origin" x="-4" y="25"/>
+            </canvas>
+            <string name="name" value="チキン"/>
+            <int name="price" value="110"/>
+            <string name="desc" value="鳥肉を油でよく揚げた食べ物。\nHPを約200回復させる。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="hp" value="200"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02020002">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="26">
+                <vector name="origin" x="-4" y="26"/>
+            </canvas>
+            <canvas name="iconRaw" width="20" height="22">
+                <vector name="origin" x="-6" y="26"/>
+            </canvas>
+            <string name="name" value="ケーキ"/>
+            <int name="price" value="160"/>
+            <string name="desc" value="甘いクリームをふんだんに使ったケーキ。 HPとMPを約100ずつ回復させる。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="hp" value="100"/>
+            <int name="mp" value="100"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02020003">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="23">
+                <vector name="origin" x="-4" y="23"/>
+            </canvas>
+            <canvas name="iconRaw" width="25" height="17">
+                <vector name="origin" x="-4" y="23"/>
+            </canvas>
+            <string name="name" value="ピザ"/>
+            <int name="price" value="225"/>
+            <string name="desc" value="焼きたてのピザ。 HPを約400回復させる。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="hp" value="400"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02020004">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="26">
+                <vector name="origin" x="-4" y="26"/>
+            </canvas>
+            <canvas name="iconRaw" width="25" height="22">
+                <vector name="origin" x="-4" y="26"/>
+            </canvas>
+            <string name="name" value="ハンバーガー"/>
+            <int name="price" value="225"/>
+            <string name="desc" value="焼きたてのハンバーグを使ったハンバーガー。 HPを約400回復させる。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="hp" value="400"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02020005">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="26">
+                <vector name="origin" x="-4" y="26"/>
+            </canvas>
+            <canvas name="iconRaw" width="22" height="21">
+                <vector name="origin" x="-6" y="26"/>
+            </canvas>
+            <string name="name" value="ロングホットドッグ"/>
+            <int name="price" value="160"/>
+            <string name="desc" value="ケチャップをたっぷりかけてあるホットドッグ。 HPを約300回復させる。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="hp" value="300"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02020006">
+        <imgdir name="info">
+            <canvas name="icon" width="30" height="24">
+                <vector name="origin" x="-2" y="24"/>
+            </canvas>
+            <canvas name="iconRaw" width="30" height="18">
+                <vector name="origin" x="-2" y="24"/>
+            </canvas>
+            <string name="name" value="ビッグホットドッグ"/>
+            <int name="price" value="265"/>
+            <string name="desc" value="大きなアメリカンホットドッグ。 HPを約500回復させる。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="hp" value="500"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02022000">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="32">
+                <vector name="origin" x="-4" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="15" height="32">
+                <vector name="origin" x="-9" y="32"/>
+            </canvas>
+            <string name="name" value="ミネラルウォーター"/>
+            <int name="price" value="825"/>
+            <string name="desc" value="非常にきれいな水。\nMPを約800回復させる。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="mp" value="800"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02022001">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="22">
+                <vector name="origin" x="-4" y="22"/>
+            </canvas>
+            <canvas name="iconRaw" width="20" height="16">
+                <vector name="origin" x="-7" y="22"/>
+            </canvas>
+            <string name="name" value="小豆粥"/>
+            <int name="price" value="400"/>
+            <string name="desc" value="小豆を煮込んで作った粥。"/>
+        </imgdir>
+        <imgdir name="spec"></imgdir>
+    </imgdir>
+    <imgdir name="02022002">
+        <imgdir name="info">
+            <canvas name="icon" width="26" height="32">
+                <vector name="origin" x="-4" y="32"/>
+            </canvas>
+            <canvas name="iconRaw" width="13" height="32">
+                <vector name="origin" x="-10" y="32"/>
+            </canvas>
+            <string name="name" value="サイダー"/>
+            <int name="price" value="225"/>
+            <string name="desc" value="よく冷えた炭酸ドリンク。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="pda" value="20"/>
+            <int name="acc" value="-5"/>
+            <int name="time" value="180000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02022003">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="22">
+                <vector name="origin" x="-1" y="22"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="17">
+                <vector name="origin" x="-1" y="22"/>
+            </canvas>
+            <string name="name" value="ウナギ焼"/>
+            <int name="price" value="550"/>
+            <string name="desc" value="おいしく味付けされたウナギ焼。\nHPを約1000回復させてくれる。"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="hp" value="1000"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02022004">
+        <imgdir name="info">
+            <canvas name="icon" width="27" height="27">
+                <vector name="origin" x="-3" y="27"/>
+            </canvas>
+            <canvas name="iconRaw" width="27" height="23">
+                <vector name="origin" x="-3" y="27"/>
+            </canvas>
+            <string name="name" value="松餅（ソンピョン）"/>
+            <int name="price" value="750"/>
+            <string name="desc" value="美味しい蜂蜜がたっぷり入っている韓国の伝統餅。\nHPを1500位回復させる"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="hp" value="1500"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="02022005">
+        <imgdir name="info">
+            <canvas name="icon" width="31" height="31">
+                <vector name="origin" x="-1" y="31"/>
+            </canvas>
+            <canvas name="iconRaw" width="31" height="30">
+                <vector name="origin" x="-1" y="31"/>
+            </canvas>
+            <string name="name" value="韓菓（ハンガ）"/>
+            <int name="price" value="750"/>
+            <string name="desc" value="美味しい香りがする韓国の伝統お菓子。\nMPを1500位回復させる"/>
+        </imgdir>
+        <imgdir name="spec">
+            <int name="mp" value="1500"/>
+        </imgdir>
+    </imgdir>
+</imgdir>

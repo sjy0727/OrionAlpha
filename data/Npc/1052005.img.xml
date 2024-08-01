@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="1052005.img"><imgdir name="info"><string name="name" value="医者ヘッポコ"/><string name="quest" value="face_henesys2"/><imgdir name="speak"><string name="0" value="この眼鏡は、もう長く使っているもんでよく見えないのう…。"/><string name="1" value="何……顔を変えたいじゃと……？　ひょほほ。"/><string name="2" value="整形手術じゃな……私に任せなさい、ひょほほ。ところで、顔はこのあたりじゃったかな？"/></imgdir></imgdir><imgdir name="stand"><canvas name="0" width="51" height="70"><vector name="origin" x="25" y="70"/><int name="z" value="0"/></canvas></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1052005.img">
+    <imgdir name="info">
+        <string name="name" value="医者ヘッポコ"/>
+        <string name="quest" value="face_henesys2"/>
+        <imgdir name="speak">
+            <string name="0" value="この眼鏡は、もう長く使っているもんでよく見えないのう…。"/>
+            <string name="1" value="何……顔を変えたいじゃと……？　ひょほほ。"/>
+            <string name="2" value="整形手術じゃな……私に任せなさい、ひょほほ。ところで、顔はこのあたりじゃったかな？"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="51" height="70">
+            <vector name="origin" x="25" y="70"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+</imgdir>

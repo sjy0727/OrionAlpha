@@ -1,1 +1,1169 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="410.img"><imgdir name="info"><string name="bookName" value="アサシンのガイド"/><canvas name="icon" width="26" height="30"><vector name="origin" x="-4" y="30"/></canvas></imgdir><imgdir name="skill"><imgdir name="4100000"><canvas name="icon" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><canvas name="iconMouseOver" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><canvas name="iconDisabled" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><string name="name" value="プログレス(投擲)"/><string name="desc" value="[マスターレベル： 20]\n手裏剣をうまく扱えるようになる。手裏剣の最大補充数も増加する。このスキルは手裏剣のみに適用される。"/><int name="skillType" value="1"/><imgdir name="level"><imgdir name="1"><string name="hs" value="小手系武器の熟練度15%、命中率1、手裏剣ストック数10上昇"/><int name="mastery" value="1"/><int name="x" value="1"/><int name="y" value="10"/></imgdir><imgdir name="2"><string name="hs" value="小手系武器の熟練度15%、命中率2、手裏剣ストック数15上昇"/><int name="mastery" value="1"/><int name="x" value="2"/><int name="y" value="20"/></imgdir><imgdir name="3"><string name="hs" value="小手系武器の熟練度20%、命中率3、手裏剣ストック数30上昇"/><int name="mastery" value="2"/><int name="x" value="3"/><int name="y" value="30"/></imgdir><imgdir name="4"><string name="hs" value="小手系武器の熟練度20%、命中率4、手裏剣ストック数40上昇"/><int name="mastery" value="2"/><int name="x" value="4"/><int name="y" value="40"/></imgdir><imgdir name="5"><string name="hs" value="小手系武器の熟練度25%、命中率5、手裏剣ストック数50上昇"/><int name="mastery" value="3"/><int name="x" value="5"/><int name="y" value="50"/></imgdir><imgdir name="6"><string name="hs" value="小手系武器の熟練度25%、命中率6、手裏剣ストック数60上昇"/><int name="mastery" value="3"/><int name="x" value="6"/><int name="y" value="60"/></imgdir><imgdir name="7"><string name="hs" value="小手系武器の熟練度30%、命中率7、手裏剣ストック数70上昇"/><int name="mastery" value="4"/><int name="x" value="7"/><int name="y" value="70"/></imgdir><imgdir name="8"><string name="hs" value="小手系武器の熟練度30%、命中率8、手裏剣ストック数80上昇"/><int name="mastery" value="4"/><int name="x" value="8"/><int name="y" value="80"/></imgdir><imgdir name="9"><string name="hs" value="小手系武器の熟練度35%、命中率9、手裏剣ストック数90上昇"/><int name="mastery" value="5"/><int name="x" value="9"/><int name="y" value="90"/></imgdir><imgdir name="10"><string name="hs" value="小手系武器の熟練度35%、命中率10、手裏剣ストック数100上昇"/><int name="mastery" value="5"/><int name="x" value="10"/><int name="y" value="100"/></imgdir><imgdir name="11"><string name="hs" value="小手系武器の熟練度40%、命中率11、手裏剣ストック数110上昇"/><int name="mastery" value="6"/><int name="x" value="11"/><int name="y" value="110"/></imgdir><imgdir name="12"><string name="hs" value="小手系武器の熟練度40%、命中率12、手裏剣ストック数120上昇"/><int name="mastery" value="6"/><int name="x" value="12"/><int name="y" value="120"/></imgdir><imgdir name="13"><string name="hs" value="小手系武器の熟練度45%、命中率13、手裏剣ストック数130上昇"/><int name="mastery" value="7"/><int name="x" value="13"/><int name="y" value="130"/></imgdir><imgdir name="14"><string name="hs" value="小手系武器の熟練度45%、命中率14、手裏剣ストック数140上昇"/><int name="mastery" value="7"/><int name="x" value="14"/><int name="y" value="140"/></imgdir><imgdir name="15"><string name="hs" value="小手系武器の熟練度50%、命中率15、手裏剣ストック数150上昇"/><int name="mastery" value="8"/><int name="x" value="15"/><int name="y" value="150"/></imgdir><imgdir name="16"><string name="hs" value="小手系武器の熟練度50%、命中率16、手裏剣ストック数160上昇"/><int name="mastery" value="8"/><int name="x" value="16"/><int name="y" value="160"/></imgdir><imgdir name="17"><string name="hs" value="小手系武器の熟練度55%、命中率17、手裏剣ストック数170上昇"/><int name="mastery" value="9"/><int name="x" value="17"/><int name="y" value="170"/></imgdir><imgdir name="18"><string name="hs" value="小手系武器の熟練度55%、命中率18、手裏剣ストック数180上昇"/><int name="mastery" value="9"/><int name="x" value="18"/><int name="y" value="180"/></imgdir><imgdir name="19"><string name="hs" value="小手系武器の熟練度60%、命中率19、手裏剣ストック数190上昇"/><int name="mastery" value="10"/><int name="x" value="19"/><int name="y" value="190"/></imgdir><imgdir name="20"><string name="hs" value="小手系武器の熟練度60%、命中率20、手裏剣ストック数200上昇"/><int name="mastery" value="10"/><int name="x" value="20"/><int name="y" value="200"/></imgdir></imgdir></imgdir><imgdir name="4100001"><canvas name="icon" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><canvas name="iconMouseOver" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><canvas name="iconDisabled" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><string name="name" value="クリティカル"/><string name="desc" value="[マスターレベル： 30]\n一定確率で手裏剣によるクリティカル攻撃が発生するようになる。"/><imgdir name="level"><imgdir name="1"><string name="hs" value="確率21%でクリティカルダメージ113%"/><int name="prop" value="21"/><int name="damage" value="113"/></imgdir><imgdir name="2"><string name="hs" value="確率22%でクリティカルダメージ116%"/><int name="prop" value="22"/><int name="damage" value="116"/></imgdir><imgdir name="3"><string name="hs" value="確率23%でクリティカルダメージ119%"/><int name="prop" value="23"/><int name="damage" value="119"/></imgdir><imgdir name="4"><string name="hs" value="確率24%でクリティカルダメージ122%"/><int name="prop" value="24"/><int name="damage" value="122"/></imgdir><imgdir name="5"><string name="hs" value="確率25%でクリティカルダメージ125%"/><int name="prop" value="25"/><int name="damage" value="125"/></imgdir><imgdir name="6"><string name="hs" value="確率26%でクリティカルダメージ128%"/><int name="prop" value="26"/><int name="damage" value="128"/></imgdir><imgdir name="7"><string name="hs" value="確率27%でクリティカルダメージ131%"/><int name="prop" value="27"/><int name="damage" value="131"/></imgdir><imgdir name="8"><string name="hs" value="確率28%でクリティカルダメージ134%"/><int name="prop" value="28"/><int name="damage" value="134"/></imgdir><imgdir name="9"><string name="hs" value="確率29%でクリティカルダメージ137%"/><int name="prop" value="29"/><int name="damage" value="137"/></imgdir><imgdir name="10"><string name="hs" value="確率30%でクリティカルダメージ140%"/><int name="prop" value="30"/><int name="damage" value="140"/></imgdir><imgdir name="11"><string name="hs" value="確率31%でクリティカルダメージ143%"/><int name="prop" value="31"/><int name="damage" value="143"/></imgdir><imgdir name="12"><string name="hs" value="確率32%でクリティカルダメージ146%"/><int name="prop" value="32"/><int name="damage" value="146"/></imgdir><imgdir name="13"><string name="hs" value="確率33%でクリティカルダメージ149%"/><int name="prop" value="33"/><int name="damage" value="149"/></imgdir><imgdir name="14"><string name="hs" value="確率34%でクリティカルダメージ152%"/><int name="prop" value="34"/><int name="damage" value="152"/></imgdir><imgdir name="15"><string name="hs" value="確率35%でクリティカルダメージ155%"/><int name="prop" value="35"/><int name="damage" value="155"/></imgdir><imgdir name="16"><string name="hs" value="確率36%でクリティカルダメージ158%"/><int name="prop" value="36"/><int name="damage" value="158"/></imgdir><imgdir name="17"><string name="hs" value="確率37%でクリティカルダメージ161%"/><int name="prop" value="37"/><int name="damage" value="161"/></imgdir><imgdir name="18"><string name="hs" value="確率38%でクリティカルダメージ164%"/><int name="prop" value="38"/><int name="damage" value="164"/></imgdir><imgdir name="19"><string name="hs" value="確率39%でクリティカルダメージ167%"/><int name="prop" value="39"/><int name="damage" value="167"/></imgdir><imgdir name="20"><string name="hs" value="確率40%でクリティカルダメージ170%"/><int name="prop" value="40"/><int name="damage" value="170"/></imgdir><imgdir name="21"><string name="hs" value="確率41%でクリティカルダメージ173%"/><int name="prop" value="41"/><int name="damage" value="173"/></imgdir><imgdir name="22"><string name="hs" value="確率42%でクリティカルダメージ176%"/><int name="prop" value="42"/><int name="damage" value="176"/></imgdir><imgdir name="23"><string name="hs" value="確率43%でクリティカルダメージ179%"/><int name="prop" value="43"/><int name="damage" value="179"/></imgdir><imgdir name="24"><string name="hs" value="確率44%でクリティカルダメージ182%"/><int name="prop" value="44"/><int name="damage" value="182"/></imgdir><imgdir name="25"><string name="hs" value="確率45%でクリティカルダメージ185%"/><int name="prop" value="45"/><int name="damage" value="185"/></imgdir><imgdir name="26"><string name="hs" value="確率46%でクリティカルダメージ188%"/><int name="prop" value="46"/><int name="damage" value="188"/></imgdir><imgdir name="27"><string name="hs" value="確率47%でクリティカルダメージ191%"/><int name="prop" value="47"/><int name="damage" value="191"/></imgdir><imgdir name="28"><string name="hs" value="確率48%でクリティカルダメージ194%"/><int name="prop" value="48"/><int name="damage" value="194"/></imgdir><imgdir name="29"><string name="hs" value="確率49%でクリティカルダメージ197%"/><int name="prop" value="49"/><int name="damage" value="197"/></imgdir><imgdir name="30"><string name="hs" value="確率50%でクリティカルダメージ200%"/><int name="prop" value="50"/><int name="damage" value="200"/></imgdir></imgdir><imgdir name="req"><int name="4100000" value="3"/></imgdir><imgdir name="damage"><canvas name="0" width="86" height="14"><vector name="origin" x="-10" y="7"/><int name="delay" value="120"/></canvas><canvas name="1" width="83" height="14"><vector name="origin" x="16" y="7"/><int name="z" value="100"/><int name="delay" value="120"/></canvas><canvas name="2" width="66" height="16"><vector name="origin" x="32" y="8"/><int name="delay" value="120"/></canvas><canvas name="3" width="65" height="14"><vector name="origin" x="32" y="7"/><int name="delay" value="300"/></canvas><canvas name="4" width="66" height="16"><vector name="origin" x="26" y="8"/><int name="delay" value="150"/></canvas><canvas name="5" width="86" height="14"><vector name="origin" x="60" y="7"/><int name="delay" value="120"/></canvas><canvas name="6" width="86" height="14"><vector name="origin" x="91" y="7"/><int name="delay" value="120"/></canvas></imgdir></imgdir><imgdir name="4100002"><canvas name="icon" width="32" height="33"><vector name="origin" x="0" y="33"/><int name="z" value="0"/></canvas><canvas name="iconMouseOver" width="32" height="33"><vector name="origin" x="0" y="33"/><int name="z" value="0"/></canvas><canvas name="iconDisabled" width="32" height="33"><vector name="origin" x="0" y="33"/><int name="z" value="0"/></canvas><string name="name" value="サバイバル"/><string name="desc" value="[マスターレベル： 20]\n自然回復とは別に、HPとMPが自動的に回復するようになる。"/><imgdir name="level"><imgdir name="1"><string name="hs" value="29秒毎にHP 3、MP 1追加回復"/><int name="time" value="29"/><int name="hp" value="3"/><int name="mp" value="1"/></imgdir><imgdir name="2"><string name="hs" value="28秒毎にHP 6、MP 2追加回復"/><int name="time" value="28"/><int name="hp" value="6"/><int name="mp" value="2"/></imgdir><imgdir name="3"><string name="hs" value="27秒毎にHP 9、MP 3追加回復"/><int name="time" value="27"/><int name="hp" value="9"/><int name="mp" value="3"/></imgdir><imgdir name="4"><string name="hs" value="26秒毎にHP 12、MP 4追加回復"/><int name="time" value="26"/><int name="hp" value="12"/><int name="mp" value="4"/></imgdir><imgdir name="5"><string name="hs" value="25秒毎にHP 15、MP 5追加回復"/><int name="time" value="25"/><int name="hp" value="15"/><int name="mp" value="5"/></imgdir><imgdir name="6"><string name="hs" value="24秒毎にHP 18、MP 6追加回復"/><int name="time" value="24"/><int name="hp" value="18"/><int name="mp" value="6"/></imgdir><imgdir name="7"><string name="hs" value="23秒毎にHP 21、MP 7追加回復"/><int name="time" value="23"/><int name="hp" value="21"/><int name="mp" value="7"/></imgdir><imgdir name="8"><string name="hs" value="22秒毎にHP 24、MP 8追加回復"/><int name="time" value="22"/><int name="hp" value="24"/><int name="mp" value="8"/></imgdir><imgdir name="9"><string name="hs" value="21秒毎にHP 27、MP 9追加回復"/><int name="time" value="21"/><int name="hp" value="27"/><int name="mp" value="9"/></imgdir><imgdir name="10"><string name="hs" value="20秒毎にHP 30、MP 10追加回復"/><int name="time" value="20"/><int name="hp" value="30"/><int name="mp" value="10"/></imgdir><imgdir name="11"><string name="hs" value="19秒毎にHP 33、MP 11追加回復"/><int name="time" value="19"/><int name="hp" value="33"/><int name="mp" value="11"/></imgdir><imgdir name="12"><string name="hs" value="18秒毎にHP 36、MP 12追加回復"/><int name="time" value="18"/><int name="hp" value="36"/><int name="mp" value="12"/></imgdir><imgdir name="13"><string name="hs" value="17秒毎にHP 39、MP 13追加回復"/><int name="time" value="17"/><int name="hp" value="39"/><int name="mp" value="13"/></imgdir><imgdir name="14"><string name="hs" value="16秒毎にHP 42、MP 14追加回復"/><int name="time" value="16"/><int name="hp" value="42"/><int name="mp" value="14"/></imgdir><imgdir name="15"><string name="hs" value="15秒毎にHP 45、MP 15追加回復"/><int name="time" value="15"/><int name="hp" value="45"/><int name="mp" value="15"/></imgdir><imgdir name="16"><string name="hs" value="14秒毎にHP 48、MP 16追加回復"/><int name="time" value="14"/><int name="hp" value="48"/><int name="mp" value="16"/></imgdir><imgdir name="17"><string name="hs" value="13秒毎にHP 51、MP 17追加回復"/><int name="time" value="13"/><int name="hp" value="51"/><int name="mp" value="17"/></imgdir><imgdir name="18"><string name="hs" value="12秒毎にHP 54、MP 18追加回復"/><int name="time" value="12"/><int name="hp" value="54"/><int name="mp" value="18"/></imgdir><imgdir name="19"><string name="hs" value="11秒毎にHP 57、MP 19追加回復"/><int name="time" value="11"/><int name="hp" value="57"/><int name="mp" value="19"/></imgdir><imgdir name="20"><string name="hs" value="10秒毎にHP 60、MP 20追加回復"/><int name="time" value="10"/><int name="hp" value="60"/><int name="mp" value="20"/></imgdir></imgdir></imgdir><imgdir name="4101003"><canvas name="icon" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><canvas name="iconMouseOver" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><canvas name="iconDisabled" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><string name="name" value="ブースター(投擲)"/><string name="desc" value="[マスターレベル： 20]\nHP、MPを消費して一定時間、手裏剣の攻撃速度を1段階アップさせる。このスキルは手裏剣を投げた時のみ適用される。"/><int name="skillType" value="2"/><imgdir name="action"><string name="0" value="alert2"/></imgdir><imgdir name="level"><imgdir name="1"><string name="hs" value="HP 29、MP 29消費して10秒間、小手の攻撃速度向上"/><int name="hpCon" value="29"/><int name="mpCon" value="29"/><int name="time" value="10"/></imgdir><imgdir name="2"><string name="hs" value="HP 28、MP 28消費して20秒間、小手の攻撃速度向上"/><int name="hpCon" value="28"/><int name="mpCon" value="28"/><int name="time" value="20"/></imgdir><imgdir name="3"><string name="hs" value="HP 27、MP 27消費して30秒間、小手の攻撃速度向上"/><int name="hpCon" value="27"/><int name="mpCon" value="27"/><int name="time" value="30"/></imgdir><imgdir name="4"><string name="hs" value="HP 26、MP 26消費して40秒間、小手の攻撃速度向上"/><int name="hpCon" value="26"/><int name="mpCon" value="26"/><int name="time" value="40"/></imgdir><imgdir name="5"><string name="hs" value="HP 25、MP 25消費して50秒間、小手の攻撃速度向上"/><int name="hpCon" value="25"/><int name="mpCon" value="25"/><int name="time" value="50"/></imgdir><imgdir name="6"><string name="hs" value="HP 24、MP 24消費して60秒間、小手の攻撃速度向上"/><int name="hpCon" value="24"/><int name="mpCon" value="24"/><int name="time" value="60"/></imgdir><imgdir name="7"><string name="hs" value="HP 23、MP 23消費して70秒間、小手の攻撃速度向上"/><int name="hpCon" value="23"/><int name="mpCon" value="23"/><int name="time" value="70"/></imgdir><imgdir name="8"><string name="hs" value="HP 22、MP 22消費して80秒間、小手の攻撃速度向上"/><int name="hpCon" value="22"/><int name="mpCon" value="22"/><int name="time" value="80"/></imgdir><imgdir name="9"><string name="hs" value="HP 21、MP 21消費して90秒間、小手の攻撃速度向上"/><int name="hpCon" value="21"/><int name="mpCon" value="21"/><int name="time" value="90"/></imgdir><imgdir name="10"><string name="hs" value="HP 20、MP 29消費して100秒間、小手の攻撃速度向上"/><int name="hpCon" value="20"/><int name="mpCon" value="20"/><int name="time" value="100"/></imgdir><imgdir name="11"><string name="hs" value="HP 19、MP 19消費して110秒間、小手の攻撃速度向上"/><int name="hpCon" value="19"/><int name="mpCon" value="19"/><int name="time" value="110"/></imgdir><imgdir name="12"><string name="hs" value="HP 18、MP 18消費して120秒間、小手の攻撃速度向上"/><int name="hpCon" value="18"/><int name="mpCon" value="18"/><int name="time" value="120"/></imgdir><imgdir name="13"><string name="hs" value="HP 17、MP 17消費して130秒間、小手の攻撃速度向上"/><int name="hpCon" value="17"/><int name="mpCon" value="17"/><int name="time" value="130"/></imgdir><imgdir name="14"><string name="hs" value="HP 16、MP 16消費して140秒間、小手の攻撃速度向上"/><int name="hpCon" value="16"/><int name="mpCon" value="16"/><int name="time" value="140"/></imgdir><imgdir name="15"><string name="hs" value="HP 15、MP 15消費して150秒間、小手の攻撃速度向上"/><int name="hpCon" value="15"/><int name="mpCon" value="15"/><int name="time" value="150"/></imgdir><imgdir name="16"><string name="hs" value="HP 14、MP 14消費して160秒間、小手の攻撃速度向上"/><int name="hpCon" value="14"/><int name="mpCon" value="14"/><int name="time" value="160"/></imgdir><imgdir name="17"><string name="hs" value="HP 13、MP 13消費して170秒間、小手の攻撃速度向上"/><int name="hpCon" value="13"/><int name="mpCon" value="13"/><int name="time" value="170"/></imgdir><imgdir name="18"><string name="hs" value="HP 12、MP 12消費して180秒間、小手の攻撃速度向上"/><int name="hpCon" value="12"/><int name="mpCon" value="12"/><int name="time" value="180"/></imgdir><imgdir name="19"><string name="hs" value="HP 11、MP 11消費して190秒間、小手の攻撃速度向上"/><int name="hpCon" value="11"/><int name="mpCon" value="11"/><int name="time" value="190"/></imgdir><imgdir name="20"><string name="hs" value="HP 10、MP 10消費して200秒間、小手の攻撃速度向上"/><int name="hpCon" value="10"/><int name="mpCon" value="10"/><int name="time" value="200"/></imgdir></imgdir><imgdir name="req"><int name="4100000" value="5"/></imgdir><imgdir name="effect"><canvas name="0" width="44" height="12"><vector name="origin" x="25" y="12"/><int name="delay" value="90"/></canvas><canvas name="1" width="45" height="15"><vector name="origin" x="20" y="15"/><int name="delay" value="90"/></canvas><canvas name="2" width="48" height="33"><vector name="origin" x="20" y="33"/><int name="delay" value="90"/></canvas><canvas name="3" width="62" height="34"><vector name="origin" x="20" y="34"/><int name="delay" value="90"/></canvas><canvas name="4" width="79" height="34"><vector name="origin" x="25" y="34"/><int name="delay" value="90"/></canvas><canvas name="5" width="79" height="26"><vector name="origin" x="25" y="33"/><int name="delay" value="90"/></canvas><canvas name="6" width="56" height="21"><vector name="origin" x="25" y="33"/><int name="delay" value="90"/></canvas><canvas name="7" width="51" height="20"><vector name="origin" x="15" y="32"/><int name="delay" value="90"/></canvas><canvas name="8" width="48" height="20"><vector name="origin" x="12" y="32"/><int name="delay" value="90"/></canvas></imgdir></imgdir><imgdir name="4101004"><canvas name="icon" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><canvas name="iconMouseOver" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><canvas name="iconDisabled" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><string name="name" value="ヘイスト"/><string name="desc" value="[マスターレベル： 20]\n一定時間、パーティー全員の移動速度とジャンプ力をアップさせる。"/><imgdir name="action"><string name="0" value="alert2"/></imgdir><imgdir name="level"><imgdir name="1"><string name="hs" value="MP 15消費して10秒間、移動速度2、ジャンプ力1向上"/><int name="mpCon" value="15"/><int name="time" value="10"/><int name="speed" value="2"/><int name="jump" value="1"/><vector name="lt" x="-250" y="-150"/><vector name="rb" x="250" y="150"/></imgdir><imgdir name="2"><string name="hs" value="MP 15消費して20秒間、移動速度4、ジャンプ力2向上"/><int name="mpCon" value="15"/><int name="time" value="20"/><int name="speed" value="4"/><int name="jump" value="2"/><vector name="lt" x="-250" y="-150"/><vector name="rb" x="250" y="150"/></imgdir><imgdir name="3"><string name="hs" value="MP 15消費して30秒間、移動速度6、ジャンプ力3向上"/><int name="mpCon" value="15"/><int name="time" value="30"/><int name="speed" value="6"/><int name="jump" value="3"/><vector name="lt" x="-250" y="-150"/><vector name="rb" x="250" y="150"/></imgdir><imgdir name="4"><string name="hs" value="MP 15消費して40秒間、移動速度8、ジャンプ力4向上"/><int name="mpCon" value="15"/><int name="time" value="40"/><int name="speed" value="8"/><int name="jump" value="4"/><vector name="lt" x="-250" y="-150"/><vector name="rb" x="250" y="150"/></imgdir><imgdir name="5"><string name="hs" value="MP 15消費して50秒間、移動速度10、ジャンプ力5向上"/><int name="mpCon" value="15"/><int name="time" value="50"/><int name="speed" value="10"/><int name="jump" value="5"/><vector name="lt" x="-250" y="-150"/><vector name="rb" x="250" y="150"/></imgdir><imgdir name="6"><string name="hs" value="MP 15消費して60秒間、移動速度12、ジャンプ力6向上"/><int name="mpCon" value="15"/><int name="time" value="60"/><int name="speed" value="12"/><int name="jump" value="6"/><vector name="lt" x="-250" y="-150"/><vector name="rb" x="250" y="150"/></imgdir><imgdir name="7"><string name="hs" value="MP 15消費して70秒間、移動速度14、ジャンプ力7向上"/><int name="mpCon" value="15"/><int name="time" value="70"/><int name="speed" value="14"/><int name="jump" value="7"/><vector name="lt" x="-250" y="-150"/><vector name="rb" x="250" y="150"/></imgdir><imgdir name="8"><string name="hs" value="MP 15消費して80秒間、移動速度16、ジャンプ力8向上"/><int name="mpCon" value="15"/><int name="time" value="80"/><int name="speed" value="16"/><int name="jump" value="8"/><vector name="lt" x="-250" y="-150"/><vector name="rb" x="250" y="150"/></imgdir><imgdir name="9"><string name="hs" value="MP 15消費して90秒間、移動速度18、ジャンプ力9向上"/><int name="mpCon" value="15"/><int name="time" value="90"/><int name="speed" value="18"/><int name="jump" value="9"/><vector name="lt" x="-250" y="-150"/><vector name="rb" x="250" y="150"/></imgdir><imgdir name="10"><string name="hs" value="MP 15消費して100秒間、移動速度20、ジャンプ力10向上"/><int name="mpCon" value="15"/><int name="time" value="100"/><int name="speed" value="20"/><int name="jump" value="10"/><vector name="lt" x="-250" y="-150"/><vector name="rb" x="250" y="150"/></imgdir><imgdir name="11"><string name="hs" value="MP 30消費して110秒間、移動速度22、ジャンプ力11向上"/><int name="mpCon" value="30"/><int name="time" value="110"/><int name="speed" value="22"/><int name="jump" value="11"/><vector name="lt" x="-300" y="-200"/><vector name="rb" x="300" y="200"/></imgdir><imgdir name="12"><string name="hs" value="MP 30消費して120秒間、移動速度24、ジャンプ力12向上"/><int name="mpCon" value="30"/><int name="time" value="120"/><int name="speed" value="24"/><int name="jump" value="12"/><vector name="lt" x="-300" y="-200"/><vector name="rb" x="300" y="200"/></imgdir><imgdir name="13"><string name="hs" value="MP 30消費して130秒間、移動速度26、ジャンプ力13向上"/><int name="mpCon" value="30"/><int name="time" value="130"/><int name="speed" value="26"/><int name="jump" value="13"/><vector name="lt" x="-300" y="-200"/><vector name="rb" x="300" y="200"/></imgdir><imgdir name="14"><string name="hs" value="MP 30消費して140秒間、移動速度28、ジャンプ力14向上"/><int name="mpCon" value="30"/><int name="time" value="140"/><int name="speed" value="28"/><int name="jump" value="14"/><vector name="lt" x="-300" y="-200"/><vector name="rb" x="300" y="200"/></imgdir><imgdir name="15"><string name="hs" value="MP 30消費して150秒間、移動速度30、ジャンプ力15向上"/><int name="mpCon" value="30"/><int name="time" value="150"/><int name="speed" value="30"/><int name="jump" value="15"/><vector name="lt" x="-300" y="-200"/><vector name="rb" x="300" y="200"/></imgdir><imgdir name="16"><string name="hs" value="MP 30消費して160秒間、移動速度32、ジャンプ力16向上"/><int name="mpCon" value="30"/><int name="time" value="160"/><int name="speed" value="32"/><int name="jump" value="16"/><vector name="lt" x="-300" y="-200"/><vector name="rb" x="300" y="200"/></imgdir><imgdir name="17"><string name="hs" value="MP 30消費して170秒間、移動速度34、ジャンプ力17向上"/><int name="mpCon" value="30"/><int name="time" value="170"/><int name="speed" value="34"/><int name="jump" value="17"/><vector name="lt" x="-300" y="-200"/><vector name="rb" x="300" y="200"/></imgdir><imgdir name="18"><string name="hs" value="MP 30消費して180秒間、移動速度36、ジャンプ力18向上"/><int name="mpCon" value="30"/><int name="time" value="180"/><int name="speed" value="36"/><int name="jump" value="18"/><vector name="lt" x="-300" y="-200"/><vector name="rb" x="300" y="200"/></imgdir><imgdir name="19"><string name="hs" value="MP 30消費して190秒間、移動速度38、ジャンプ力19向上"/><int name="mpCon" value="30"/><int name="time" value="190"/><int name="speed" value="38"/><int name="jump" value="19"/><vector name="lt" x="-300" y="-200"/><vector name="rb" x="300" y="200"/></imgdir><imgdir name="20"><string name="hs" value="MP 30消費して200秒間、移動速度40、ジャンプ力20向上"/><int name="mpCon" value="30"/><int name="time" value="200"/><int name="speed" value="40"/><int name="jump" value="20"/><vector name="lt" x="-300" y="-200"/><vector name="rb" x="300" y="200"/></imgdir></imgdir><imgdir name="effect"><canvas name="0" width="42" height="12"><vector name="origin" x="23" y="12"/><int name="delay" value="90"/></canvas><canvas name="1" width="40" height="12"><vector name="origin" x="20" y="12"/><int name="delay" value="90"/></canvas><canvas name="2" width="93" height="59"><vector name="origin" x="68" y="59"/><int name="delay" value="90"/></canvas><canvas name="3" width="92" height="59"><vector name="origin" x="67" y="59"/><int name="delay" value="90"/></canvas><canvas name="4" width="96" height="64"><vector name="origin" x="59" y="64"/><int name="delay" value="90"/></canvas><canvas name="5" width="106" height="60"><vector name="origin" x="57" y="64"/><int name="delay" value="90"/></canvas><canvas name="6" width="89" height="59"><vector name="origin" x="35" y="64"/><int name="delay" value="90"/></canvas><canvas name="7" width="88" height="57"><vector name="origin" x="34" y="63"/><int name="delay" value="90"/></canvas><canvas name="8" width="16" height="31"><vector name="origin" x="-30" y="44"/><int name="delay" value="90"/></canvas></imgdir><imgdir name="affected"><canvas name="0" width="42" height="84"><vector name="origin" x="24" y="84"/><int name="delay" value="120"/></canvas><canvas name="1" width="40" height="84"><vector name="origin" x="21" y="84"/><int name="delay" value="110"/></canvas><canvas name="2" width="43" height="86"><vector name="origin" x="21" y="86"/><int name="delay" value="100"/></canvas><canvas name="3" width="43" height="86"><vector name="origin" x="21" y="86"/><int name="delay" value="100"/></canvas><canvas name="4" width="55" height="86"><vector name="origin" x="21" y="86"/><int name="delay" value="110"/></canvas><canvas name="5" width="66" height="81"><vector name="origin" x="21" y="86"/><int name="delay" value="120"/></canvas></imgdir></imgdir><imgdir name="4101005"><canvas name="icon" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><canvas name="iconMouseOver" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><canvas name="iconDisabled" width="32" height="32"><vector name="origin" x="0" y="32"/><int name="z" value="0"/></canvas><string name="name" value="ライフドレイン"/><string name="desc" value="[マスターレベル： 30]\n敵に与えたダメージの一部を吸収してHPを回復する。自分のMax HPの半分以上は一度に吸収できない。"/><int name="weapon" value="47"/><imgdir name="level"><imgdir name="1"><string name="hs" value="MP 12消費してダメージの31%吸収、ダメージ102%"/><int name="mpCon" value="12"/><int name="x" value="31"/><int name="damage" value="102"/></imgdir><imgdir name="2"><string name="hs" value="MP 12消費してダメージの32%吸収、ダメージ104%"/><int name="mpCon" value="12"/><int name="x" value="32"/><int name="damage" value="104"/></imgdir><imgdir name="3"><string name="hs" value="MP 12消費してダメージの33%吸収、ダメージ106%"/><int name="mpCon" value="12"/><int name="x" value="33"/><int name="damage" value="106"/></imgdir><imgdir name="4"><string name="hs" value="MP 12消費してダメージの34%吸収、ダメージ108%"/><int name="mpCon" value="12"/><int name="x" value="34"/><int name="damage" value="108"/></imgdir><imgdir name="5"><string name="hs" value="MP 12消費してダメージの35%吸収、ダメージ110%"/><int name="mpCon" value="12"/><int name="x" value="35"/><int name="damage" value="110"/></imgdir><imgdir name="6"><string name="hs" value="MP 12消費してダメージの36%吸収、ダメージ112%"/><int name="mpCon" value="12"/><int name="x" value="36"/><int name="damage" value="112"/></imgdir><imgdir name="7"><string name="hs" value="MP 12消費してダメージの37%吸収、ダメージ114%"/><int name="mpCon" value="12"/><int name="x" value="37"/><int name="damage" value="114"/></imgdir><imgdir name="8"><string name="hs" value="MP 12消費してダメージの38%吸収、ダメージ116%"/><int name="mpCon" value="12"/><int name="x" value="38"/><int name="damage" value="116"/></imgdir><imgdir name="9"><string name="hs" value="MP 12消費してダメージの39%吸収、ダメージ118%"/><int name="mpCon" value="12"/><int name="x" value="39"/><int name="damage" value="118"/></imgdir><imgdir name="10"><string name="hs" value="MP 12消費してダメージの40%吸収、ダメージ120%"/><int name="mpCon" value="12"/><int name="x" value="40"/><int name="damage" value="120"/></imgdir><imgdir name="11"><string name="hs" value="MP 12消費してダメージの41%吸収、ダメージ122%"/><int name="mpCon" value="12"/><int name="x" value="41"/><int name="damage" value="122"/></imgdir><imgdir name="12"><string name="hs" value="MP 12消費してダメージの42%吸収、ダメージ124%"/><int name="mpCon" value="12"/><int name="x" value="42"/><int name="damage" value="124"/></imgdir><imgdir name="13"><string name="hs" value="MP 12消費してダメージの43%吸収、ダメージ126%"/><int name="mpCon" value="12"/><int name="x" value="43"/><int name="damage" value="126"/></imgdir><imgdir name="14"><string name="hs" value="MP 12消費してダメージの44%吸収、ダメージ128%"/><int name="mpCon" value="12"/><int name="x" value="44"/><int name="damage" value="128"/></imgdir><imgdir name="15"><string name="hs" value="MP 12消費してダメージの45%吸収、ダメージ130%"/><int name="mpCon" value="12"/><int name="x" value="45"/><int name="damage" value="130"/></imgdir><imgdir name="16"><string name="hs" value="MP 24消費してダメージの46%吸収、ダメージ132%"/><int name="mpCon" value="24"/><int name="x" value="46"/><int name="damage" value="132"/></imgdir><imgdir name="17"><string name="hs" value="MP 24消費してダメージの47%吸収、ダメージ134%"/><int name="mpCon" value="24"/><int name="x" value="47"/><int name="damage" value="134"/></imgdir><imgdir name="18"><string name="hs" value="MP 24消費してダメージの48%吸収、ダメージ136%"/><int name="mpCon" value="24"/><int name="x" value="48"/><int name="damage" value="136"/></imgdir><imgdir name="19"><string name="hs" value="MP 24消費してダメージの49%吸収、ダメージ138%"/><int name="mpCon" value="24"/><int name="x" value="49"/><int name="damage" value="138"/></imgdir><imgdir name="20"><string name="hs" value="MP 24消費してダメージの50%吸収、ダメージ140%"/><int name="mpCon" value="24"/><int name="x" value="50"/><int name="damage" value="140"/></imgdir><imgdir name="21"><string name="hs" value="MP 24消費してダメージの51%吸収、ダメージ142%"/><int name="mpCon" value="24"/><int name="x" value="51"/><int name="damage" value="142"/></imgdir><imgdir name="22"><string name="hs" value="MP 24消費してダメージの52%吸収、ダメージ144%"/><int name="mpCon" value="24"/><int name="x" value="52"/><int name="damage" value="144"/></imgdir><imgdir name="23"><string name="hs" value="MP 24消費してダメージの53%吸収、ダメージ146%"/><int name="mpCon" value="24"/><int name="x" value="53"/><int name="damage" value="146"/></imgdir><imgdir name="24"><string name="hs" value="MP 24消費してダメージの54%吸収、ダメージ148%"/><int name="mpCon" value="24"/><int name="x" value="54"/><int name="damage" value="148"/></imgdir><imgdir name="25"><string name="hs" value="MP 24消費してダメージの55%吸収、ダメージ150%"/><int name="mpCon" value="24"/><int name="x" value="55"/><int name="damage" value="150"/></imgdir><imgdir name="26"><string name="hs" value="MP 24消費してダメージの56%吸収、ダメージ152%"/><int name="mpCon" value="24"/><int name="x" value="56"/><int name="damage" value="152"/></imgdir><imgdir name="27"><string name="hs" value="MP 24消費してダメージの57%吸収、ダメージ154%"/><int name="mpCon" value="24"/><int name="x" value="57"/><int name="damage" value="154"/></imgdir><imgdir name="28"><string name="hs" value="MP 24消費してダメージの58%吸収、ダメージ156%"/><int name="mpCon" value="24"/><int name="x" value="58"/><int name="damage" value="156"/></imgdir><imgdir name="29"><string name="hs" value="MP 24消費してダメージの59%吸収、ダメージ158%"/><int name="mpCon" value="24"/><int name="x" value="59"/><int name="damage" value="158"/></imgdir><imgdir name="30"><string name="hs" value="MP 24消費してダメージの60%吸収、ダメージ160%"/><int name="mpCon" value="24"/><int name="x" value="60"/><int name="damage" value="160"/></imgdir></imgdir><imgdir name="req"><int name="4100002" value="3"/></imgdir><imgdir name="effect"><canvas name="0" width="64" height="20"><vector name="origin" x="36" y="62"/><int name="delay" value="90"/></canvas><canvas name="1" width="65" height="44"><vector name="origin" x="37" y="66"/><int name="delay" value="90"/></canvas><canvas name="2" width="68" height="64"><vector name="origin" x="38" y="66"/><int name="delay" value="90"/></canvas><canvas name="3" width="68" height="59"><vector name="origin" x="38" y="62"/><int name="delay" value="90"/></canvas><canvas name="4" width="68" height="40"><vector name="origin" x="38" y="42"/><int name="delay" value="90"/></canvas><canvas name="5" width="64" height="20"><vector name="origin" x="35" y="23"/><int name="delay" value="90"/></canvas></imgdir></imgdir></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="410.img">
+    <imgdir name="info">
+        <string name="bookName" value="アサシンのガイド"/>
+        <canvas name="icon" width="26" height="30">
+            <vector name="origin" x="-4" y="30"/>
+        </canvas>
+    </imgdir>
+    <imgdir name="skill">
+        <imgdir name="4100000">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <string name="name" value="プログレス(投擲)"/>
+            <string name="desc"
+                    value="[マスターレベル： 20]\n手裏剣をうまく扱えるようになる。手裏剣の最大補充数も増加する。このスキルは手裏剣のみに適用される。"/>
+            <int name="skillType" value="1"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="小手系武器の熟練度15%、命中率1、手裏剣ストック数10上昇"/>
+                    <int name="mastery" value="1"/>
+                    <int name="x" value="1"/>
+                    <int name="y" value="10"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="小手系武器の熟練度15%、命中率2、手裏剣ストック数15上昇"/>
+                    <int name="mastery" value="1"/>
+                    <int name="x" value="2"/>
+                    <int name="y" value="20"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="小手系武器の熟練度20%、命中率3、手裏剣ストック数30上昇"/>
+                    <int name="mastery" value="2"/>
+                    <int name="x" value="3"/>
+                    <int name="y" value="30"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="小手系武器の熟練度20%、命中率4、手裏剣ストック数40上昇"/>
+                    <int name="mastery" value="2"/>
+                    <int name="x" value="4"/>
+                    <int name="y" value="40"/>
+                </imgdir>
+                <imgdir name="5">
+                    <string name="hs" value="小手系武器の熟練度25%、命中率5、手裏剣ストック数50上昇"/>
+                    <int name="mastery" value="3"/>
+                    <int name="x" value="5"/>
+                    <int name="y" value="50"/>
+                </imgdir>
+                <imgdir name="6">
+                    <string name="hs" value="小手系武器の熟練度25%、命中率6、手裏剣ストック数60上昇"/>
+                    <int name="mastery" value="3"/>
+                    <int name="x" value="6"/>
+                    <int name="y" value="60"/>
+                </imgdir>
+                <imgdir name="7">
+                    <string name="hs" value="小手系武器の熟練度30%、命中率7、手裏剣ストック数70上昇"/>
+                    <int name="mastery" value="4"/>
+                    <int name="x" value="7"/>
+                    <int name="y" value="70"/>
+                </imgdir>
+                <imgdir name="8">
+                    <string name="hs" value="小手系武器の熟練度30%、命中率8、手裏剣ストック数80上昇"/>
+                    <int name="mastery" value="4"/>
+                    <int name="x" value="8"/>
+                    <int name="y" value="80"/>
+                </imgdir>
+                <imgdir name="9">
+                    <string name="hs" value="小手系武器の熟練度35%、命中率9、手裏剣ストック数90上昇"/>
+                    <int name="mastery" value="5"/>
+                    <int name="x" value="9"/>
+                    <int name="y" value="90"/>
+                </imgdir>
+                <imgdir name="10">
+                    <string name="hs" value="小手系武器の熟練度35%、命中率10、手裏剣ストック数100上昇"/>
+                    <int name="mastery" value="5"/>
+                    <int name="x" value="10"/>
+                    <int name="y" value="100"/>
+                </imgdir>
+                <imgdir name="11">
+                    <string name="hs" value="小手系武器の熟練度40%、命中率11、手裏剣ストック数110上昇"/>
+                    <int name="mastery" value="6"/>
+                    <int name="x" value="11"/>
+                    <int name="y" value="110"/>
+                </imgdir>
+                <imgdir name="12">
+                    <string name="hs" value="小手系武器の熟練度40%、命中率12、手裏剣ストック数120上昇"/>
+                    <int name="mastery" value="6"/>
+                    <int name="x" value="12"/>
+                    <int name="y" value="120"/>
+                </imgdir>
+                <imgdir name="13">
+                    <string name="hs" value="小手系武器の熟練度45%、命中率13、手裏剣ストック数130上昇"/>
+                    <int name="mastery" value="7"/>
+                    <int name="x" value="13"/>
+                    <int name="y" value="130"/>
+                </imgdir>
+                <imgdir name="14">
+                    <string name="hs" value="小手系武器の熟練度45%、命中率14、手裏剣ストック数140上昇"/>
+                    <int name="mastery" value="7"/>
+                    <int name="x" value="14"/>
+                    <int name="y" value="140"/>
+                </imgdir>
+                <imgdir name="15">
+                    <string name="hs" value="小手系武器の熟練度50%、命中率15、手裏剣ストック数150上昇"/>
+                    <int name="mastery" value="8"/>
+                    <int name="x" value="15"/>
+                    <int name="y" value="150"/>
+                </imgdir>
+                <imgdir name="16">
+                    <string name="hs" value="小手系武器の熟練度50%、命中率16、手裏剣ストック数160上昇"/>
+                    <int name="mastery" value="8"/>
+                    <int name="x" value="16"/>
+                    <int name="y" value="160"/>
+                </imgdir>
+                <imgdir name="17">
+                    <string name="hs" value="小手系武器の熟練度55%、命中率17、手裏剣ストック数170上昇"/>
+                    <int name="mastery" value="9"/>
+                    <int name="x" value="17"/>
+                    <int name="y" value="170"/>
+                </imgdir>
+                <imgdir name="18">
+                    <string name="hs" value="小手系武器の熟練度55%、命中率18、手裏剣ストック数180上昇"/>
+                    <int name="mastery" value="9"/>
+                    <int name="x" value="18"/>
+                    <int name="y" value="180"/>
+                </imgdir>
+                <imgdir name="19">
+                    <string name="hs" value="小手系武器の熟練度60%、命中率19、手裏剣ストック数190上昇"/>
+                    <int name="mastery" value="10"/>
+                    <int name="x" value="19"/>
+                    <int name="y" value="190"/>
+                </imgdir>
+                <imgdir name="20">
+                    <string name="hs" value="小手系武器の熟練度60%、命中率20、手裏剣ストック数200上昇"/>
+                    <int name="mastery" value="10"/>
+                    <int name="x" value="20"/>
+                    <int name="y" value="200"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="4100001">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <string name="name" value="クリティカル"/>
+            <string name="desc" value="[マスターレベル： 30]\n一定確率で手裏剣によるクリティカル攻撃が発生するようになる。"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="確率21%でクリティカルダメージ113%"/>
+                    <int name="prop" value="21"/>
+                    <int name="damage" value="113"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="確率22%でクリティカルダメージ116%"/>
+                    <int name="prop" value="22"/>
+                    <int name="damage" value="116"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="確率23%でクリティカルダメージ119%"/>
+                    <int name="prop" value="23"/>
+                    <int name="damage" value="119"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="確率24%でクリティカルダメージ122%"/>
+                    <int name="prop" value="24"/>
+                    <int name="damage" value="122"/>
+                </imgdir>
+                <imgdir name="5">
+                    <string name="hs" value="確率25%でクリティカルダメージ125%"/>
+                    <int name="prop" value="25"/>
+                    <int name="damage" value="125"/>
+                </imgdir>
+                <imgdir name="6">
+                    <string name="hs" value="確率26%でクリティカルダメージ128%"/>
+                    <int name="prop" value="26"/>
+                    <int name="damage" value="128"/>
+                </imgdir>
+                <imgdir name="7">
+                    <string name="hs" value="確率27%でクリティカルダメージ131%"/>
+                    <int name="prop" value="27"/>
+                    <int name="damage" value="131"/>
+                </imgdir>
+                <imgdir name="8">
+                    <string name="hs" value="確率28%でクリティカルダメージ134%"/>
+                    <int name="prop" value="28"/>
+                    <int name="damage" value="134"/>
+                </imgdir>
+                <imgdir name="9">
+                    <string name="hs" value="確率29%でクリティカルダメージ137%"/>
+                    <int name="prop" value="29"/>
+                    <int name="damage" value="137"/>
+                </imgdir>
+                <imgdir name="10">
+                    <string name="hs" value="確率30%でクリティカルダメージ140%"/>
+                    <int name="prop" value="30"/>
+                    <int name="damage" value="140"/>
+                </imgdir>
+                <imgdir name="11">
+                    <string name="hs" value="確率31%でクリティカルダメージ143%"/>
+                    <int name="prop" value="31"/>
+                    <int name="damage" value="143"/>
+                </imgdir>
+                <imgdir name="12">
+                    <string name="hs" value="確率32%でクリティカルダメージ146%"/>
+                    <int name="prop" value="32"/>
+                    <int name="damage" value="146"/>
+                </imgdir>
+                <imgdir name="13">
+                    <string name="hs" value="確率33%でクリティカルダメージ149%"/>
+                    <int name="prop" value="33"/>
+                    <int name="damage" value="149"/>
+                </imgdir>
+                <imgdir name="14">
+                    <string name="hs" value="確率34%でクリティカルダメージ152%"/>
+                    <int name="prop" value="34"/>
+                    <int name="damage" value="152"/>
+                </imgdir>
+                <imgdir name="15">
+                    <string name="hs" value="確率35%でクリティカルダメージ155%"/>
+                    <int name="prop" value="35"/>
+                    <int name="damage" value="155"/>
+                </imgdir>
+                <imgdir name="16">
+                    <string name="hs" value="確率36%でクリティカルダメージ158%"/>
+                    <int name="prop" value="36"/>
+                    <int name="damage" value="158"/>
+                </imgdir>
+                <imgdir name="17">
+                    <string name="hs" value="確率37%でクリティカルダメージ161%"/>
+                    <int name="prop" value="37"/>
+                    <int name="damage" value="161"/>
+                </imgdir>
+                <imgdir name="18">
+                    <string name="hs" value="確率38%でクリティカルダメージ164%"/>
+                    <int name="prop" value="38"/>
+                    <int name="damage" value="164"/>
+                </imgdir>
+                <imgdir name="19">
+                    <string name="hs" value="確率39%でクリティカルダメージ167%"/>
+                    <int name="prop" value="39"/>
+                    <int name="damage" value="167"/>
+                </imgdir>
+                <imgdir name="20">
+                    <string name="hs" value="確率40%でクリティカルダメージ170%"/>
+                    <int name="prop" value="40"/>
+                    <int name="damage" value="170"/>
+                </imgdir>
+                <imgdir name="21">
+                    <string name="hs" value="確率41%でクリティカルダメージ173%"/>
+                    <int name="prop" value="41"/>
+                    <int name="damage" value="173"/>
+                </imgdir>
+                <imgdir name="22">
+                    <string name="hs" value="確率42%でクリティカルダメージ176%"/>
+                    <int name="prop" value="42"/>
+                    <int name="damage" value="176"/>
+                </imgdir>
+                <imgdir name="23">
+                    <string name="hs" value="確率43%でクリティカルダメージ179%"/>
+                    <int name="prop" value="43"/>
+                    <int name="damage" value="179"/>
+                </imgdir>
+                <imgdir name="24">
+                    <string name="hs" value="確率44%でクリティカルダメージ182%"/>
+                    <int name="prop" value="44"/>
+                    <int name="damage" value="182"/>
+                </imgdir>
+                <imgdir name="25">
+                    <string name="hs" value="確率45%でクリティカルダメージ185%"/>
+                    <int name="prop" value="45"/>
+                    <int name="damage" value="185"/>
+                </imgdir>
+                <imgdir name="26">
+                    <string name="hs" value="確率46%でクリティカルダメージ188%"/>
+                    <int name="prop" value="46"/>
+                    <int name="damage" value="188"/>
+                </imgdir>
+                <imgdir name="27">
+                    <string name="hs" value="確率47%でクリティカルダメージ191%"/>
+                    <int name="prop" value="47"/>
+                    <int name="damage" value="191"/>
+                </imgdir>
+                <imgdir name="28">
+                    <string name="hs" value="確率48%でクリティカルダメージ194%"/>
+                    <int name="prop" value="48"/>
+                    <int name="damage" value="194"/>
+                </imgdir>
+                <imgdir name="29">
+                    <string name="hs" value="確率49%でクリティカルダメージ197%"/>
+                    <int name="prop" value="49"/>
+                    <int name="damage" value="197"/>
+                </imgdir>
+                <imgdir name="30">
+                    <string name="hs" value="確率50%でクリティカルダメージ200%"/>
+                    <int name="prop" value="50"/>
+                    <int name="damage" value="200"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="req">
+                <int name="4100000" value="3"/>
+            </imgdir>
+            <imgdir name="damage">
+                <canvas name="0" width="86" height="14">
+                    <vector name="origin" x="-10" y="7"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+                <canvas name="1" width="83" height="14">
+                    <vector name="origin" x="16" y="7"/>
+                    <int name="z" value="100"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+                <canvas name="2" width="66" height="16">
+                    <vector name="origin" x="32" y="8"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+                <canvas name="3" width="65" height="14">
+                    <vector name="origin" x="32" y="7"/>
+                    <int name="delay" value="300"/>
+                </canvas>
+                <canvas name="4" width="66" height="16">
+                    <vector name="origin" x="26" y="8"/>
+                    <int name="delay" value="150"/>
+                </canvas>
+                <canvas name="5" width="86" height="14">
+                    <vector name="origin" x="60" y="7"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+                <canvas name="6" width="86" height="14">
+                    <vector name="origin" x="91" y="7"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="4100002">
+            <canvas name="icon" width="32" height="33">
+                <vector name="origin" x="0" y="33"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="33">
+                <vector name="origin" x="0" y="33"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="33">
+                <vector name="origin" x="0" y="33"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <string name="name" value="サバイバル"/>
+            <string name="desc" value="[マスターレベル： 20]\n自然回復とは別に、HPとMPが自動的に回復するようになる。"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="29秒毎にHP 3、MP 1追加回復"/>
+                    <int name="time" value="29"/>
+                    <int name="hp" value="3"/>
+                    <int name="mp" value="1"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="28秒毎にHP 6、MP 2追加回復"/>
+                    <int name="time" value="28"/>
+                    <int name="hp" value="6"/>
+                    <int name="mp" value="2"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="27秒毎にHP 9、MP 3追加回復"/>
+                    <int name="time" value="27"/>
+                    <int name="hp" value="9"/>
+                    <int name="mp" value="3"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="26秒毎にHP 12、MP 4追加回復"/>
+                    <int name="time" value="26"/>
+                    <int name="hp" value="12"/>
+                    <int name="mp" value="4"/>
+                </imgdir>
+                <imgdir name="5">
+                    <string name="hs" value="25秒毎にHP 15、MP 5追加回復"/>
+                    <int name="time" value="25"/>
+                    <int name="hp" value="15"/>
+                    <int name="mp" value="5"/>
+                </imgdir>
+                <imgdir name="6">
+                    <string name="hs" value="24秒毎にHP 18、MP 6追加回復"/>
+                    <int name="time" value="24"/>
+                    <int name="hp" value="18"/>
+                    <int name="mp" value="6"/>
+                </imgdir>
+                <imgdir name="7">
+                    <string name="hs" value="23秒毎にHP 21、MP 7追加回復"/>
+                    <int name="time" value="23"/>
+                    <int name="hp" value="21"/>
+                    <int name="mp" value="7"/>
+                </imgdir>
+                <imgdir name="8">
+                    <string name="hs" value="22秒毎にHP 24、MP 8追加回復"/>
+                    <int name="time" value="22"/>
+                    <int name="hp" value="24"/>
+                    <int name="mp" value="8"/>
+                </imgdir>
+                <imgdir name="9">
+                    <string name="hs" value="21秒毎にHP 27、MP 9追加回復"/>
+                    <int name="time" value="21"/>
+                    <int name="hp" value="27"/>
+                    <int name="mp" value="9"/>
+                </imgdir>
+                <imgdir name="10">
+                    <string name="hs" value="20秒毎にHP 30、MP 10追加回復"/>
+                    <int name="time" value="20"/>
+                    <int name="hp" value="30"/>
+                    <int name="mp" value="10"/>
+                </imgdir>
+                <imgdir name="11">
+                    <string name="hs" value="19秒毎にHP 33、MP 11追加回復"/>
+                    <int name="time" value="19"/>
+                    <int name="hp" value="33"/>
+                    <int name="mp" value="11"/>
+                </imgdir>
+                <imgdir name="12">
+                    <string name="hs" value="18秒毎にHP 36、MP 12追加回復"/>
+                    <int name="time" value="18"/>
+                    <int name="hp" value="36"/>
+                    <int name="mp" value="12"/>
+                </imgdir>
+                <imgdir name="13">
+                    <string name="hs" value="17秒毎にHP 39、MP 13追加回復"/>
+                    <int name="time" value="17"/>
+                    <int name="hp" value="39"/>
+                    <int name="mp" value="13"/>
+                </imgdir>
+                <imgdir name="14">
+                    <string name="hs" value="16秒毎にHP 42、MP 14追加回復"/>
+                    <int name="time" value="16"/>
+                    <int name="hp" value="42"/>
+                    <int name="mp" value="14"/>
+                </imgdir>
+                <imgdir name="15">
+                    <string name="hs" value="15秒毎にHP 45、MP 15追加回復"/>
+                    <int name="time" value="15"/>
+                    <int name="hp" value="45"/>
+                    <int name="mp" value="15"/>
+                </imgdir>
+                <imgdir name="16">
+                    <string name="hs" value="14秒毎にHP 48、MP 16追加回復"/>
+                    <int name="time" value="14"/>
+                    <int name="hp" value="48"/>
+                    <int name="mp" value="16"/>
+                </imgdir>
+                <imgdir name="17">
+                    <string name="hs" value="13秒毎にHP 51、MP 17追加回復"/>
+                    <int name="time" value="13"/>
+                    <int name="hp" value="51"/>
+                    <int name="mp" value="17"/>
+                </imgdir>
+                <imgdir name="18">
+                    <string name="hs" value="12秒毎にHP 54、MP 18追加回復"/>
+                    <int name="time" value="12"/>
+                    <int name="hp" value="54"/>
+                    <int name="mp" value="18"/>
+                </imgdir>
+                <imgdir name="19">
+                    <string name="hs" value="11秒毎にHP 57、MP 19追加回復"/>
+                    <int name="time" value="11"/>
+                    <int name="hp" value="57"/>
+                    <int name="mp" value="19"/>
+                </imgdir>
+                <imgdir name="20">
+                    <string name="hs" value="10秒毎にHP 60、MP 20追加回復"/>
+                    <int name="time" value="10"/>
+                    <int name="hp" value="60"/>
+                    <int name="mp" value="20"/>
+                </imgdir>
+            </imgdir>
+        </imgdir>
+        <imgdir name="4101003">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <string name="name" value="ブースター(投擲)"/>
+            <string name="desc"
+                    value="[マスターレベル： 20]\nHP、MPを消費して一定時間、手裏剣の攻撃速度を1段階アップさせる。このスキルは手裏剣を投げた時のみ適用される。"/>
+            <int name="skillType" value="2"/>
+            <imgdir name="action">
+                <string name="0" value="alert2"/>
+            </imgdir>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="HP 29、MP 29消費して10秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="29"/>
+                    <int name="mpCon" value="29"/>
+                    <int name="time" value="10"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="HP 28、MP 28消費して20秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="28"/>
+                    <int name="mpCon" value="28"/>
+                    <int name="time" value="20"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="HP 27、MP 27消費して30秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="27"/>
+                    <int name="mpCon" value="27"/>
+                    <int name="time" value="30"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="HP 26、MP 26消費して40秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="26"/>
+                    <int name="mpCon" value="26"/>
+                    <int name="time" value="40"/>
+                </imgdir>
+                <imgdir name="5">
+                    <string name="hs" value="HP 25、MP 25消費して50秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="25"/>
+                    <int name="mpCon" value="25"/>
+                    <int name="time" value="50"/>
+                </imgdir>
+                <imgdir name="6">
+                    <string name="hs" value="HP 24、MP 24消費して60秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="24"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="time" value="60"/>
+                </imgdir>
+                <imgdir name="7">
+                    <string name="hs" value="HP 23、MP 23消費して70秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="23"/>
+                    <int name="mpCon" value="23"/>
+                    <int name="time" value="70"/>
+                </imgdir>
+                <imgdir name="8">
+                    <string name="hs" value="HP 22、MP 22消費して80秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="22"/>
+                    <int name="mpCon" value="22"/>
+                    <int name="time" value="80"/>
+                </imgdir>
+                <imgdir name="9">
+                    <string name="hs" value="HP 21、MP 21消費して90秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="21"/>
+                    <int name="mpCon" value="21"/>
+                    <int name="time" value="90"/>
+                </imgdir>
+                <imgdir name="10">
+                    <string name="hs" value="HP 20、MP 29消費して100秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="20"/>
+                    <int name="mpCon" value="20"/>
+                    <int name="time" value="100"/>
+                </imgdir>
+                <imgdir name="11">
+                    <string name="hs" value="HP 19、MP 19消費して110秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="19"/>
+                    <int name="mpCon" value="19"/>
+                    <int name="time" value="110"/>
+                </imgdir>
+                <imgdir name="12">
+                    <string name="hs" value="HP 18、MP 18消費して120秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="18"/>
+                    <int name="mpCon" value="18"/>
+                    <int name="time" value="120"/>
+                </imgdir>
+                <imgdir name="13">
+                    <string name="hs" value="HP 17、MP 17消費して130秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="17"/>
+                    <int name="mpCon" value="17"/>
+                    <int name="time" value="130"/>
+                </imgdir>
+                <imgdir name="14">
+                    <string name="hs" value="HP 16、MP 16消費して140秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="16"/>
+                    <int name="mpCon" value="16"/>
+                    <int name="time" value="140"/>
+                </imgdir>
+                <imgdir name="15">
+                    <string name="hs" value="HP 15、MP 15消費して150秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="15"/>
+                    <int name="mpCon" value="15"/>
+                    <int name="time" value="150"/>
+                </imgdir>
+                <imgdir name="16">
+                    <string name="hs" value="HP 14、MP 14消費して160秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="14"/>
+                    <int name="mpCon" value="14"/>
+                    <int name="time" value="160"/>
+                </imgdir>
+                <imgdir name="17">
+                    <string name="hs" value="HP 13、MP 13消費して170秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="13"/>
+                    <int name="mpCon" value="13"/>
+                    <int name="time" value="170"/>
+                </imgdir>
+                <imgdir name="18">
+                    <string name="hs" value="HP 12、MP 12消費して180秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="12"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="time" value="180"/>
+                </imgdir>
+                <imgdir name="19">
+                    <string name="hs" value="HP 11、MP 11消費して190秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="11"/>
+                    <int name="mpCon" value="11"/>
+                    <int name="time" value="190"/>
+                </imgdir>
+                <imgdir name="20">
+                    <string name="hs" value="HP 10、MP 10消費して200秒間、小手の攻撃速度向上"/>
+                    <int name="hpCon" value="10"/>
+                    <int name="mpCon" value="10"/>
+                    <int name="time" value="200"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="req">
+                <int name="4100000" value="5"/>
+            </imgdir>
+            <imgdir name="effect">
+                <canvas name="0" width="44" height="12">
+                    <vector name="origin" x="25" y="12"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="1" width="45" height="15">
+                    <vector name="origin" x="20" y="15"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="2" width="48" height="33">
+                    <vector name="origin" x="20" y="33"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="3" width="62" height="34">
+                    <vector name="origin" x="20" y="34"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="4" width="79" height="34">
+                    <vector name="origin" x="25" y="34"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="5" width="79" height="26">
+                    <vector name="origin" x="25" y="33"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="6" width="56" height="21">
+                    <vector name="origin" x="25" y="33"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="7" width="51" height="20">
+                    <vector name="origin" x="15" y="32"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="8" width="48" height="20">
+                    <vector name="origin" x="12" y="32"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="4101004">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <string name="name" value="ヘイスト"/>
+            <string name="desc" value="[マスターレベル： 20]\n一定時間、パーティー全員の移動速度とジャンプ力をアップさせる。"/>
+            <imgdir name="action">
+                <string name="0" value="alert2"/>
+            </imgdir>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="MP 15消費して10秒間、移動速度2、ジャンプ力1向上"/>
+                    <int name="mpCon" value="15"/>
+                    <int name="time" value="10"/>
+                    <int name="speed" value="2"/>
+                    <int name="jump" value="1"/>
+                    <vector name="lt" x="-250" y="-150"/>
+                    <vector name="rb" x="250" y="150"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="MP 15消費して20秒間、移動速度4、ジャンプ力2向上"/>
+                    <int name="mpCon" value="15"/>
+                    <int name="time" value="20"/>
+                    <int name="speed" value="4"/>
+                    <int name="jump" value="2"/>
+                    <vector name="lt" x="-250" y="-150"/>
+                    <vector name="rb" x="250" y="150"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="MP 15消費して30秒間、移動速度6、ジャンプ力3向上"/>
+                    <int name="mpCon" value="15"/>
+                    <int name="time" value="30"/>
+                    <int name="speed" value="6"/>
+                    <int name="jump" value="3"/>
+                    <vector name="lt" x="-250" y="-150"/>
+                    <vector name="rb" x="250" y="150"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="MP 15消費して40秒間、移動速度8、ジャンプ力4向上"/>
+                    <int name="mpCon" value="15"/>
+                    <int name="time" value="40"/>
+                    <int name="speed" value="8"/>
+                    <int name="jump" value="4"/>
+                    <vector name="lt" x="-250" y="-150"/>
+                    <vector name="rb" x="250" y="150"/>
+                </imgdir>
+                <imgdir name="5">
+                    <string name="hs" value="MP 15消費して50秒間、移動速度10、ジャンプ力5向上"/>
+                    <int name="mpCon" value="15"/>
+                    <int name="time" value="50"/>
+                    <int name="speed" value="10"/>
+                    <int name="jump" value="5"/>
+                    <vector name="lt" x="-250" y="-150"/>
+                    <vector name="rb" x="250" y="150"/>
+                </imgdir>
+                <imgdir name="6">
+                    <string name="hs" value="MP 15消費して60秒間、移動速度12、ジャンプ力6向上"/>
+                    <int name="mpCon" value="15"/>
+                    <int name="time" value="60"/>
+                    <int name="speed" value="12"/>
+                    <int name="jump" value="6"/>
+                    <vector name="lt" x="-250" y="-150"/>
+                    <vector name="rb" x="250" y="150"/>
+                </imgdir>
+                <imgdir name="7">
+                    <string name="hs" value="MP 15消費して70秒間、移動速度14、ジャンプ力7向上"/>
+                    <int name="mpCon" value="15"/>
+                    <int name="time" value="70"/>
+                    <int name="speed" value="14"/>
+                    <int name="jump" value="7"/>
+                    <vector name="lt" x="-250" y="-150"/>
+                    <vector name="rb" x="250" y="150"/>
+                </imgdir>
+                <imgdir name="8">
+                    <string name="hs" value="MP 15消費して80秒間、移動速度16、ジャンプ力8向上"/>
+                    <int name="mpCon" value="15"/>
+                    <int name="time" value="80"/>
+                    <int name="speed" value="16"/>
+                    <int name="jump" value="8"/>
+                    <vector name="lt" x="-250" y="-150"/>
+                    <vector name="rb" x="250" y="150"/>
+                </imgdir>
+                <imgdir name="9">
+                    <string name="hs" value="MP 15消費して90秒間、移動速度18、ジャンプ力9向上"/>
+                    <int name="mpCon" value="15"/>
+                    <int name="time" value="90"/>
+                    <int name="speed" value="18"/>
+                    <int name="jump" value="9"/>
+                    <vector name="lt" x="-250" y="-150"/>
+                    <vector name="rb" x="250" y="150"/>
+                </imgdir>
+                <imgdir name="10">
+                    <string name="hs" value="MP 15消費して100秒間、移動速度20、ジャンプ力10向上"/>
+                    <int name="mpCon" value="15"/>
+                    <int name="time" value="100"/>
+                    <int name="speed" value="20"/>
+                    <int name="jump" value="10"/>
+                    <vector name="lt" x="-250" y="-150"/>
+                    <vector name="rb" x="250" y="150"/>
+                </imgdir>
+                <imgdir name="11">
+                    <string name="hs" value="MP 30消費して110秒間、移動速度22、ジャンプ力11向上"/>
+                    <int name="mpCon" value="30"/>
+                    <int name="time" value="110"/>
+                    <int name="speed" value="22"/>
+                    <int name="jump" value="11"/>
+                    <vector name="lt" x="-300" y="-200"/>
+                    <vector name="rb" x="300" y="200"/>
+                </imgdir>
+                <imgdir name="12">
+                    <string name="hs" value="MP 30消費して120秒間、移動速度24、ジャンプ力12向上"/>
+                    <int name="mpCon" value="30"/>
+                    <int name="time" value="120"/>
+                    <int name="speed" value="24"/>
+                    <int name="jump" value="12"/>
+                    <vector name="lt" x="-300" y="-200"/>
+                    <vector name="rb" x="300" y="200"/>
+                </imgdir>
+                <imgdir name="13">
+                    <string name="hs" value="MP 30消費して130秒間、移動速度26、ジャンプ力13向上"/>
+                    <int name="mpCon" value="30"/>
+                    <int name="time" value="130"/>
+                    <int name="speed" value="26"/>
+                    <int name="jump" value="13"/>
+                    <vector name="lt" x="-300" y="-200"/>
+                    <vector name="rb" x="300" y="200"/>
+                </imgdir>
+                <imgdir name="14">
+                    <string name="hs" value="MP 30消費して140秒間、移動速度28、ジャンプ力14向上"/>
+                    <int name="mpCon" value="30"/>
+                    <int name="time" value="140"/>
+                    <int name="speed" value="28"/>
+                    <int name="jump" value="14"/>
+                    <vector name="lt" x="-300" y="-200"/>
+                    <vector name="rb" x="300" y="200"/>
+                </imgdir>
+                <imgdir name="15">
+                    <string name="hs" value="MP 30消費して150秒間、移動速度30、ジャンプ力15向上"/>
+                    <int name="mpCon" value="30"/>
+                    <int name="time" value="150"/>
+                    <int name="speed" value="30"/>
+                    <int name="jump" value="15"/>
+                    <vector name="lt" x="-300" y="-200"/>
+                    <vector name="rb" x="300" y="200"/>
+                </imgdir>
+                <imgdir name="16">
+                    <string name="hs" value="MP 30消費して160秒間、移動速度32、ジャンプ力16向上"/>
+                    <int name="mpCon" value="30"/>
+                    <int name="time" value="160"/>
+                    <int name="speed" value="32"/>
+                    <int name="jump" value="16"/>
+                    <vector name="lt" x="-300" y="-200"/>
+                    <vector name="rb" x="300" y="200"/>
+                </imgdir>
+                <imgdir name="17">
+                    <string name="hs" value="MP 30消費して170秒間、移動速度34、ジャンプ力17向上"/>
+                    <int name="mpCon" value="30"/>
+                    <int name="time" value="170"/>
+                    <int name="speed" value="34"/>
+                    <int name="jump" value="17"/>
+                    <vector name="lt" x="-300" y="-200"/>
+                    <vector name="rb" x="300" y="200"/>
+                </imgdir>
+                <imgdir name="18">
+                    <string name="hs" value="MP 30消費して180秒間、移動速度36、ジャンプ力18向上"/>
+                    <int name="mpCon" value="30"/>
+                    <int name="time" value="180"/>
+                    <int name="speed" value="36"/>
+                    <int name="jump" value="18"/>
+                    <vector name="lt" x="-300" y="-200"/>
+                    <vector name="rb" x="300" y="200"/>
+                </imgdir>
+                <imgdir name="19">
+                    <string name="hs" value="MP 30消費して190秒間、移動速度38、ジャンプ力19向上"/>
+                    <int name="mpCon" value="30"/>
+                    <int name="time" value="190"/>
+                    <int name="speed" value="38"/>
+                    <int name="jump" value="19"/>
+                    <vector name="lt" x="-300" y="-200"/>
+                    <vector name="rb" x="300" y="200"/>
+                </imgdir>
+                <imgdir name="20">
+                    <string name="hs" value="MP 30消費して200秒間、移動速度40、ジャンプ力20向上"/>
+                    <int name="mpCon" value="30"/>
+                    <int name="time" value="200"/>
+                    <int name="speed" value="40"/>
+                    <int name="jump" value="20"/>
+                    <vector name="lt" x="-300" y="-200"/>
+                    <vector name="rb" x="300" y="200"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="effect">
+                <canvas name="0" width="42" height="12">
+                    <vector name="origin" x="23" y="12"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="1" width="40" height="12">
+                    <vector name="origin" x="20" y="12"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="2" width="93" height="59">
+                    <vector name="origin" x="68" y="59"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="3" width="92" height="59">
+                    <vector name="origin" x="67" y="59"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="4" width="96" height="64">
+                    <vector name="origin" x="59" y="64"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="5" width="106" height="60">
+                    <vector name="origin" x="57" y="64"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="6" width="89" height="59">
+                    <vector name="origin" x="35" y="64"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="7" width="88" height="57">
+                    <vector name="origin" x="34" y="63"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="8" width="16" height="31">
+                    <vector name="origin" x="-30" y="44"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+            </imgdir>
+            <imgdir name="affected">
+                <canvas name="0" width="42" height="84">
+                    <vector name="origin" x="24" y="84"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+                <canvas name="1" width="40" height="84">
+                    <vector name="origin" x="21" y="84"/>
+                    <int name="delay" value="110"/>
+                </canvas>
+                <canvas name="2" width="43" height="86">
+                    <vector name="origin" x="21" y="86"/>
+                    <int name="delay" value="100"/>
+                </canvas>
+                <canvas name="3" width="43" height="86">
+                    <vector name="origin" x="21" y="86"/>
+                    <int name="delay" value="100"/>
+                </canvas>
+                <canvas name="4" width="55" height="86">
+                    <vector name="origin" x="21" y="86"/>
+                    <int name="delay" value="110"/>
+                </canvas>
+                <canvas name="5" width="66" height="81">
+                    <vector name="origin" x="21" y="86"/>
+                    <int name="delay" value="120"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+        <imgdir name="4101005">
+            <canvas name="icon" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconMouseOver" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <canvas name="iconDisabled" width="32" height="32">
+                <vector name="origin" x="0" y="32"/>
+                <int name="z" value="0"/>
+            </canvas>
+            <string name="name" value="ライフドレイン"/>
+            <string name="desc"
+                    value="[マスターレベル： 30]\n敵に与えたダメージの一部を吸収してHPを回復する。自分のMax HPの半分以上は一度に吸収できない。"/>
+            <int name="weapon" value="47"/>
+            <imgdir name="level">
+                <imgdir name="1">
+                    <string name="hs" value="MP 12消費してダメージの31%吸収、ダメージ102%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="31"/>
+                    <int name="damage" value="102"/>
+                </imgdir>
+                <imgdir name="2">
+                    <string name="hs" value="MP 12消費してダメージの32%吸収、ダメージ104%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="32"/>
+                    <int name="damage" value="104"/>
+                </imgdir>
+                <imgdir name="3">
+                    <string name="hs" value="MP 12消費してダメージの33%吸収、ダメージ106%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="33"/>
+                    <int name="damage" value="106"/>
+                </imgdir>
+                <imgdir name="4">
+                    <string name="hs" value="MP 12消費してダメージの34%吸収、ダメージ108%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="34"/>
+                    <int name="damage" value="108"/>
+                </imgdir>
+                <imgdir name="5">
+                    <string name="hs" value="MP 12消費してダメージの35%吸収、ダメージ110%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="35"/>
+                    <int name="damage" value="110"/>
+                </imgdir>
+                <imgdir name="6">
+                    <string name="hs" value="MP 12消費してダメージの36%吸収、ダメージ112%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="36"/>
+                    <int name="damage" value="112"/>
+                </imgdir>
+                <imgdir name="7">
+                    <string name="hs" value="MP 12消費してダメージの37%吸収、ダメージ114%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="37"/>
+                    <int name="damage" value="114"/>
+                </imgdir>
+                <imgdir name="8">
+                    <string name="hs" value="MP 12消費してダメージの38%吸収、ダメージ116%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="38"/>
+                    <int name="damage" value="116"/>
+                </imgdir>
+                <imgdir name="9">
+                    <string name="hs" value="MP 12消費してダメージの39%吸収、ダメージ118%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="39"/>
+                    <int name="damage" value="118"/>
+                </imgdir>
+                <imgdir name="10">
+                    <string name="hs" value="MP 12消費してダメージの40%吸収、ダメージ120%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="40"/>
+                    <int name="damage" value="120"/>
+                </imgdir>
+                <imgdir name="11">
+                    <string name="hs" value="MP 12消費してダメージの41%吸収、ダメージ122%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="41"/>
+                    <int name="damage" value="122"/>
+                </imgdir>
+                <imgdir name="12">
+                    <string name="hs" value="MP 12消費してダメージの42%吸収、ダメージ124%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="42"/>
+                    <int name="damage" value="124"/>
+                </imgdir>
+                <imgdir name="13">
+                    <string name="hs" value="MP 12消費してダメージの43%吸収、ダメージ126%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="43"/>
+                    <int name="damage" value="126"/>
+                </imgdir>
+                <imgdir name="14">
+                    <string name="hs" value="MP 12消費してダメージの44%吸収、ダメージ128%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="44"/>
+                    <int name="damage" value="128"/>
+                </imgdir>
+                <imgdir name="15">
+                    <string name="hs" value="MP 12消費してダメージの45%吸収、ダメージ130%"/>
+                    <int name="mpCon" value="12"/>
+                    <int name="x" value="45"/>
+                    <int name="damage" value="130"/>
+                </imgdir>
+                <imgdir name="16">
+                    <string name="hs" value="MP 24消費してダメージの46%吸収、ダメージ132%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="46"/>
+                    <int name="damage" value="132"/>
+                </imgdir>
+                <imgdir name="17">
+                    <string name="hs" value="MP 24消費してダメージの47%吸収、ダメージ134%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="47"/>
+                    <int name="damage" value="134"/>
+                </imgdir>
+                <imgdir name="18">
+                    <string name="hs" value="MP 24消費してダメージの48%吸収、ダメージ136%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="48"/>
+                    <int name="damage" value="136"/>
+                </imgdir>
+                <imgdir name="19">
+                    <string name="hs" value="MP 24消費してダメージの49%吸収、ダメージ138%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="49"/>
+                    <int name="damage" value="138"/>
+                </imgdir>
+                <imgdir name="20">
+                    <string name="hs" value="MP 24消費してダメージの50%吸収、ダメージ140%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="50"/>
+                    <int name="damage" value="140"/>
+                </imgdir>
+                <imgdir name="21">
+                    <string name="hs" value="MP 24消費してダメージの51%吸収、ダメージ142%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="51"/>
+                    <int name="damage" value="142"/>
+                </imgdir>
+                <imgdir name="22">
+                    <string name="hs" value="MP 24消費してダメージの52%吸収、ダメージ144%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="52"/>
+                    <int name="damage" value="144"/>
+                </imgdir>
+                <imgdir name="23">
+                    <string name="hs" value="MP 24消費してダメージの53%吸収、ダメージ146%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="53"/>
+                    <int name="damage" value="146"/>
+                </imgdir>
+                <imgdir name="24">
+                    <string name="hs" value="MP 24消費してダメージの54%吸収、ダメージ148%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="54"/>
+                    <int name="damage" value="148"/>
+                </imgdir>
+                <imgdir name="25">
+                    <string name="hs" value="MP 24消費してダメージの55%吸収、ダメージ150%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="55"/>
+                    <int name="damage" value="150"/>
+                </imgdir>
+                <imgdir name="26">
+                    <string name="hs" value="MP 24消費してダメージの56%吸収、ダメージ152%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="56"/>
+                    <int name="damage" value="152"/>
+                </imgdir>
+                <imgdir name="27">
+                    <string name="hs" value="MP 24消費してダメージの57%吸収、ダメージ154%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="57"/>
+                    <int name="damage" value="154"/>
+                </imgdir>
+                <imgdir name="28">
+                    <string name="hs" value="MP 24消費してダメージの58%吸収、ダメージ156%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="58"/>
+                    <int name="damage" value="156"/>
+                </imgdir>
+                <imgdir name="29">
+                    <string name="hs" value="MP 24消費してダメージの59%吸収、ダメージ158%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="59"/>
+                    <int name="damage" value="158"/>
+                </imgdir>
+                <imgdir name="30">
+                    <string name="hs" value="MP 24消費してダメージの60%吸収、ダメージ160%"/>
+                    <int name="mpCon" value="24"/>
+                    <int name="x" value="60"/>
+                    <int name="damage" value="160"/>
+                </imgdir>
+            </imgdir>
+            <imgdir name="req">
+                <int name="4100002" value="3"/>
+            </imgdir>
+            <imgdir name="effect">
+                <canvas name="0" width="64" height="20">
+                    <vector name="origin" x="36" y="62"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="1" width="65" height="44">
+                    <vector name="origin" x="37" y="66"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="2" width="68" height="64">
+                    <vector name="origin" x="38" y="66"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="3" width="68" height="59">
+                    <vector name="origin" x="38" y="62"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="4" width="68" height="40">
+                    <vector name="origin" x="38" y="42"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+                <canvas name="5" width="64" height="20">
+                    <vector name="origin" x="35" y="23"/>
+                    <int name="delay" value="90"/>
+                </canvas>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

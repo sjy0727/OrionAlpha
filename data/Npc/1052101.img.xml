@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="1052101.img"><imgdir name="info"><string name="name" value="アンドレア"/><string name="quest" value="hair_kerning2"/><imgdir name="speak"><string name="0" value="あらあら～？　お兄さん、ヘアスタイルはちゃんと手入れしなきゃダメよ～。"/><string name="1" value="院長みたいにはできないけど、私もけっこういけるのよ。"/></imgdir></imgdir><imgdir name="stand"><canvas name="0" width="65" height="76"><vector name="origin" x="35" y="76"/></canvas></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1052101.img">
+    <imgdir name="info">
+        <string name="name" value="アンドレア"/>
+        <string name="quest" value="hair_kerning2"/>
+        <imgdir name="speak">
+            <string name="0" value="あらあら～？　お兄さん、ヘアスタイルはちゃんと手入れしなきゃダメよ～。"/>
+            <string name="1" value="院長みたいにはできないけど、私もけっこういけるのよ。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="65" height="76">
+            <vector name="origin" x="35" y="76"/>
+        </canvas>
+    </imgdir>
+</imgdir>

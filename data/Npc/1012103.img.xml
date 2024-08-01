@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="1012103.img"><imgdir name="info"><string name="name" value="美容師ナタリー"/><string name="quest" value="hair_henesys1"/><imgdir name="speak"><string name="0" value="アタクシのヘアスタイル素敵でしょう？　当たり前よね、美容師たちはいつも最新の流行をチェックしているんですもの。お～っほっほ！"/><string name="1" value="そのヘアスタイルに満足してる？　アタクシに任せれば、とびきりキレイに仕上げてさしあげるわよ！"/></imgdir></imgdir><imgdir name="stand"><canvas name="0" width="49" height="71"><vector name="origin" x="24" y="71"/><int name="z" value="0"/></canvas></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1012103.img">
+    <imgdir name="info">
+        <string name="name" value="美容師ナタリー"/>
+        <string name="quest" value="hair_henesys1"/>
+        <imgdir name="speak">
+            <string name="0" value="アタクシのヘアスタイル素敵でしょう？　当たり前よね、美容師たちはいつも最新の流行をチェックしているんですもの。お～っほっほ！"/>
+            <string name="1" value="そのヘアスタイルに満足してる？　アタクシに任せれば、とびきりキレイに仕上げてさしあげるわよ！"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="49" height="71">
+            <vector name="origin" x="24" y="71"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+</imgdir>

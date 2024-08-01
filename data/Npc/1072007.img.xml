@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="1072007.img"><imgdir name="info"><string name="name" value="盗賊転職教官"/><string name="quest" value="inside_rogue"/><imgdir name="speak"><string name="0" value="盗賊の2次職へ転職したいのか？　それならばまずはカニングシティーの‘ダークロード’様をたずねてみなさい。"/><string name="1" value="私の試験をパスした者のみが、盗賊の2次職へと転職ができる。"/></imgdir></imgdir><imgdir name="stand"><canvas name="0" width="58" height="69"><vector name="origin" x="29" y="69"/></canvas></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1072007.img">
+    <imgdir name="info">
+        <string name="name" value="盗賊転職教官"/>
+        <string name="quest" value="inside_rogue"/>
+        <imgdir name="speak">
+            <string name="0" value="盗賊の2次職へ転職したいのか？　それならばまずはカニングシティーの‘ダークロード’様をたずねてみなさい。"/>
+            <string name="1" value="私の試験をパスした者のみが、盗賊の2次職へと転職ができる。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="58" height="69">
+            <vector name="origin" x="29" y="69"/>
+        </canvas>
+    </imgdir>
+</imgdir>

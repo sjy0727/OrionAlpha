@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="1032100.img"><imgdir name="info"><string name="name" value="妖精アルウェン"/><string name="quest" value="owen"/><imgdir name="speak"><string name="0" value="ひゃあ～！　私の大事なコレクションが……どこで落としたんだろう？"/><string name="1" value="人間に助けられたくないんだけど……この際、仕方ないな。"/></imgdir></imgdir><imgdir name="stand"><canvas name="0" width="41" height="57"><vector name="origin" x="21" y="57"/><int name="z" value="0"/></canvas></imgdir></imgdir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1032100.img">
+    <imgdir name="info">
+        <string name="name" value="妖精アルウェン"/>
+        <string name="quest" value="owen"/>
+        <imgdir name="speak">
+            <string name="0" value="ひゃあ～！　私の大事なコレクションが……どこで落としたんだろう？"/>
+            <string name="1" value="人間に助けられたくないんだけど……この際、仕方ないな。"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="stand">
+        <canvas name="0" width="41" height="57">
+            <vector name="origin" x="21" y="57"/>
+            <int name="z" value="0"/>
+        </canvas>
+    </imgdir>
+</imgdir>
