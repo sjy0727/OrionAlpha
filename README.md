@@ -161,12 +161,13 @@ Allows you to drop cash NX items like any other item.
 ### Re-Enable Admin Actions
 
 Restores the ability to allow GM/Admins to drop items, mesos, etc.
-Action | Address | Instruction
------------ | ------- | -----------
-Drop Items | 004860AF | jmp 004860CA
-Drop Mesos | 0052A0BC | jmp 0052A0F1
-Create Player Store | 005E0681 | jmp 005E06B1
-Enable Trade Requests | 00497604 | jmp 00497633
+
+| Action                | Address  | Instruction  |
+|-----------------------|----------|--------------|
+| Drop Items            | 004860AF | jmp 004860CA |
+| Drop Mesos            | 0052A0BC | jmp 0052A0F1 |
+| Create Player Store   | 005E0681 | jmp 005E06B1 |
+| Enable Trade Requests | 00497604 | jmp 00497633 |
 
 ### Enable Cash Shop
 
