@@ -39,3 +39,6 @@ nb-configuration.xml
 *.iml
 *.ipr
 *.iws
+
+#MacOS
+.DS_Store

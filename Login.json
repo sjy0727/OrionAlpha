@@ -1,0 +1,6 @@
+{
+  "port": 8484,
+  "centerPort": 8383,
+  "PublicIP": "192.168.1.8",
+  "PrivateIP": "127.0.0.1"
+}
