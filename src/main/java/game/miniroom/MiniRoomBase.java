@@ -531,7 +531,7 @@ public abstract class MiniRoomBase {
         this.title = title;
     }
 
-    public class MiniRoomEntry {
+    public static class MiniRoomEntry {
 
         public MiniRoomBase miniRoom;
         

@@ -52,7 +52,7 @@ import util.Rand32;
  */
 public class ClientSocket extends SimpleChannelInboundHandler {
 
-    public class MigrateState {
+    public static class MigrateState {
 
         public static final int Invalid = 0,
                 WaitMigrateIn = 1,
@@ -347,9 +347,8 @@ public class ClientSocket extends SimpleChannelInboundHandler {
             if (channel == null || buff == null || buff.isEmpty()) {
                 throw new RuntimeException("fuck everything");
             }
-            Iterator<byte[]> t = buff.iterator();
-            while (t.hasNext()) {
-                channel.write(t.next());
+            for (byte[] bytes : buff) {
+                channel.write(bytes);
             }
             channel.flush();
         } finally {

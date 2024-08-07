@@ -144,8 +144,8 @@ public class StaticFoothold implements Comparable<StaticFoothold> {
     }
     
     public void validateVectorInfo() {
-        double lr = (double) (x2 - x1);
-        double tb = (double) (y2 - y1);
+        double lr = x2 - x1;
+        double tb = y2 - y1;
         double v = Math.sqrt(tb * tb + lr * lr);
         len = v;
         uvx = lr / v;
@@ -163,7 +163,7 @@ public class StaticFoothold implements Comparable<StaticFoothold> {
         }
     }
     
-    public class AttrFoothold {
+    public static class AttrFoothold {
         private double walk;
         private double drag;
         private double force;

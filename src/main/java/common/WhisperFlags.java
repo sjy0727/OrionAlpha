@@ -22,7 +22,7 @@ package common;
  * @author Eric
  */
 public class WhisperFlags {
-    public class WhisperFlag {
+    public static class WhisperFlag {
         public static final byte
                 Location    = 0x1,
                 Whisper     = 0x2,
@@ -32,7 +32,7 @@ public class WhisperFlags {
                 Blocked     = 0x20
         ;
     }
-    public class LocationResult {
+    public static class LocationResult {
         public static final byte
                 None            = 0,
                 GameSvr         = 1,
@@ -41,16 +41,15 @@ public class WhisperFlags {
                 Admin           = 4
         ;
     }
-    
+
     public static final byte
             FindRequest       = WhisperFlag.Request | WhisperFlag.Location,
             ReplyRequest      = WhisperFlag.Request | WhisperFlag.Whisper,
-            
             FindResult        = WhisperFlag.Result  | WhisperFlag.Location,
             ReplyResult       = WhisperFlag.Result  | WhisperFlag.Whisper,
             ReplyReceive      = WhisperFlag.Receive | WhisperFlag.Whisper,
             BlockedResult     = WhisperFlag.Blocked | WhisperFlag.Whisper,
-            
+
             None = -1
     ;
 }

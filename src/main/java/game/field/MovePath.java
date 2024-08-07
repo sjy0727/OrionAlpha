@@ -82,7 +82,7 @@ public class MovePath {
         return y;
     }
     
-    public class Elem {
+    public static class Elem {
         private byte attr;
         private short x;
         private short y;

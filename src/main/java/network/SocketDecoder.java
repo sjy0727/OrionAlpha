@@ -43,9 +43,9 @@ public class SocketDecoder extends ReplayingDecoder<Void> {
         this.cipher = cipher;
     }
     
-    class RecvData {
+    static class RecvData {
         /* The maximum incoming data buffer sizes */
-        class MaxSize {
+        static class MaxSize {
             static final int
                     Client = 0x1000,
                     Center = 0x8000

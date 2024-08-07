@@ -60,7 +60,7 @@ public class ExchangeElem {
         this.r = r;
     }
 
-    public class Add {
+    public static class Add {
 
         public int itemID;
         public short count;
@@ -91,7 +91,7 @@ public class ExchangeElem {
         }
     }
 
-    public class Remove {
+    public static class Remove {
 
         public int itemID;
         public short count;

@@ -225,7 +225,7 @@ public class User {
 
     private void checkCashItemExpire(long time) {
         // when you enter CS, it should check if your cs items if they expired or not. Needs packet to update inventory (?)
-        if (time - this.nextCheckCashItemExpire >= 0 && this.doCheckCashItemExpire != true) {
+        if (time - this.nextCheckCashItemExpire >= 0 && !this.doCheckCashItemExpire) {
             FileTime cur;
             if ((cur = SystemTime.getLocalTime().systemTimeToFileTime()) != null) {
                 this.nextCheckCashItemExpire = time + 180000;
@@ -735,7 +735,7 @@ public class User {
         return true;
     }
 
-    public class CashItemRequest {
+    public static class CashItemRequest {
 
         public static final byte
                 LoadLocker = 0,
@@ -773,7 +773,7 @@ public class User {
                 DestroyFailed = 32;
     }
 
-    public class ModFlag {
+    public static class ModFlag {
 
         private static final byte NexonCash = 0x1;
         private static final byte ItemLocker = 0x2;

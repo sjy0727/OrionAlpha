@@ -360,7 +360,7 @@ public class CharacterStat {
         this.money.set(money);
     }
     
-    public class CharacterStatType {
+    public static class CharacterStatType {
         public static final int
                 Face    = 0x1,
                 Hair    = 0x2,

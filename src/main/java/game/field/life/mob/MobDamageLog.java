@@ -72,7 +72,7 @@ public class MobDamageLog {
         return log;
     }
     
-    public class Info {
+    public static class Info {
         public int characterID;
         public int damage;
         public long time;
