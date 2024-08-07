@@ -19,24 +19,35 @@ package util;
 
 /**
  * Used for logging purposes within the JVM.
- * 
+ *
  * @author Eric
  */
 public class Logger {
-    
+
+    // ANSI color codes
+    private static final String RESET = "\u001B[0m";
+    private static final String BLACK = "\u001B[30m";
+    private static final String RED = "\u001B[31m";
+    private static final String GREEN = "\u001B[32m";
+    private static final String YELLOW = "\u001B[33m";
+    private static final String BLUE = "\u001B[34m";
+    private static final String PURPLE = "\u001B[35m";
+    private static final String CYAN = "\u001B[36m";
+    private static final String WHITE = "\u001B[37m";
+
     public static void logReport(String format) {
-        System.out.println(format);
+        System.out.println(GREEN + "[INFO] " + RESET + format);
     }
-    
+
     public static void logReport(String format, Object... args) {
-        System.out.println(String.format(format, args));
+        System.out.println(GREEN + "[INFO] " + RESET + String.format(format, args));
     }
-    
+
     public static void logError(String format) {
-        System.err.println(format);
+        System.err.println(RED + "[ERROR] " + RESET + format);
     }
-    
+
     public static void logError(String format, Object... args) {
-        System.err.println(String.format(format, args));
+        System.err.println(RED + "[ERROR] " + RESET + String.format(format, args));
     }
 }
