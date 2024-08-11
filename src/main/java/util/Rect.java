@@ -128,10 +128,10 @@ public class Rect {
      * @param dy 
      */
     public void offsetRect(double dx, double dy) {
-        this.left += dx;
-        this.right += dx;
-        this.top += dy;
-        this.bottom += dy;
+        this.left += (int) dx;
+        this.right += (int) dx;
+        this.top += (int) dy;
+        this.bottom += (int) dy;
     }
     
     public boolean isRectEmpty() {

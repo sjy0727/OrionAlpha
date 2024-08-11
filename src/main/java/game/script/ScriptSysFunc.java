@@ -423,7 +423,6 @@ public class ScriptSysFunc {
         Field field = FieldMan.getInstance(getChannelID()).getField(fieldID, false);
         if (field == null) {
             Logger.logError("VM run time error - No field %d", fieldID);
-            return;
         }
         //field.summonNpc(npcTemplateID, x, y);
     }

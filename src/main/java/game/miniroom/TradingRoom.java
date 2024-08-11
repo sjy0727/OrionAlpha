@@ -109,7 +109,7 @@ public class TradingRoom extends MiniRoomBase {
                     itemID = 0;
                 } else {
                     itemSlot = null;
-                    count = (short) tradeItem.getNumber();
+                    count = tradeItem.getNumber();
                     itemID = itemBase.getItemID();
                 }
                 ExchangeElem exchangeElem = new ExchangeElem();
@@ -154,7 +154,7 @@ public class TradingRoom extends MiniRoomBase {
             for (int i = 0; i < 2; i++) {
                 int idx = (i == 0) ? 1 : 0;
                 int from = getTax(mesoTrading[idx]);
-                int meso = (mesoTrading[idx] + -mesoTrading[i] - from);
+                int meso = (mesoTrading[idx] - mesoTrading[i] - from);
                 getUsers().get(i).incMoney(meso, true, false);
                 //addTotalTax
                 Inventory.sendInventoryOperation(getUsers().get(i), Request.None, i == 0 ? logAdd : changeLog);
@@ -358,7 +358,7 @@ public class TradingRoom extends MiniRoomBase {
         }
     }
 
-    public class Item {
+    public static class Item {
 
         private byte ti;
         private short pos;

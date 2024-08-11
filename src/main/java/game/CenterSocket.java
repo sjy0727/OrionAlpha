@@ -247,8 +247,8 @@ public class CenterSocket extends SimpleChannelInboundHandler {
         
         @Override
         protected void encode(ChannelHandlerContext ctx, byte[] message, ByteBuf out) throws Exception {
-            byte[] packet = (byte[]) message;
-        
+            byte[] packet = message;
+
             out.writeInt(packet.length);
             out.writeBytes(Arrays.copyOf(packet, packet.length));
         }
