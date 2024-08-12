@@ -71,7 +71,7 @@ public class ShopApp {
         this.commodity = new HashMap<>();
     }
 
-    public static final ShopApp getInstance() {
+    public static ShopApp getInstance() {
         return instance;
     }
 
@@ -80,10 +80,10 @@ public class ShopApp {
     }
     
     private void connectCenter() {
-        try (JsonReader reader = Json.createReader(new FileReader("Shop.img"))) {
+        try (JsonReader reader = Json.createReader(new FileReader("Shop.json"))) {
             JsonObject shopData = reader.readObject();
             
-            Integer world = shopData.getInt("gameWorldId", getWorldID());
+            int world = shopData.getInt("gameWorldId", getWorldID());
             if (world != getWorldID()) {
                 //this.worldID = world.byteValue();
             }
@@ -201,7 +201,7 @@ public class ShopApp {
     }
 
     private void initializeDB() {
-        try (JsonReader reader = Json.createReader(new FileReader("Database.img"))) {
+        try (JsonReader reader = Json.createReader(new FileReader("Database.json"))) {
             JsonObject dbData = reader.readObject();
 
             int dbPort = dbData.getInt("dbPort", 3306);

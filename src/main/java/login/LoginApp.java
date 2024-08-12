@@ -173,7 +173,7 @@ public class LoginApp {
     }
     
     private void initializeCenter() {
-        try (JsonReader reader = Json.createReader(new FileReader("Login.img"))) {
+        try (JsonReader reader = Json.createReader(new FileReader("Login.json"))) {
             JsonObject loginData = reader.readObject();
             
             this.port = loginData.getInt("port", 8484);
@@ -187,7 +187,7 @@ public class LoginApp {
     }
     
     private void initializeDB() {
-        try (JsonReader reader = Json.createReader(new FileReader("Database.img"))) {
+        try (JsonReader reader = Json.createReader(new FileReader("Database.json"))) {
             JsonObject dbData = reader.readObject();
             
             int dbPort = dbData.getInt("dbPort", 3306);
@@ -244,7 +244,7 @@ public class LoginApp {
     
     public void start() {
         try {
-            Logger.logReport("MapleStory Japan Service WvsLogin.exe.");
+            Logger.logReport("MapleStory Japan Service WvsLogin.");
             setUp();
             Logger.logReport("WvsLogin has been initialized in " + ((System.currentTimeMillis() - serverStartTime) / 1000.0) + " seconds.");
         } catch (Exception ex) {
