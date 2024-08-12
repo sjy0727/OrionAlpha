@@ -280,7 +280,7 @@ public class UserSkill {
         String character = user.getCharacterName();
         int fieldID = user.getField().getFieldID();
         short job = user.getCharacter().getCharacterStat().getJob();
-        String format = new String();
+        String format = "";
         if (SkillAccessor.isTeleportSkill(skillID)) {
             if (JobAccessor.getJobCategory(job) == JobCategory.Wizard) {
                 int skillLevel = SkillAccessor.getTeleportSkillLevel(user.getCharacter());

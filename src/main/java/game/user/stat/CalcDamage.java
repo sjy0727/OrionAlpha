@@ -183,7 +183,7 @@ public class CalcDamage {
                             }
                             break;
                         case 47: // ThrowingGloves
-                            if (skillID != 0 && skillID == Rogue.DoubleStab_Dagger) {
+                            if (skillID == Rogue.DoubleStab_Dagger) {
                                 
                             } else {
                                 
@@ -208,7 +208,7 @@ public class CalcDamage {
         }
     }
     
-    public static final double getRand(long rand, double f0, double f1) {
+    public static double getRand(long rand, double f0, double f1) {
         double random;
         if (f1 != f0) {
             // swap f1 with f0

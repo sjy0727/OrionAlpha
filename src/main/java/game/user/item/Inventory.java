@@ -254,9 +254,9 @@ public class Inventory {
                         ItemSlotBase item = user.getCharacter().getItemSlot().get(ti).get(i);
                         if (item != null && item.getItemID() == itemID) {
                             if (ti != ItemType.Consume && ti != ItemType.Install && ti != ItemType.Etc) {
-                                count += (user.getCharacter().getItemTrading().get(ti).get(i) == 0) ? 1 : 0;
+                                count += (short) ((user.getCharacter().getItemTrading().get(ti).get(i) == 0) ? 1 : 0);
                             } else {
-                                count += Math.max(item.getItemNumber() - user.getCharacter().getItemTrading().get(ti).get(i), 0);
+                                count += (short) Math.max(item.getItemNumber() - user.getCharacter().getItemTrading().get(ti).get(i), 0);
                             }
                         }
                     }
@@ -479,7 +479,7 @@ public class Inventory {
         if (user.lock()) {
             try {
                 int moneyTrading = user.getCharacter().getMoneyTrading();
-                if (moneyTrading <= 0 || amount <= 0 || moneyTrading < amount) {
+                if (amount <= 0 || moneyTrading < amount) {
                     Logger.logError("Cannot restore money from temp (%d/%d)", amount, moneyTrading);
                     user.closeSocket();
                     return false;
@@ -624,7 +624,7 @@ public class Inventory {
      * @param cash Whether or not to increment CashSN or SN
      * @return The item's new SN assigned
      */
-    public static final long getNextSN(ItemSlotBase item, boolean cash) {
+    public static long getNextSN(ItemSlotBase item, boolean cash) {
         if (cash) {
             item.setCashItemSN(GameApp.getInstance().getNextCashSN());
             return item.getCashItemSN();

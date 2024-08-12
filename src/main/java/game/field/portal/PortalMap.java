@@ -67,7 +67,7 @@ public class PortalMap {
         if (count >= 0) {
             for (int i = count; i >= 0; i--) {
                 Portal pt = portal.get(startPoint.get(i));
-                double range = (double)((x - pt.getPortalPos().x) * (x - pt.getPortalPos().x) + (y - pt.getPortalPos().y) * (y - pt.getPortalPos().y));
+                double range = (x - pt.getPortalPos().x) * (x - pt.getPortalPos().x) + (y - pt.getPortalPos().y) * (y - pt.getPortalPos().y);
                 if (idx < 0 || range < dis) {
                     dis = range;
                     idx = i;

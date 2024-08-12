@@ -34,7 +34,7 @@ public class AttackElem {
             Count       = 6
     ;
     
-    public static final int getElementAttribute(char elemAttr) {
+    public static int getElementAttribute(char elemAttr) {
         switch (Character.toUpperCase(elemAttr)) {
             case '\0'://(null)
             case 'P'://80 & 112

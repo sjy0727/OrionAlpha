@@ -60,7 +60,7 @@ public interface GameObject {
             return p;
         }
         
-        public static final GameObject getFromGameObjectID(int id) {
+        public static GameObject getFromGameObjectID(int id) {
             lockGameObject.lock();
             try {
                 if (gameObject.containsKey(id)) {
@@ -76,7 +76,7 @@ public interface GameObject {
             }
         }
         
-        public static final GameObjectBase registerGameObject(GameObject p) {
+        public static GameObjectBase registerGameObject(GameObject p) {
             lockGameObject.lock();
             try {
                 GameObjectBase obj = new GameObjectBase(p);
@@ -89,7 +89,7 @@ public interface GameObject {
             }
         }
         
-        public static final void unregisterGameObject(GameObject p) {
+        public static void unregisterGameObject(GameObject p) {
             lockGameObject.lock();
             try {
                 int id = p.getGameObjectID();

@@ -259,13 +259,13 @@ public class WvsPhysicalSpace2D {
                         int snNext = WzUtil.getInt32(foothold.getNode("next"), 0);
                         
                         StaticFoothold pfh = new StaticFoothold();
-                        pfh.setSN(Integer.valueOf(foothold.getNodeName()));
+                        pfh.setSN(Integer.parseInt(foothold.getNodeName()));
                         pfh.setX1(x0);
                         pfh.setY1(y0);
                         pfh.setX2(x1);
                         pfh.setY2(y1);
-                        pfh.setPage(Integer.valueOf(page.getNodeName()));
-                        pfh.setZMass(Integer.valueOf(massFoothold.getNodeName()));
+                        pfh.setPage(Integer.parseInt(page.getNodeName()));
+                        pfh.setZMass(Integer.parseInt(massFoothold.getNodeName()));
                         pfh.setSnPrev(snPrev);
                         pfh.setSnNext(snNext);
                         if (drag > 0)
@@ -325,7 +325,7 @@ public class WvsPhysicalSpace2D {
         if (ladderRope != null) {
             for (WzProperty data : ladderRope.getChildNodes()) {
                 LadderOrRope lr = new LadderOrRope();
-                lr.sn = Integer.valueOf(data.getNodeName());
+                lr.sn = Integer.parseInt(data.getNodeName());
                 lr.ladder = WzUtil.getBoolean(data.getNode("l"), false);
                 lr.upperFoothold = WzUtil.getBoolean(data.getNode("uf"), false);
                 lr.x = WzUtil.getInt32(data.getNode("x"), 0);
@@ -346,7 +346,7 @@ public class WvsPhysicalSpace2D {
         }
     }
     
-    public class LadderOrRope {
+    public static class LadderOrRope {
         public int sn;
         public boolean ladder;
         public boolean upperFoothold;

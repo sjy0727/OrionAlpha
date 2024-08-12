@@ -38,7 +38,7 @@ public class Inventory {
      * @param cash Whether or not to increment CashSN or SN
      * @return The item's new SN assigned
      */
-    public static final long getNextSN(ItemSlotBase item, boolean cash) {
+    public static long getNextSN(ItemSlotBase item, boolean cash) {
         if (cash) {
             item.setCashItemSN(ShopApp.getInstance().getNextCashSN());
             return item.getCashItemSN();
