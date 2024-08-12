@@ -72,12 +72,11 @@ public class SkillEntry {
                     return false;
                 }
                 rate = aadRate[AttackElemAttr.None][order];
+                break;
             }
         }
-    
-        for (int i = 0; i < 15; i++) {
-            damage.set(i, (short)(int)((double)damage.get(i) * rate));
-        }
+
+        damage.replaceAll(aShort -> (short) ((double) aShort * rate));
         return adjust;
     }
 

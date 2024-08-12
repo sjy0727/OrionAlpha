@@ -23,9 +23,7 @@ import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 import java.lang.reflect.Parameter;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 /**
  * @author Arnah
@@ -96,11 +94,8 @@ public class CommandHandler {
                             //Assumes if we are using an Alias annotation that the first String is used
                             //for that alias.
                             if (!filledAlias && param.getType().isAssignableFrom(String.class)) {
-                                if (usedAlias != null) {
-                                    methodArgs[index] = usedAlias;
-                                } else {//Used method name not alias.
-                                    methodArgs[index] = method.getName();
-                                }
+                                //Used method name not alias.
+                                methodArgs[index] = Objects.requireNonNullElseGet(usedAlias, method::getName);
                                 filledAlias = true;
                                 continue;
                             }
@@ -177,14 +172,11 @@ public class CommandHandler {
                 if (par.equals(Class.class)) {
                     break;
                 }
-                for (Field f : par.getDeclaredFields()) {
-                    fields.add(f);
-                }
+                Collections.addAll(fields, par.getDeclaredFields());
             }
         }
-        for (Field f : parent.getClass().getDeclaredFields()) {
-            fields.add(f);
-        }
+        Collections.addAll(fields, parent.getClass().getDeclaredFields());
+
         for (Field f : fields) {
             String typeName = f.getType().getTypeName();
             // Some checks to prevent wasting time looking at values we don't accept as a

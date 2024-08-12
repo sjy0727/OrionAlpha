@@ -43,9 +43,7 @@ public class FieldMan {
     public FieldMan() {
         this.fields = new ConcurrentHashMap<>();
         
-        TimerThread.Field.Register(() -> {
-            FieldMan.this.update(System.currentTimeMillis());
-        }, 100, 1000);
+        TimerThread.Field.Register(() -> FieldMan.this.update(System.currentTimeMillis()), 100, 1000);
     }
     
     public static FieldMan getInstance(int channel) {

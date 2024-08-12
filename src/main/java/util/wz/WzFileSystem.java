@@ -18,6 +18,8 @@
 package util.wz;
 
 import java.io.File;
+import java.util.Objects;
+
 import util.Logger;
 
 /**
@@ -48,7 +50,7 @@ public class WzFileSystem {
     }
     
     private void createChildPackage(WzPackage p, File f) {
-        for (File file : f.listFiles()) {
+        for (File file : Objects.requireNonNull(f.listFiles())) {
             if (file.isDirectory()) {
                 createChildPackage(p.addPackage(file), file);
             } else {

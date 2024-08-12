@@ -316,12 +316,7 @@ public class Mob extends Creature {
                 alreadyStealed = true;
             } else {
                 if (alreadyStealed && itemID_Stolen != 0) {
-                    for (Iterator<Reward> it = rewards.iterator(); it.hasNext();) {
-                        Reward reward = it.next();
-                        if (reward.getItem() != null && reward.getItem().getItemID() == itemID_Stolen) {
-                            it.remove();
-                        }
-                    }
+                    rewards.removeIf(reward -> reward.getItem() != null && reward.getItem().getItemID() == itemID_Stolen);
                 }
             }
             int x2 = hit.x + rewards.size() * -10;
@@ -643,11 +638,7 @@ public class Mob extends Creature {
             lastAttack = time;
             lastMove = time;
         }
-        for (Iterator<Long> it = attackers.values().iterator(); it.hasNext();) {
-            long attackTime = it.next();
-            if (time - attackTime > 1000 * 5)
-                it.remove();
-        }
+        attackers.values().removeIf(attackTime -> time - attackTime > 1000 * 5);
     }
     
     public void updatePoison(long time) {

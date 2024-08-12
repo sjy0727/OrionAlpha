@@ -192,9 +192,7 @@ public class Field {
     }
 
     public void getEncloseSplit(FieldSplit p, FieldSplit[] split) {
-        for (int i = 0; i < split.length; i++) {
-            split[i] = null;
-        }
+        Arrays.fill(split, null);
         // =============
         // [0]  [1]  [2]    [Row - 1]
         // [3]  {4}  [5]    [Row + 0]

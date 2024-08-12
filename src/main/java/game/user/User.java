@@ -675,12 +675,7 @@ public class User extends Creature {
                 List<Integer> newSkillRoot = new ArrayList<>();
                 SkillAccessor.getSkillRootFromJob(character.getCharacterStat().getJob(), curSkillRoot);
                 SkillAccessor.getSkillRootFromJob(val, newSkillRoot);
-                for (Iterator<Integer> it = curSkillRoot.iterator(); it.hasNext();) {
-                    int skillRoot = it.next();
-                    if (newSkillRoot.contains(skillRoot)) {
-                        it.remove();
-                    }
-                }
+                curSkillRoot.removeIf(newSkillRoot::contains);
                 character.getCharacterStat().setJob((short) val);
                 if (val != 0 && character.getCharacterStat().getLevel() < 11) {
                     // Do we still apply STR/DEX default stats in this ver?

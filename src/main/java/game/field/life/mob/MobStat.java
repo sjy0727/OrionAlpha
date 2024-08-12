@@ -145,12 +145,7 @@ public class MobStat {
     }
     
     public int reset(int reset) {
-        for (Iterator<Integer> it = stats.keySet().iterator(); it.hasNext();) {
-            int stat = it.next();
-            if ((stat & reset) != 0) {
-                it.remove();
-            }
-        }
+        stats.keySet().removeIf(stat -> (stat & reset) != 0);
         return reset;
     }
     

@@ -93,7 +93,7 @@ public class PartyMember {
     
     public int findIndex(String name) {
         for (int i = 0; i < characterName.size(); i++) {
-            if (characterName.get(i).toLowerCase().equals(name.toLowerCase())) {
+            if (characterName.get(i).equalsIgnoreCase(name)) {
                 return i;
             }
         }

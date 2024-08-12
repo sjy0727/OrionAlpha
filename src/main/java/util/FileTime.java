@@ -102,7 +102,7 @@ public class FileTime {
     }
     
     public void add(long nType, long liValue) {
-        Long tTime = nType * liValue;
+        long tTime = nType * liValue;
         tTime += getFileTime();
         
         highDateTime = (int) (tTime >> 32 & 0xFFFFFFFFL);
@@ -143,10 +143,10 @@ public class FileTime {
     
     public static FileTime getStringToFileTime(String date, boolean start) {
         if (date != null && !date.isEmpty()) {
-            int year = Integer.valueOf(date.substring(0, 4));
-            int month = Integer.valueOf(date.substring(4, 6));
-            int day = Integer.valueOf(date.substring(6, 8));
-            int hour = Integer.valueOf(date.substring(8, 10));
+            int year = Integer.parseInt(date.substring(0, 4));
+            int month = Integer.parseInt(date.substring(4, 6));
+            int day = Integer.parseInt(date.substring(6, 8));
+            int hour = Integer.parseInt(date.substring(8, 10));
             SystemTime st = new SystemTime();
             st.setYear(year);
             st.setMonth(month);
@@ -173,13 +173,7 @@ public class FileTime {
     }
     
     public static int compareFileTime(FileTime fileTime1, FileTime fileTime2) {
-        if (fileTime1.getFileTime() < fileTime2.getFileTime()) {
-            return -1;
-        } else if (fileTime1.getFileTime() > fileTime2.getFileTime()) {
-            return 1;
-        } else {
-            return 0;
-        }
+        return Long.compare(fileTime1.getFileTime(), fileTime2.getFileTime());
     }
     
     @Override

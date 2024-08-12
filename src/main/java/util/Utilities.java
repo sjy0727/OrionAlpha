@@ -45,8 +45,8 @@ public class Utilities {
      */
     public static String toHexString(byte[] buf) {
         StringBuilder str = new StringBuilder();
-        for (int i = 0; i < buf.length; i++) {
-            int b = buf[i] & 0xFF;
+        for (byte value : buf) {
+            int b = value & 0xFF;
             if (b < 0x10)
                 str.append('0');
             str.append(Integer.toHexString(b).toUpperCase());
@@ -68,13 +68,13 @@ public class Utilities {
         if (addr.length() < "0.0.0.0".length()) {
             return 0;
         }
-        Long netaddr = 0L;
+        long netaddr = 0L;
         String[] ip = addr.split("\\.");
 
         for (int i = 0; i < 4; i++) {
             netaddr += Long.parseLong(ip[i]) << (i << 3);
         }
-        return netaddr.intValue();
+        return (int) netaddr;
     }
 
     /**

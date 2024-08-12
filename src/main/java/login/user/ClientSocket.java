@@ -523,9 +523,8 @@ public class ClientSocket extends SimpleChannelInboundHandler {
             if (this.channel == null || buff == null || buff.isEmpty()) {
                 throw new RuntimeException("fuck everything");
             }
-            Iterator<byte[]> t = buff.iterator();
-            while (t.hasNext()) {
-                this.channel.write(t.next());
+            for (byte[] bytes : buff) {
+                this.channel.write(bytes);
             }
             this.channel.flush();
         } finally {
