@@ -127,11 +127,11 @@ public class Database extends UnifiedDB {
                             query = query.substring(query.indexOf("UPDATE"));
 
                         // Begin the new query, starting by converting an update to an insert
-                        String newQuery = query.replaceAll("UPDATE", "INSERT INTO");
+                        StringBuilder newQuery = new StringBuilder(query.replaceAll("UPDATE", "INSERT INTO"));
 
                         // Substring the FRONT rows (prior to WHERE condition)
                         String rows;
-                        if (newQuery.contains("WHERE"))
+                        if (newQuery.toString().contains("WHERE"))
                             rows = newQuery.substring(newQuery.indexOf("SET ") + "SET ".length(), newQuery.indexOf("WHERE "));
                         else
                             rows = newQuery.substring(newQuery.indexOf("SET ") + "SET ".length());
@@ -140,7 +140,7 @@ public class Database extends UnifiedDB {
                         // Not all queries perform an UPDATE with a WHERE condition, allocate empty back rows
                         String[] backRows = { };
                         // If the query does contain a WHERE condition, parse the back rows (everything after WHERE)
-                        if (newQuery.contains("WHERE")) {
+                        if (newQuery.toString().contains("WHERE")) {
                             rows = newQuery.substring(newQuery.indexOf("WHERE ") + "WHERE ".length());
                             backRows = rows.replaceAll(" = \\? AND ", ", ").replaceAll(" = \\?", ", ").split(", ");
                         }
@@ -150,24 +150,24 @@ public class Database extends UnifiedDB {
                         System.arraycopy(backRows, 0, rowData, frontRows.length, backRows.length);
 
                         // Begin transforming the query - clear the rest of the string, transform to (Col1, Col2, Col3)
-                        newQuery = newQuery.substring(0, newQuery.indexOf("SET "));
-                        newQuery += "(";
+                        newQuery = new StringBuilder(newQuery.substring(0, newQuery.indexOf("SET ")));
+                        newQuery.append("(");
                         for (String row : rowData) {
-                            newQuery += row + ", ";
+                            newQuery.append(row).append(", ");
                         }
                         // Trim the remaining , added at the end of the last column
-                        newQuery = newQuery.substring(0, newQuery.length() - ", ".length());
+                        newQuery = new StringBuilder(newQuery.substring(0, newQuery.length() - ", ".length()));
 
                         // Begin appending the VALUES(?, ?) for the total size there is rows
-                        newQuery += ") VALUES(";
+                        newQuery.append(") VALUES(");
                         for (String row : rowData) {
-                            newQuery += "?, ";
+                            newQuery.append("?, ");
                         }
                         // Trim the remaining , added at the end of the last column
-                        newQuery = newQuery.substring(0, newQuery.length() - ", ".length());
-                        newQuery += ")";
+                        newQuery = new StringBuilder(newQuery.substring(0, newQuery.length() - ", ".length()));
+                        newQuery.append(")");
                         
-                        return execute(con, con.prepareStatement(newQuery), commands);
+                        return execute(con, con.prepareStatement(newQuery.toString()), commands);
                     }
                 }
                 return rowsAffected;

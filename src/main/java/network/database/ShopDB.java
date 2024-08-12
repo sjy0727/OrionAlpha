@@ -184,22 +184,22 @@ public class ShopDB {
 
     public static void rawUpdateItemLocker(int characterID, List<CashItemInfo> cashItemInfo) {
         try (Connection con = Database.getDB().poolConnection()) {
-            String removeCashSN = "";
+            StringBuilder removeCashSN = new StringBuilder();
             try (PreparedStatement ps = con.prepareStatement("UPDATE `itemlocker` SET `AccountID` = ?, `CharacterID` = ?, `ItemID` = ?, `CommodityID` = ?, `Number` = ?, `BuyCharacterName` = ?, `ExpiredDate` = ? WHERE `CashItemSN` = ?")) {
                 for (CashItemInfo cashInfo : cashItemInfo) {
                     if (cashInfo != null) {
                         if (cashInfo.getCashItemSN() != 0) {
-                            removeCashSN += cashInfo.getCashItemSN() + ", ";
+                            removeCashSN.append(cashInfo.getCashItemSN()).append(", ");
                         }
                         Database.execute(con, ps, cashInfo.getAccountID(), cashInfo.getCharacterID(), cashInfo.getItemID(), cashInfo.getCommodityID(), cashInfo.getNumber(), cashInfo.getBuyCharacterName(), cashInfo.getDateExpire().fileTimeToLong(), cashInfo.getCashItemSN());
                     }
                 }
             }
-            if (removeCashSN.isEmpty()) {
+            if (removeCashSN.length() == 0) {
                 return;//wouldn't want to kill their inventory ;)
             }
             String query = "DELETE FROM `itemlocker` WHERE `CharacterID` = ?";
-            if (!removeCashSN.isEmpty()) {
+            if (removeCashSN.length() > 0) {
                 query += String.format(" AND `CashItemSN` NOT IN (%s)", removeCashSN.substring(0, removeCashSN.length() - 2));
             }
             try (PreparedStatement ps = con.prepareStatement(query)) {
