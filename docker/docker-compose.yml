@@ -1,0 +1,109 @@
+version: '3'
+services:
+  #  OrionAlpha:
+  #    container_name: orion-server
+  #    build:
+  #      context: ../
+  #      dockerfile: ./docker/Dockerfile
+  #    depends_on:
+  #      db:
+  #        condition: service_healthy
+  #    ports:
+  #      - "8383:8383"
+  #      - "8484:8484"
+  #      - "8585:8585"
+  #      - "8686:8686"
+  #      - "8787:8787"
+  #      - "8888:8888"
+  ##      # Login server
+  ##      - "8484:8484"
+  ##      # Channels.
+  ##      - "7575-7577:7575-7577"
+  #    volumes:
+  #      - ../data:/opt/server/data
+  #      - ../sql:/opt/server/sql
+
+  game:
+    container_name: orion-game
+    build:
+      context: ../
+      dockerfile: ./docker/Dockerfile
+    depends_on:
+      - login
+    ports:
+      - "8585:8585"
+      - "8686:8686"
+    environment:
+      - MAIN_CLASS=game.GameApp
+      - SERVICE_OPTS="-DgameID=0 -Dwzpath=data/"
+    volumes:
+      - ../data:/opt/server/data
+      - ../sql:/opt/server/sql
+
+  login:
+    container_name: orion-login
+    build:
+      context: ../
+      dockerfile: ./docker/Dockerfile
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8484:8484"
+    environment:
+      - MAIN_CLASS=login.LoginApp
+      - SERVICE_OPTS="-Dwzpath=data/"
+    volumes:
+      - ../data:/opt/server/data
+      - ../sql:/opt/server/sql
+
+  shop:
+    container_name: orion-shop
+    build:
+      context: ../
+      dockerfile: ./docker/Dockerfile
+    depends_on:
+      - game
+    ports:
+      - "8787:8787"
+      - "8888:8888"
+    environment:
+      - MAIN_CLASS=shop.ShopApp
+      - SERVICE_OPTS="-Dwzpath=data/"
+    volumes:
+      - ../data:/opt/server/data
+      - ../sql:/opt/server/sql
+
+  #  db:
+  #    image: mariadb:latest
+  #    environment:
+  #      MYSQL_ROOT_PASSWORD: "root"
+  #    ports:
+  #      - "3306:3306"
+  #    volumes:
+  #      - ./docker-db-data:/var/lib/mysql
+
+  db:
+    container_name: orion-db
+    image: mariadb:latest
+    #    restart: unless-stopped
+    volumes:
+      - ./docker-db-data:/var/lib/mysql
+    #      - "./mysql/my.cnf:/etc/mysql/my.cnf"
+    #      - "./mysql/data:/var/lib/mysql"
+    #      - "./mysql/mysql-files:/var/lib/mysql-files"
+    #        - "./sql:/docker-entrypoint-initdb.d"  # 挂载SQL脚本目录到`docker-entrypoint-initdb.d`
+    environment:
+      TZ: Asia/Shanghai
+      LANG: en_US.UTF-8
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: orionalpha         # 设置初始化数据库名称
+    healthcheck:
+      test: [ "CMD","mysqladmin","ping","-h","localhost","-uroot","-proot" ]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    ports:
+      - "3306:3306"
+#      command: [ "sh", "-c", "mysql -u$MYSQL_USER -p$MYSQL_PASSWORD $MYSQL_DATABASE < /docker-entrypoint-initdb.d/OrionAlpha.sql && mysql -u$MYSQL_USER -p$MYSQL_PASSWORD $MYSQL_DATABASE < /docker-entrypoint-initdb.d/friends.sql && mysql -u$MYSQL_USER -p$MYSQL_PASSWORD $MYSQL_DATABASE < /docker-entrypoint-initdb.d/pets.sql && mysql -u$MYSQL_USER -p$MYSQL_PASSWORD $MYSQL_DATABASE < /docker-entrypoint-initdb.d/shop.sql" ]
+
